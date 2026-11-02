@@ -22,7 +22,6 @@ station,Clapham South,51.4528372,-0.1475523
 station,Redbridge,51.5763203,0.0454097
 pharmacy,V E Lettsom Pharmacy,51.470918,-0.0823783
 station,Hendon,51.5802174,-0.2388805
-gym,Queensbridge Sports & Community Centre,51.5422368,-0.071346
 station,Old Street,51.5256284,-0.0876094
 station,King's Cross St Pancras,51.530609,-0.1239491
 cafe,The Serpentine Lido Cafe,51.5046688,-0.1696555
@@ -32,7 +31,7 @@ station,Stockwell,51.472211,-0.1225014
 station,Arsenal,51.5583839,-0.1074866
 cafe,Beans & Beyond,51.5246924,-0.0752813
 supermarket,Tesco,51.4533735,-0.1467756
-cafe,Kalendar,51.5620412,-0.1496786
+cafe,Cricks,51.5620412,-0.1496786
 supermarket,Co-op Food,51.5256052,-0.0905348
 pharmacy,Kamsons Pharmacy,51.465528,-0.1361307
 pharmacy,Pearl Pharmacy,51.4642728,-0.1310695
@@ -42,7 +41,6 @@ supermarket,Lidl,51.532981,-0.0802413
 pharmacy,Boots,51.5787615,-0.1240166
 starbucks,Starbucks,51.5786546,-0.1240474
 pharmacy,Petter Pharmacy,51.5800874,-0.1240567
-pharmacy,Superdrug,51.5145339,-0.0981903
 pharmacy,DMB Chemist,51.5141644,-0.0568886
 gym,Queens Skate Dine Bowl,51.5108972,-0.1873387
 pharmacy,Nashi Pharmacy,51.5154107,-0.1907156
@@ -87,7 +85,7 @@ cafe,Twists Sandwich Bar,51.5005539,-0.0914286
 pharmacy,Alisha Pharmacy,51.5017624,-0.2656072
 gym,,51.4995651,-0.2645088
 station,Beckton Park,51.5087601,0.0549426
-cafe,Black Cat Cafe,51.5513745,-0.0555368
+cafe,Black Cat Cafe,51.5513731,-0.0555097
 cafe,Café on the Hill,51.4548973,-0.1193419
 pharmacy,Day Lewis Pharmacy,51.454244,-0.1202675
 cafe,Café Tana,51.4547019,-0.1199703
@@ -114,12 +112,11 @@ cafe,Saponara,51.5369333,-0.0962864
 gym,Dolphin Square Fitness Club,51.4868277,-0.1363491
 cafe,Caffe Deniro,51.5009039,-0.1037432
 cafe,Masters,51.5012746,-0.1049059
-starbucks,Starbucks,51.5322618,-0.1064336
 cafe,The Shepherdess,51.5283695,-0.0916174
 pharmacy,Boots,51.5251912,-0.1798385
 cafe,Costa,51.5140415,-0.1256046
 pharmacy,Holborn Pharmacy,51.5199062,-0.1219873
-cafe,Venti Cafe,51.5453408,0.004369
+cafe,Bunz,51.5453408,0.004369
 cafe,Taxi Driver's Cafe,51.5099573,-0.1979637
 gym,Bannatyne Health Club,51.5243645,-0.1278575
 supermarket,Sriracha Market,51.4932737,-0.2395565
@@ -131,6 +128,7 @@ cafe,Echo Expresso,51.4843489,-0.0935555
 pharmacy,Superdrug,51.4853896,-0.0936964
 gym,London Lifestyle Academy,51.4899057,-0.191566
 cafe,Pavillion Cafe,51.5823256,-0.1498519
+pharmacy,Devs Chemist,51.5597897,-0.1155061
 pharmacy,Clan Pharmacy,51.5401675,-0.1027719
 supermarket,Budgens,51.5435891,-0.1034635
 cafe,Urban Social Coffee,51.5447415,-0.1035748
@@ -157,7 +155,7 @@ cafe,Costa,51.5175712,-0.1200835
 cafe,Guido's,51.5160246,-0.1190342
 cafe,Caffè Nero,51.516089,-0.119735
 cafe,Espresso House,51.51825,-0.120913
-supermarket,Longdan,51.5684253,-0.0246506
+supermarket,Longdan Leyton,51.5684253,-0.0246506
 cafe,Sawyer & Gray,51.5462673,-0.1011388
 cafe,Friendly Cafe,51.5338257,0.0597155
 cafe,Gadz,51.5655171,-0.1077767
@@ -166,9 +164,9 @@ cafe,One Way Cafe,51.5613167,-0.1124838
 cafe,Olive,51.4775336,-0.2104769
 cafe,Cafe Plum,51.4786408,-0.2113074
 cafe,One root bakery,51.5560511,-0.0982362
+cafe,Artiser,51.5402302,-0.1027841
 cafe,The Corner Cafe,51.4957752,-0.1152396
 cafe,Jen Tea,51.5181847,-0.0776879
-cafe,BBH,51.5479589,-0.1064898
 cafe,The Hope,51.5482419,-0.1069032
 cafe,Vagabond N7,51.5481202,-0.1067398
 cafe,High Ground,51.5398018,-0.1022652
@@ -216,11 +214,11 @@ cafe,Os Golfinhos,51.471749,-0.135588
 cafe,Solneve Cafe,51.4706364,-0.1382787
 cafe,Savoy Cafe,51.4708182,-0.1382967
 cafe,Uncle Tom's Cabin,51.4704996,-0.1390395
+cafe,Cocomelt,51.5143782,-0.1345304
 cafe,Cafe N5,51.5574006,-0.098027
 cafe,Franks,51.5573451,-0.0979895
 cafe,English Rose,51.4980972,-0.1444736
 cafe,Le Signore,51.4990311,-0.1428822
-cafe,Ravello,51.4949639,-0.1270355
 starbucks,Starbucks,51.5252013,-0.1281271
 starbucks,Starbucks,51.516674,-0.129274
 cafe,flavours,51.5580251,-0.1319987
@@ -253,6 +251,7 @@ cafe,Nur Cafe,51.5542779,-0.2122005
 pharmacy,Lever Medical Centre,51.5537903,-0.2117196
 cafe,Cafe Guzel,51.5533653,-0.2117082
 cafe,Momtaz Shisha Cafe,51.5532454,-0.2110769
+cafe,Zombie Games Cafe,51.5526563,-0.2108105
 pharmacy,Green Light Pharmacy,51.5526155,-0.2102876
 supermarket,Lina Food Centre,51.5328914,0.0059555
 cafe,Pimlico BBQ and Cafe,51.4898192,-0.1352027
@@ -280,7 +279,6 @@ cafe,TomTom Coffee House,51.4934413,-0.1503154
 cafe,The Black Penny,51.4916626,-0.1580309
 cafe,Hiland,51.5320877,-0.0344133
 cafe,Coffee by Real Eating Co,51.4909415,-0.1613428
-cafe,Coffee by Real Eating Co,51.5142471,-0.1596019
 supermarket,Green Valley,51.5151994,-0.1622861
 supermarket,Waitrose,51.506411,-0.2191224
 starbucks,Starbucks,51.5102976,-0.1391473
@@ -318,7 +316,7 @@ gym,Nuffield Health Fitness & Wellbeing,51.5371752,-0.101612
 starbucks,Starbucks,51.4856774,-0.1235909
 supermarket,Spar,51.4993973,-0.113791
 supermarket,Kollos Supermarket,51.5634509,-0.0728931
-cafe,,51.5377299,-0.0996641
+cafe,The Mokapot House,51.5377299,-0.0996641
 cafe,Caffè Nero,51.4932526,-0.2237089
 supermarket,Sainsbury's,51.547484,-0.0732063
 cafe,The Espresso Room,51.5218751,-0.1199724
@@ -347,7 +345,7 @@ cafe,La Forchetta,51.5193252,-0.1075476
 cafe,Bicafe,51.5198485,-0.1071526
 gym,,51.4650975,0.0085621
 pharmacy,Gate Pharmacy,51.5004981,-0.2265854
-cafe,Costa,51.52996,-0.1244199
+cafe,Costa,51.5300206,-0.1243694
 cafe,Caffè Nero,51.5072772,-0.1283651
 station,Finsbury Park,51.5648345,-0.1064144
 starbucks,Starbucks,51.5158451,-0.1762672
@@ -489,6 +487,7 @@ cafe,,51.575544,-0.223581
 pharmacy,Akshar Pharmacies,51.5608771,-0.2065875
 cafe,,51.5711569,-0.1936139
 cafe,,51.5603714,-0.2077613
+cafe,Cafe La Tulipe,51.4812594,-0.1978032
 cafe,Union Cafe,51.5034445,-0.101859
 gym,The Ring,51.5039916,-0.1011392
 pharmacy,Vitellow Pharmacy,51.4805771,-0.1140656
@@ -501,8 +500,9 @@ cafe,Santa Nata,51.5110536,-0.1261615
 cafe,Knoops,51.5110073,-0.1266394
 cafe,Cafe Toscana,51.52422,-0.127635
 pharmacy,Hayward Pharmacy,51.5776648,-0.1475048
-cafe,Brood Roastery,51.5389636,-0.098812
-cafe,Café Olé,51.4816409,-0.1992417
+gym,Club Pilates,51.4822863,-0.1998495
+supermarket,Tipaza 2,51.481848,-0.1994719
+cafe,Café Olé,51.4816337,-0.1992309
 cafe,People's Choice,51.5411879,-0.0942431
 cafe,Piero Maurizaio,51.539411,-0.101389
 pharmacy,Pharmacyrepublic,51.5537419,-0.1623904
@@ -549,12 +549,13 @@ cafe,Cinnamon Village,51.5554062,-0.1392203
 cafe,Haven Youth Cafe,51.5427766,-0.1445742
 cafe,Seventy nine,51.541376,-0.1573432
 cafe,L' Absinthe,51.5402019,-0.1542648
+cafe,Arvo,51.5407473,-0.1577218
 cafe,Le Tea Cosy,51.5406548,-0.1577484
 cafe,Costa,51.5831633,-0.2268526
 supermarket,Iceland,51.5612397,-0.2524358
 cafe,,51.5134576,-0.2275196
 gym,Barry's,51.5107279,-0.187294
-supermarket,Smart,51.5109354,-0.1869563
+supermarket,Smart,51.5108852,-0.1869387
 cafe,Caffè Nero,51.5037252,0.0500706
 cafe,The Hill Station,51.4678714,-0.0448881
 cafe,Joe & The Juice,51.5113478,-0.1257277
@@ -585,8 +586,7 @@ pharmacy,Rohpharm Pharmacy,51.5619413,0.0679779
 pharmacy,Seymour Pharmacy,51.5191279,-0.1636383
 cafe,Fed & Watered,51.5088022,-0.2653843
 gym,The Circle Gym and Spa,51.5015386,-0.0745587
-cafe,Del'Aziz,51.4810119,-0.1978916
-gym,PureGym,51.4806815,-0.1975072
+gym,PureGym,51.48056,-0.1976078
 cafe,Le Bistro,51.5164286,-0.1874496
 gym,Slim Jim's,51.5197284,-0.0850676
 cafe,Costa,51.4638291,-0.1693406
@@ -610,8 +610,7 @@ cafe,Alauddin Sweets,51.5144531,-0.0555297
 cafe,Costa,51.4970389,-0.1411462
 starbucks,Starbucks,51.494309,-0.1468458
 supermarket,Aldi,51.5479103,-0.1809041
-gym,Hello Yoga Studio & Fair-Well Shop,51.5632666,-0.1179981
-cafe,Jungle Rumble,51.5639971,-0.1187879
+gym,Hello Yoga Studio & Fair-Well Shop,51.5632464,-0.1179829
 station,Harringay,51.5775578,-0.1052701
 cafe,WA Bakery,51.5178173,-0.1516381
 station,Baker Street,51.5225853,-0.1567431
@@ -629,11 +628,10 @@ cafe,Internet Café @ Victoria,51.4961503,-0.1422025
 cafe,,51.5673962,-0.1994638
 gym,PureGym,51.4603329,-0.2140768
 cafe,Cafe del Marsh,51.5014517,-0.1111478
-cafe,Arturos,51.4828372,-0.2116419
 cafe,Blank Street Coffee,51.5147303,-0.0962884
 cafe,Lauderdale House Cafe,51.5692363,-0.1435013
-cafe,The Georgian,51.4521568,-0.1475348
 cafe,The Pepper Tree,51.4610354,-0.138659
+cafe,Naked Rabbit,51.4608203,-0.1390446
 cafe,Sequoia Lounge,51.4537243,-0.1463492
 cafe,Costa,51.4526355,-0.1473026
 cafe,21 Grams,51.4539561,-0.1461343
@@ -655,6 +653,7 @@ pharmacy,Day Lewis Pharmacy,51.572437,-0.0723723
 cafe,Ground Control,51.5297854,-0.1106374
 cafe,Coffee Berry,51.5346714,-0.1115691
 cafe,The Electric Elephant Cafe & Gallery,51.4896463,-0.099337
+gym,Get Set Swim,51.4808137,-0.1982528
 cafe,Caffè Nero,51.4932481,-0.1816393
 cafe,elixis,51.4931719,-0.1815662
 pharmacy,Bliss Pharmacy,51.4937648,-0.1819767
@@ -689,8 +688,7 @@ station,East Acton,51.5173451,-0.248137
 cafe,Merkato,51.5364116,-0.1164148
 supermarket,Village wholefoods,51.5367562,-0.1163324
 cafe,internet cafe,51.5366562,-0.1163601
-cafe,Ollie's Cafe,51.559576,-0.1159479
-cafe,mooboo,51.5579738,-0.1188922
+cafe,Ollie's Cafe,51.5595618,-0.1159315
 pharmacy,Britannia Pharmacy,51.5089138,-0.0097939
 cafe,Poplar Cafe,51.5089027,-0.0100367
 cafe,Jels Cafe,51.5628388,-0.1976312
@@ -698,19 +696,18 @@ cafe,,51.5576063,-0.2132883
 supermarket,Co-op Food,51.5572104,-0.2150974
 cafe,W10 Coffee,51.5262527,-0.2067282
 pharmacy,Vicarage Pharmacy,51.5416928,0.0099023
-pharmacy,,51.5431024,0.026359
+pharmacy,day lewis,51.5431024,0.026359
 station,Snaresbrook,51.5808033,0.0215864
 cafe,Curious Yellow Kafe,51.5296588,-0.0836722
 cafe,Costa,51.4965031,-0.2067533
 pharmacy,H Lloyd Chemist,51.4964602,-0.2068679
-pharmacy,,51.4570488,-0.0249231
+pharmacy,Ladywell Pharmacy,51.4570488,-0.0249231
 cafe,Cafe Roma,51.4911816,-0.1730705
 cafe,Kibco coffee,51.5358008,-0.1165392
 cafe,Heavenly Desserts,51.5222036,-0.1581626
 cafe,Goswells Eatery,51.5290448,-0.1012779
 cafe,Leila's Cafe,51.5262009,-0.0755353
 cafe,Bagel Master,51.530736,-0.0767647
-gym,Goldsmiths Gym,51.4730736,-0.0374306
 supermarket,Dacha Russian and Eastern European Shop,51.5819338,-0.1586196
 cafe,Tinto Coffee,51.4738155,-0.2129052
 station,Bank,51.5131048,-0.0893749
@@ -720,15 +717,12 @@ cafe,Costa,51.5013267,0.0052987
 station,Barons Court,51.4903477,-0.2144055
 pharmacy,,51.5342277,-0.138497
 cafe,PSH Cafe,51.4725537,-0.0369547
-cafe,Costa,51.4742917,-0.0360462
 gym,BodyJunkies,51.5517187,-0.1114189
 cafe,The Crown,51.5517598,-0.1115331
 cafe,The Pantry Cafe,51.5382846,-0.0013168
 cafe,The Place To Eat,51.5255859,-0.2116105
-cafe,City Walk Cafe,51.475369,-0.0389552
 supermarket,Sainsbury's,51.4808003,-0.195038
-pharmacy,Boots,51.480676,-0.1942103
-starbucks,Starbucks,51.4802985,-0.1945777
+starbucks,Starbucks,51.48028,-0.194531
 station,Angel,51.5324874,-0.1060356
 station,Camden Town,51.5394397,-0.1426957
 station,Highgate,51.5776825,-0.1458316
@@ -738,15 +732,14 @@ station,Hendon Central,51.5834006,-0.2265541
 cafe,Kioskafé,51.5168114,-0.172688
 cafe,1st Class Cafe,51.524204,-0.1112791
 starbucks,Starbucks,51.4769143,-0.0422939
-pharmacy,Queens Road Pharmacy,51.4742473,-0.047161
-cafe,Thirty Five,51.4743186,-0.0359526
+cafe,Thirty Five,51.4744312,-0.03556
 cafe,City Cafe,51.5111081,-0.0781623
 station,Brent Cross,51.5768177,-0.2139731
 cafe,The Courts Café at Hyde Park,51.5025068,-0.1737433
 cafe,The Boat House,51.5057422,-0.163075
 pharmacy,Boots,51.4846711,-0.2201265
 pharmacy,Boots,51.5268686,-0.0596648
-cafe,Caffè Nero,51.4805189,-0.1980349
+cafe,Caffè Nero,51.4805105,-0.1980336
 pharmacy,Britannia Pharmacy,51.4940774,-0.0123427
 cafe,Asda Café,51.4939021,-0.012568
 pharmacy,Allen's Pharmacy,51.4983172,-0.0107737
@@ -756,7 +749,7 @@ cafe,Etsu Cafe,51.5109264,-0.0945923
 gym,Nuffield Health Fitness & Wellbeing,51.5096752,-0.0914835
 gym,,51.4965953,-0.0861615
 supermarket,Asda,51.5828635,-0.0247563
-cafe,T4 Tea For U,51.5841268,-0.0242281
+cafe,T4 Tea For U,51.5841036,-0.0241995
 cafe,Honey & Co. Daily,51.5197922,-0.1320414
 pharmacy,Pepys Pharmacy,51.4895778,-0.0350075
 cafe,Costa,51.4641148,-0.1702442
@@ -780,7 +773,6 @@ cafe,Caffè Nero,51.4850702,-0.2202493
 cafe,Aya & Suki,51.5371985,-0.0612149
 gym,Clapham Leisure Centre,51.464146,-0.1347851
 cafe,Cafe Barts,51.5179036,-0.0995562
-cafe,Nosh Cafe,51.5171313,-0.1073528
 cafe,Paradiso Desi,51.5598641,-0.1144434
 cafe,elian's corner,51.5597008,-0.1142701
 pharmacy,Kembers & Lawrence,51.474712,-0.0934079
@@ -809,7 +801,7 @@ cafe,Shepherds Hall,51.498058,-0.119787
 cafe,Caffè Nero,51.513443,-0.1179483
 cafe,Black Sheep Coffee,51.4586808,-0.1663648
 gym,The Vault Gym,51.5235775,-0.0839076
-cafe,The Nile Cafe,51.5294466,-0.0877378
+cafe,The Nile Cafe,51.5294954,-0.0877365
 gym,Aqua East,51.5068236,0.0682957
 cafe,Costa,51.5073834,0.0634557
 cafe,,51.5076471,0.062605
@@ -848,7 +840,6 @@ cafe,沪上阿姨 Auntea Jenny,51.5119612,-0.133575
 cafe,Coco Playa,51.5119234,-0.1335405
 cafe,Waterloo Café,51.503752,-0.110042
 cafe,Caffè Nero,51.5084102,-0.1084814
-pharmacy,Bentley's Chemist,51.4545358,-0.0376337
 cafe,Fred's,51.4549913,-0.0373054
 cafe,Arlo & Moe,51.4557191,-0.0367748
 cafe,Café Crofton Park,51.4544818,-0.0372683
@@ -879,6 +870,7 @@ supermarket,Wing Yip,51.5672269,-0.2291356
 gym,The Gym,51.5764229,-0.0976492
 cafe,River Cafe,51.4679626,-0.2092642
 cafe,WatchHouse,51.514426,-0.1608665
+cafe,,51.5150069,-0.1582745
 station,Edgware Road,51.5201935,-0.1667636
 supermarket,Cumberland Food & Wine,51.5140743,-0.1594742
 cafe,Chalet Cafe,51.5346188,-0.0771891
@@ -893,6 +885,7 @@ supermarket,Euromax Market,51.5841458,-0.100231
 pharmacy,Green Light Pharmacy & Travel Clinic,51.5819538,-0.099434
 gym,Legends Gym,51.5829818,-0.0995108
 pharmacy,Stearns Pharmacy,51.5832036,-0.1000283
+cafe,Postmark Cafe,51.5661371,-0.1213124
 gym,The Manor LDN,51.5654484,-0.1076602
 cafe,,51.5657487,-0.1084111
 cafe,Imax Cafe,51.5047874,-0.1133912
@@ -903,10 +896,8 @@ cafe,Coffee Island,51.4826195,-0.0188905
 pharmacy,Rose Pharmacy,51.4808338,-0.0208154
 supermarket,Waitrose,51.4823416,-0.0155843
 starbucks,Coffee & Real eating co.,51.5088581,-0.1252964
-pharmacy,Superdrug,51.514388,-0.0858098
 gym,Bannatyne's Health Club,51.5148938,-0.0841972
 cafe,Ottoemezzo,51.5004367,-0.1882937
-cafe,Le Croissant D'or,51.559471,-0.1166063
 station,Kidbrooke,51.4620317,0.0279002
 pharmacy,Langthorne Pharmacy,51.5553975,0.0022077
 gym,Total Chi Yoga,51.5238603,-0.1585197
@@ -928,7 +919,7 @@ station,Wandsworth Road,51.4699602,-0.1384355
 station,Clapham High Street,51.4654853,-0.1323141
 station,Hoxton,51.5315917,-0.0756539
 station,Queens Road Peckham,51.4741117,-0.0570532
-cafe,Love Coffee,51.5446867,-0.0085927
+cafe,Baker + Bristas - Love Coffee!,51.5446867,-0.0085927
 cafe,Honest Tom's,51.4559448,-0.1503262
 cafe,Zen Cafe,51.5029422,-0.1192022
 cafe,Paper & Cup,51.5262152,-0.0768401
@@ -949,8 +940,8 @@ cafe,Delicio,51.4505598,0.0539727
 cafe,Tasty Cafe,51.4504106,0.0543143
 gym,MMA Fitness Gym,51.4502183,0.0535802
 cafe,Raymonds Pie & Mash,51.4499518,0.053974
+cafe,Muffin Break,51.4505757,0.054343
 starbucks,Starbucks,51.4949073,-0.1431075
-cafe,knot,51.4951336,-0.1438213
 gym,Sadhana Yoga & Wellbeing,51.4614942,-0.173496
 cafe,Brickwood,51.4611666,-0.138402
 pharmacy,Nuchem Pharmacy,51.5700504,-0.1141599
@@ -977,7 +968,7 @@ cafe,Sunflower Cafe,51.5134089,-0.1421937
 cafe,Chloe's Espresso,51.5432724,-0.1549642
 cafe,Wellcome Collection Cafe,51.5259157,-0.1339734
 supermarket,Londis,51.5291262,-0.1445504
-cafe,London Review Cake Shop,51.5185621,-0.1242655
+cafe,St. JOHN Bakery and Wine,51.5185621,-0.1242655
 gym,Westminster School Sports Centre,51.4949581,-0.1339195
 cafe,Redemption Roasters,51.5168321,-0.1189284
 cafe,Patisserie Deux Amis,51.5266637,-0.1242588
@@ -995,7 +986,7 @@ starbucks,Starbucks,51.5160723,-0.0872808
 gym,The Third Space,51.5112598,-0.1357352
 cafe,Costa,51.5191859,-0.0888924
 cafe,Kennington Lane Kebab,51.4860687,-0.1210729
-cafe,Motown Desserts,51.5170203,-0.0641429
+cafe,Motown Desserts,51.5170103,-0.0641161
 pharmacy,Boots,51.4645132,-0.2382284
 gym,The Gym Group London Vauxhall,51.485212,-0.126699
 cafe,Den London,51.48673,-0.2211518
@@ -1059,7 +1050,7 @@ cafe,,51.5252582,-0.1395205
 cafe,Speedy's,51.52619,-0.1369017
 supermarket,Lidl,51.564695,-0.2639412
 cafe,SOHO Coffee co.,51.5157413,-0.0857481
-cafe,Plein Air Cafe,51.5235886,-0.1415746
+cafe,Farmhouse Kitchen,51.5235886,-0.1415746
 gym,Fitness First,51.5150418,-0.0829711
 cafe,Costa,51.4593799,-0.2114039
 cafe,,51.5312276,-0.0760972
@@ -1073,7 +1064,7 @@ cafe,Moonstar Cafe,51.4801071,-0.1115892
 cafe,,51.5206485,-0.1217884
 cafe,Marie Stopes Cafe,51.4538438,-0.1193391
 gym,Semokwan Hapkido Academy,51.4549318,-0.1415387
-cafe,Soho Grind,51.5121402,-0.1383013
+cafe,Soho Grind,51.5121301,-0.1382901
 gym,Cyclebeat,51.5116036,-0.0862991
 cafe,The Ragged Canteen At Beaconsfield,51.492093,-0.118698
 gym,Anytime Fitness,51.5314141,-0.1031605
@@ -1096,7 +1087,6 @@ cafe,Joe & The Juice,51.5167676,-0.1284675
 cafe,Costa,51.5167554,-0.1285798
 cafe,Blank Street Coffee,51.5166847,-0.1291004
 cafe,Pottery Café,51.4554202,-0.164577
-cafe,Little Bianca,51.4558379,-0.1652889
 cafe,Nha-Mor,51.5189094,-0.0763882
 cafe,The Grand Caffè,51.5078159,-0.1265174
 cafe,Love Brownies Clapham JCT,51.4615019,-0.1672628
@@ -1126,19 +1116,18 @@ gym,Westway Sports & Fitness,51.5182897,-0.2084052
 cafe,Costa,51.5173668,-0.0827717
 gym,Virgin Active,51.5480259,-0.181497
 supermarket,Pricewise Food & Wine,51.5470224,-0.179954
-cafe,Nomad Books Café,51.4763947,-0.2041522
 cafe,The Place Café,51.5272529,-0.1291011
 cafe,Olivia,51.5575624,-0.0901679
 cafe,Attendant,51.5212703,-0.0789223
 cafe,Four Corners,51.4997069,-0.1137849
 cafe,Dobar,51.5714342,-0.0961337
-cafe,Crunch,51.452974,-0.1040876
+cafe,FusionX3,51.4529874,-0.1040715
 cafe,Black Sheep Coffee,51.4930058,-0.1490416
 cafe,Iris & June,51.4967767,-0.1360237
 cafe,Cona,51.5197262,-0.1350801
 cafe,Flying Frenchman,51.5523095,-0.0854937
 gym,Sleven,51.4882486,-0.1226693
-pharmacy,the pharmacy,51.5079933,-0.1058549
+pharmacy,osbon pharmacy,51.5080016,-0.1061929
 pharmacy,Wandsworth Pharmacy,51.4535593,-0.1918413
 cafe,Sultans Cafe,51.4509478,-0.189846
 cafe,Costa,51.5288947,-0.1199935
@@ -1146,7 +1135,6 @@ cafe,Dark Habit Coffee,51.5368629,-0.2064328
 cafe,Liliana Coffee,51.5315013,-0.1207473
 cafe,Ikoi Japanese Cafe,51.5332685,-0.1187931
 gym,Fitness First,51.5112981,-0.0846292
-cafe,Sapore Coffee Bar,51.4989456,-0.0994588
 supermarket,Tesco Express,51.531313,-0.216861
 cafe,WatchHouse,51.5113252,-0.0829311
 gym,Fitness First,51.5369788,-0.2061844
@@ -1174,6 +1162,7 @@ cafe,Huguenots Rendezvous,51.4577377,-0.1836665
 cafe,Notes,51.5143931,-0.0985154
 cafe,Double Six Cafe,51.5295511,-0.1329833
 pharmacy,Evergreen Pharmacy,51.5295127,-0.1329262
+cafe,Caffe Concerto,51.5141057,-0.1485786
 starbucks,Starbucks,51.5005754,-0.1626011
 starbucks,Starbucks,51.5074067,-0.1425589
 starbucks,Starbucks,51.5139462,-0.149423
@@ -1213,7 +1202,6 @@ cafe,Il Molino,51.4716939,-0.167607
 supermarket,Aldi,51.5213413,-0.0752895
 cafe,Costa,51.521489,-0.0754491
 gym,Riverside Quarter Leisure Centre,51.4626065,-0.1973779
-cafe,But First Coffee,51.5775516,-0.10623
 cafe,Doctor Espresso,51.4678815,-0.209307
 cafe,The Knightsbridge Cafe,51.5018593,-0.1583079
 cafe,L'Eto,51.4987649,-0.1570479
@@ -1303,7 +1291,7 @@ cafe,Olli's,51.4814288,0.0442496
 pharmacy,Remedy's Pharmacy,51.5257621,-0.1786373
 cafe,With Jam And Bread,51.4569069,0.009144
 cafe,Emy's Kitchen,51.5706971,-0.1165449
-cafe,,51.5591345,-0.1210942
+cafe,Diwan Kitchen,51.5591345,-0.1210942
 pharmacy,Dillons Chemist,51.5237458,-0.2068848
 cafe,Joe & The Juice,51.5128474,-0.137915
 pharmacy,Day Lewis Pharmacy,51.4761036,-0.1060545
@@ -1314,8 +1302,11 @@ supermarket,Geranium,51.5198198,-0.0966905
 station,Elephant & Castle,51.4940431,-0.0987169
 station,Elephant & Castle,51.4948884,-0.1005731
 cafe,Caffè Nero,51.5257214,-0.1793645
-cafe,Pottery Cafe,51.4768365,-0.202479
-cafe,Riderepublic & Tanya's,51.4770442,-0.2019237
+gym,Heartcore,51.4769461,-0.2022062
+cafe,Spa & Massage,51.4770527,-0.2019463
+cafe,The Acai Girls,51.4771182,-0.2017873
+cafe,Stubby's,51.4762193,-0.2009821
+gym,Climbing Co Fulham,51.4763405,-0.199578
 station,London St. Pancras International,51.5327196,-0.1270027
 station,London Euston,51.5288526,-0.1341909
 station,Euston,51.5282865,-0.1338745
@@ -1358,6 +1349,7 @@ pharmacy,Allen Pharmacy,51.5569508,-0.0832863
 cafe,Green Room Cafe,51.5620318,-0.079786
 cafe,The Good Egg,51.5620552,-0.0787398
 cafe,Trattoria da Luigi,51.562302,-0.0785064
+cafe,Fo Ku,51.5622486,-0.0761245
 cafe,La Duchesse,51.5620701,-0.0741478
 cafe,Victoria & Albert Cafe,51.4973478,-0.1724658
 gym,MoreYoga,51.5366248,-0.1016518
@@ -1384,7 +1376,7 @@ cafe,Costa,51.4918625,-0.223933
 cafe,Phota Vietnamese Street Food,51.4772377,-0.1460268
 gym,Fitness First,51.5175023,-0.0807859
 cafe,Stormzzy's,51.4631141,-0.1702088
-cafe,The Tennis Café,51.481548,-0.0923284
+cafe,The Tennis Café,51.4814777,-0.0923218
 cafe,Costa,51.5827693,-0.0193616
 station,Seven Sisters,51.5824738,-0.0749325
 cafe,Wuxian Tea 雾鲜,51.5167153,-0.125929
@@ -1399,12 +1391,10 @@ supermarket,M&S Food,51.5256623,-0.0899332
 pharmacy,Maddock Pharmacy,51.482506,-0.1027573
 station,Vauxhall,51.4860091,-0.1248604
 cafe,Kaffeine,51.5168792,-0.137156
-cafe,Archie's Kitchen,51.4684073,-0.1902185
 cafe,Sontag,51.515425,-0.119303
 cafe,Wild Bean Cafe,51.5292489,-0.0560721
 station,Herne Hill,51.4534691,-0.1022835
 cafe,Yummzy,51.5047673,-0.0225169
-cafe,Ca'puccino,51.5052916,-0.0213438
 cafe,Black Sheep Coffee,51.5046758,-0.0217818
 pharmacy,Salus Pharmacy,51.5485641,-0.0050986
 supermarket,Waitrose,51.5360857,-0.1235071
@@ -1425,7 +1415,6 @@ cafe,Gordes,51.449999,-0.0001584
 gym,N4 workout,51.5740223,-0.1128196
 gym,No1 Fitness,51.515173,-0.0797979
 gym,Muslceworks Gym,51.5594021,-0.0736253
-cafe,Brera,51.5060416,-0.0278935
 gym,Frame,51.5367464,-0.1225604
 cafe,Cafe Jade,51.4925814,0.0706419
 gym,Pure Ride,51.5183566,-0.0907248
@@ -1454,7 +1443,6 @@ gym,1Rebel,51.5185607,-0.0836918
 starbucks,Starbucks Coffee,51.5164788,-0.1034052
 cafe,The Roastery,51.4667349,-0.1477806
 cafe,Cafe Marrone,51.5117524,-0.0563553
-cafe,Costa,51.4472502,-0.0180926
 pharmacy,Tower Pharmacy,51.5054103,-0.0582737
 gym,The Sporting Club,51.5059419,-0.0541688
 gym,Silkworks Gym,51.4677578,-0.0147604
@@ -1501,8 +1489,7 @@ cafe,Le Pain Quotidien,51.4856717,-0.1816968
 cafe,B Bagel Bakery Bar,51.4851981,-0.1825142
 cafe,Cafe Memz,51.582266,-0.1269092
 cafe,The Terrace,51.5654148,-0.1080081
-supermarket,Kosher Kingdom,51.5780594,-0.2071754
-cafe,L'Angelo,51.5319946,-0.1074804
+cafe,L'Angelo,51.532027,-0.1074797
 cafe,Saint Espresso,51.5320355,-0.1076117
 cafe,Casa Tua,51.5276612,-0.123561
 cafe,Caffè Nero,51.4927859,-0.2253919
@@ -1519,7 +1506,7 @@ cafe,Querky Cafe,51.5112029,-0.0566541
 pharmacy,MedipharmacyGroup,51.4842406,-0.1104806
 cafe,Deli-Marche,51.5211337,0.0397162
 cafe,Birley,51.5146786,-0.0998232
-cafe,Quad Cafe,51.5334616,-0.1213813
+cafe,Quad Cafe,51.5334109,-0.1213798
 cafe,Urban Botanica,51.4870951,-0.1116716
 cafe,The Kennington Coffee Shop,51.4929049,-0.1106497
 cafe,Black Sheep Coffee,51.5237697,-0.1438102
@@ -1529,6 +1516,7 @@ cafe,,51.497402,-0.112142
 cafe,Beeyond,51.4985231,-0.1126984
 cafe,College Café,51.4991901,-0.1750273
 cafe,Caffe Grana,51.4994525,-0.1337101
+supermarket,Nisa,51.5581964,-0.1204386
 cafe,Rabbit Hole,51.5580575,-0.1201989
 supermarket,Londis,51.5550333,-0.1453382
 station,London Bridge,51.5048764,-0.0851473
@@ -1550,7 +1538,7 @@ gym,The Sporting Club,51.5088981,-0.0569642
 cafe,Daisy Green,51.5148966,-0.1579671
 cafe,Costa,51.509065,-0.0784681
 cafe,Chun Fun How,51.4925702,-0.193058
-cafe,Caffè Nero,51.5164921,-0.1771435
+cafe,Nero Express,51.5164921,-0.1771435
 cafe,Istanbul Cafe & Bistro,51.5236491,-0.1439285
 cafe,Lyttle Cafe Gaya,51.5841826,-0.1770327
 cafe,Peterborough Café,51.4722972,-0.1993946
@@ -1592,15 +1580,14 @@ supermarket,Rice Wine Shop,51.5107731,-0.1370793
 gym,PureGym,51.5172018,-0.0983287
 cafe,Galata,51.5327695,-0.0986764
 gym,PureGym,51.4756976,-0.1315226
-cafe,Jaffa Bake House,51.4835934,-0.200889
-gym,Easygym,51.4842829,-0.2018004
+cafe,Jaffa Bake House,51.4835681,-0.200925
+supermarket,Golden VR Oriental,51.4840129,-0.2012689
 cafe,White Rabbit Cafe,51.5255661,-0.0789848
 cafe,The Milk Float,51.5423152,-0.0211844
 cafe,Signorelli,51.5467556,-0.0122633
 cafe,Ladurée at Harrods,51.4985738,-0.1628714
 cafe,Rag & Bone Coffee Co.,51.4969272,-0.1308181
 cafe,Half Moon Cafe,51.4878939,-0.2221819
-cafe,Becky Blooms,51.4806185,-0.1978252
 cafe,Hopper Coffee,51.522885,-0.1147155
 station,Woolwich,51.491954,0.070615
 cafe,Into Cafe,51.5175477,-0.0773066
@@ -1608,7 +1595,6 @@ cafe,Sendero Coffee,51.4663839,-0.1507255
 cafe,Royal Exchange Grind,51.5136823,-0.0877795
 cafe,Nar Cafe,51.571221,-0.0899396
 gym,PureGym,51.5629013,-0.1074707
-gym,PureGym,51.5539656,-0.1453889
 cafe,Café de Nata,51.541495,-0.1455538
 station,Upton Park,51.5351062,0.0339842
 cafe,London Grind,51.506607,-0.0885343
@@ -1631,9 +1617,11 @@ cafe,Everbean Cafe,51.5123372,-0.1455559
 cafe,Waterstone's Bookstore Cafe,51.5175669,-0.131909
 supermarket,Co-op Food,51.5003383,-0.0729975
 pharmacy,Robards Pharmacy,51.4608362,-0.1631492
-cafe,Eat Well,51.5181547,-0.0594462
+cafe,Eat Well,51.5181603,-0.0595061
+pharmacy,,51.518168,-0.0593443
 cafe,Cafe Leads,51.5190011,-0.0589565
 cafe,D1 Coffee,51.5248318,-0.1760985
+gym,Reformer LDN,51.5472918,-0.0506599
 cafe,Costa,51.5475284,-0.0561955
 pharmacy,Boots,51.573502,-0.0719334
 cafe,Bacari,51.5155699,-0.0909161
@@ -1677,13 +1665,11 @@ pharmacy,Boots,51.4558402,-0.1944123
 cafe,Jack's at the Junction,51.4639879,-0.1665306
 cafe,2 Love,51.4638033,-0.1657754
 station,Lewisham DLR,51.4649887,-0.0130109
-cafe,The Rolling Scones Cafe,51.5840421,-0.0082525
 cafe,Black Sheep Coffee,51.51745,-0.111948
 cafe,England's Grace,51.5324858,-0.1692668
 cafe,Phyllo Bakehouse,51.564276,-0.1316428
 cafe,Café Pura,51.4944423,0.0133966
 pharmacy,Amal Pharmacy,51.4948815,0.0134073
-cafe,Grateful Kitchen,51.5043298,-0.0210018
 cafe,Ibis - Cafe Point,51.5423467,0.0045534
 cafe,Dolce Vita,51.5383541,-0.0011741
 cafe,Bromley Cafe,51.547621,0.0056847
@@ -1697,6 +1683,7 @@ cafe,Stratford Best Coffee / Meze & Grill,51.5403798,0.0011265
 gym,Triyoga,51.5397174,-0.1470397
 cafe,Leica Coffee Shop,51.5109761,-0.1452135
 gym,Anytime Fitness,51.5258756,-0.2147714
+cafe,Utter Waffle,51.4528127,-0.1035427
 cafe,Rosslyn,51.5109844,-0.0874537
 pharmacy,Tesco Pharmacy,51.4887605,-0.0762959
 station,Paddington (Circle and Hammersmith & City lines),51.5185075,-0.1787546
@@ -1705,7 +1692,7 @@ cafe,Laryn,51.4598787,-0.1294495
 cafe,Diana's Coffee,51.459836,-0.1298351
 starbucks,Starbucks,51.5278174,-0.1334168
 cafe,Star Cafe,51.4610029,-0.1359803
-cafe,Black Sheep,51.462167,-0.1366577
+cafe,Black Sheep Coffee,51.462167,-0.1366577
 cafe,Freightliners City Cafe,51.5478743,-0.11113
 cafe,UK Coffee Shop,51.4631512,-0.133714
 pharmacy,Boss Pharmacy,51.4619267,-0.1289834
@@ -1734,14 +1721,15 @@ cafe,Cafe Ritazza,51.5161406,-0.1762901
 cafe,The Old Dairy Cafe,51.4875014,-0.1189592
 cafe,Sourdough Sophia,51.5812624,-0.1235016
 gym,Bootcamp Pilates,51.5092527,-0.1235852
-cafe,Kin,51.5193422,-0.1403461
+cafe,KIN,51.5193422,-0.1403461
 cafe,Cafe Bonnane,51.5022478,0.0373674
 gym,Connaught Heights Gym,51.5023408,0.0385973
 cafe,Volonté,51.5185966,-0.1380291
 cafe,Coffee Wake Cup,51.4612484,-0.1367496
 cafe,Selina Cafe,51.4595022,-0.1254412
+supermarket,M&S Food,51.5119115,-0.0791712
 cafe,Spread,51.4646593,-0.1615362
-cafe,Piece of Cake,51.4595099,-0.1255363
+cafe,Madelina,51.4595099,-0.1255363
 cafe,Urban Baristas,51.5045572,-0.0557968
 pharmacy,Manor Park Pharmacy,51.550649,0.0469295
 cafe,Old Paradise Yard,51.4983856,-0.1166978
@@ -1754,7 +1742,6 @@ cafe,Bertotti,51.4974383,-0.2274537
 cafe,Chapter 72,51.501416,-0.0822684
 cafe,Three Wheels Coffee,51.5049599,-0.0872528
 cafe,Ole & Steen,51.5144462,-0.1259157
-gym,Orange Theory Fitness,51.4562521,-0.1929056
 cafe,Caffe Paradiso,51.50377,-0.0748378
 cafe,WatchHouse,51.5036514,-0.074418
 cafe,Le Rif Cafe,51.5617458,-0.1110355
@@ -1775,7 +1762,6 @@ cafe,Porters Barber & Barista,51.4493476,-0.0853799
 cafe,GAIL's,51.4489372,-0.0850053
 cafe,FCB Coffee,51.4679579,-0.0895584
 pharmacy,Silverfields Pharmacy,51.5488229,-0.0410826
-cafe,Nostra,51.5472957,-0.0426461
 cafe,,51.4895732,-0.0859572
 cafe,Coffee Island,51.5124189,-0.127275
 cafe,Titanic,51.5547936,-0.1146599
@@ -1807,14 +1793,13 @@ cafe,Freyja,51.5732958,-0.1410626
 cafe,Teanamu Chaya Teahouse,51.5029756,-0.2357254
 cafe,Fairly Square,51.5197872,-0.11744
 cafe,Bloomsbury Coffee House,51.525164,-0.126477
-cafe,Phoenix Cafe,51.4614436,-0.1139074
 cafe,,51.4776608,-0.1125743
 cafe,Cafe Cairo,51.4658495,-0.1252409
 supermarket,Brixton Food & WIne,51.4543767,-0.1131239
 cafe,Origin,51.5291766,-0.1266125
 cafe,Melrose and Morgan,51.5401985,-0.1506858
 gym,Barking & Dagenham Canoe Club,51.5306169,0.0761943
-cafe,Bean about Town,51.5165527,-0.0777513
+cafe,Story Coffee,51.5165527,-0.0777513
 cafe,Caffè Nero,51.503347,-0.091449
 cafe,Rude Health Cafe,51.4694634,-0.2090522
 cafe,The Cut,51.508036,-0.1391335
@@ -1880,7 +1865,7 @@ gym,Train Yard,51.5064297,-0.0528365
 cafe,Cafe Estrelicia,51.4684764,-0.1196264
 cafe,Costa,51.5412526,-0.1391952
 gym,The Gym,51.4661794,-0.0171698
-station,Fulham Broadway,51.4808834,-0.1943493
+station,Fulham Broadway,51.480827,-0.1945023
 cafe,Black Sheep Coffee,51.5154796,-0.0901481
 cafe,Felix Coffee,51.5777775,-0.0986475
 pharmacy,Med-Chem Pharmacy,51.5776718,-0.0986322
@@ -1932,14 +1917,13 @@ starbucks,Starbucks,51.4636562,-0.1685755
 starbucks,Starbucks,51.5018189,0.0310607
 gym,Dolphin Square Sports Centre,51.486816,-0.1365129
 station,West Ham,51.5280966,0.0045685
-cafe,Ideal Cafe,51.4901453,-0.1499838
-pharmacy,Greens Pharmacy,51.4897398,-0.1500397
 station,Stratford,51.541289,-0.0035472
 cafe,Primrose Cafe,51.543023,-0.1260244
 cafe,Villa Cafe,51.5432262,-0.1257432
 cafe,Green Cafe,51.4946095,-0.1479811
-cafe,Costa,51.4778758,-0.0253454
+cafe,Costa,51.4778731,-0.0254284
 cafe,Baguette Cafe,51.4813992,0.036282
+cafe,Saint Espresso,51.5174487,-0.080068
 cafe,Black Sheep Coffee,51.5072944,-0.1071077
 cafe,Catalyst,51.5197894,-0.1119972
 cafe,The Wren Coffee,51.5120907,-0.0969782
@@ -1953,12 +1937,10 @@ cafe,Establishment Coffee,51.5146858,-0.1051258
 station,Mudchute,51.4915188,-0.0149135
 supermarket,Jumbo,51.5078456,-0.1243123
 supermarket,Co-op Food,51.4486452,-0.1484124
-cafe,Clapton Craft,51.4629418,-0.16997
 cafe,The Royal Quarter Cafe,51.4992608,-0.1384479
 cafe,Abbey Cafe,51.5319145,-0.1808385
 cafe,Black Sheep Coffee,51.5140173,-0.0824258
 cafe,The Good Yard,51.5123368,-0.0838095
-cafe,,51.4796646,-0.126506
 cafe,Camera Museum,51.5176929,-0.125239
 station,Southwark,51.503925,-0.1049663
 supermarket,Lidl,51.584195,-0.0222858
@@ -1967,7 +1949,7 @@ gym,Victoria Park Fitness,51.5444064,-0.0326753
 station,Kentish Town,51.5501727,-0.1388654
 cafe,Coffee House,51.4647827,-0.1301215
 cafe,Black Sheep Coffee,51.5116476,-0.0829634
-cafe,BrewBird,51.4741451,-0.0831601
+cafe,Gayle's Coffee Bar,51.4741451,-0.0831601
 gym,BethWall Climbing Centre,51.5277422,-0.056381
 cafe,Petit Coin,51.5611026,-0.0833495
 cafe,Travel Café,51.4995341,-0.114122
@@ -2019,7 +2001,7 @@ cafe,Caffè Nero,51.5184907,-0.1435527
 cafe,Costa,51.511174,-0.1034394
 gym,PureGym,51.5124534,-0.036755
 pharmacy,Baum Pharmacy,51.4589631,-0.0025739
-cafe,Lundenwic,51.5128963,-0.1184756
+cafe,The Marquise,51.5128963,-0.1184756
 cafe,Jacob the Angel,51.5143804,-0.1261664
 gym,F45 Training,51.523281,-0.1372568
 cafe,Saint Aymes,51.5142579,-0.1667129
@@ -2050,18 +2032,20 @@ station,Chalk Farm,51.5441141,-0.1534811
 cafe,Costa,51.5039536,-0.0856095
 cafe,Costa,51.5469047,-0.2041805
 supermarket,Soho Express,51.5153686,-0.1373997
+cafe,Flying Horse Coffee,51.5341865,-0.0571002
 cafe,Cafe Santacruzense,51.4749161,-0.1369195
 station,Oxford Circus,51.5154418,-0.1419563
 cafe,Grassroots,51.5269158,0.0083756
 supermarket,U.see.inn Continental Supermarket,51.5450488,-0.1179354
 cafe,Benugo,51.5137074,-0.1424784
-cafe,Brunswick East,51.5491894,-0.0769033
+cafe,Brunswick East,51.5491771,-0.076804
 gym,Paper Dress Yoga,51.5474134,-0.054528
+cafe,Mongle,51.5471383,-0.0546398
 cafe,Aline of Lebanon,51.5134138,-0.1418409
 supermarket,Vital Ingredient,51.5132986,-0.1419871
-cafe,Maureen's Pie & Mash,51.5130242,-0.0151469
+cafe,Maureen's Pie & Mash,51.5129583,-0.0151201
 pharmacy,C. W. Andrew,51.5125199,-0.1433545
-cafe,La Petite Boulangerie Jade,51.4649466,0.0088711
+cafe,La Petite Boulangerie Jade,51.4649598,0.0088779
 supermarket,M&S Foodhall,51.5479875,-0.0756727
 cafe,Piggy's,51.5095685,-0.1360341
 supermarket,Lidl,51.536038,0.0349308
@@ -2086,7 +2070,6 @@ cafe,Taylor St. Baristas,51.5121949,-0.1472464
 gym,The Bath & Racquets Club,51.5125258,-0.1466354
 cafe,Barbican Cafe,51.5270782,-0.096068
 station,London Marylebone,51.5243712,-0.163592
-cafe,Caffe Concerto,51.5141211,-0.1489379
 cafe,Flocafe,51.5140688,-0.1484911
 pharmacy,Safedale Pharmacy,51.5520264,0.0059015
 cafe,Viva Afrik,51.5518956,0.0059384
@@ -2098,6 +2081,7 @@ cafe,Comptoir Café & Wine,51.5133704,-0.1499462
 pharmacy,Nelsons Homeopathic Pharmacy,51.512734,-0.1505401
 gym,Neon,51.5260182,-0.0474455
 pharmacy,Acheason Chemist,51.5534092,0.0050598
+cafe,Cinco,51.5535712,0.0053175
 cafe,Blancos Cafe,51.5538426,0.0049762
 cafe,Millie's,51.5166837,-0.176414
 cafe,YI•CHA,51.5155422,-0.0718495
@@ -2109,7 +2093,7 @@ cafe,Boost Turbo,51.5438613,-0.0083261
 cafe,Coffee Garden,51.5584853,0.0068819
 pharmacy,Tesco Pharmacy,51.5542437,-0.2553312
 supermarket,The Fruit Garden,51.5227275,-0.1593475
-cafe,,51.5012554,-0.1929
+cafe,Daku Coffee One,51.5012554,-0.1929
 cafe,Mouse Tail Coffee Stories,51.4788254,-0.0264834
 cafe,Big Penny Brews,51.5040851,0.0491091
 supermarket,Hoxton Brothers,51.5338081,-0.0803896
@@ -2125,7 +2109,6 @@ station,Woolwich Dockyard,51.4910924,0.0548824
 station,Woolwich Arsenal,51.4896184,0.0703782
 station,Hither Green,51.4515872,-0.0006473
 cafe,Science Gallery Café,51.5041545,-0.0875151
-cafe,,51.5225873,-0.1579374
 station,Ladywell,51.4560257,-0.0191917
 supermarket,Seoul Plaza,51.571832,-0.1963688
 cafe,The Wagon,51.4899864,-0.135498
@@ -2145,7 +2128,6 @@ cafe,The Hive,51.4561294,-0.2440347
 cafe,Internet Cafe,51.5599473,-0.0984398
 cafe,The Junction,51.5522032,-0.111195
 cafe,,51.5129323,-0.1222768
-cafe,Brixton Pound Cafe,51.4610782,-0.1110059
 pharmacy,Cheltenham Chemist,51.4582177,-0.0409949
 cafe,Kata Kata,51.4527455,-0.1212444
 pharmacy,Ashburton Pharmacy,51.4573534,-0.2264064
@@ -2175,11 +2157,10 @@ cafe,Caffè Dolce,51.4726903,-0.1482786
 cafe,Petit Pret,51.5409615,-0.0037442
 station,Barnes Bridge,51.4720123,-0.2526332
 station,Chiswick,51.4811465,-0.2681753
-cafe,Secret Goldmine Cafe,51.4972154,-0.0706377
 cafe,Kiss the Hippo,51.5111248,-0.1265115
 cafe,WA café,51.5110405,-0.1263336
 cafe,Discovery Cafe,51.5622927,-0.0207971
-cafe,Cinnamon Village,51.5603692,-0.098754
+cafe,Cinnamon Village,51.5603755,-0.0987611
 pharmacy,C+H Chemist,51.5607135,-0.0983969
 gym,Feel Good Too Sports Ground,51.5627438,-0.0209429
 gym,King’s Sport & Wellness London Bridge,51.5033729,-0.0912036
@@ -2191,6 +2172,7 @@ cafe,Farha,51.5522078,-0.0045467
 cafe,Al Bader,51.5534559,-0.0049624
 cafe,Trade,51.5434619,-0.0904052
 cafe,Cafe du Metro,51.5547064,-0.005117
+cafe,Milk,51.5542532,-0.0050868
 cafe,Pho,51.4928938,-0.2531472
 cafe,Leaf & Bean,51.5007507,-0.0519998
 cafe,Vermuteria,51.5366567,-0.1263944
@@ -2244,12 +2226,13 @@ station,West Silvertown,51.5028811,0.0223323
 station,Pontoon Dock,51.5022501,0.0332232
 station,North Acton,51.5235769,-0.2597818
 cafe,Tiny Wine Crudo,51.5194453,-0.1400838
-cafe,,51.520719,-0.1391347
+cafe,Ayn,51.520719,-0.1391347
 cafe,Mariage Frères,51.5118113,-0.1243648
 cafe,Harris + Hoole,51.5204174,-0.1405361
+cafe,Counter by Naroon,51.5188312,-0.1408444
 cafe,naroon,51.5188779,-0.1408659
 gym,Ten Health & Fitness,51.5195758,-0.141201
-supermarket,oseyo,51.5387036,-0.1420206
+supermarket,oseyo,51.5386751,-0.1421529
 pharmacy,Boots,51.5203566,-0.1426807
 gym,Royal Wharf Clubhouse,51.4996144,0.027095
 cafe,Doppio,51.5200575,-0.0696473
@@ -2326,7 +2309,6 @@ cafe,EL&N,51.499753,-0.1621455
 pharmacy,Al Razi Pharmacy,51.5153461,-0.1630777
 cafe,Caffè Nero,51.5198847,-0.1338025
 cafe,Red Bean Roastery,51.514744,-0.0708306
-cafe,Change Please,51.5205487,-0.1344768
 pharmacy,Safeer Pharmacy,51.5179593,-0.1669151
 supermarket,Hao Wah Chinese Supermarket,51.4735144,-0.0727224
 cafe,Little Deli @17,51.4737301,-0.0727255
@@ -2379,7 +2361,7 @@ pharmacy,MS Chemist,51.5720814,-0.0204983
 pharmacy,Berkeley Court Pharmacy,51.5228778,-0.158435
 gym,PureGym,51.5220326,-0.1612214
 cafe,Airline Cafe and Diner,51.5082017,0.0220154
-cafe,Costa,51.5081151,0.0271045
+cafe,Costa,51.5081845,0.0272094
 cafe,Delice de france,51.5082706,0.0264848
 station,Willesden Green,51.5493524,-0.222223
 station,Kilburn,51.5469889,-0.2053385
@@ -2457,24 +2439,21 @@ gym,Upton Town Snooker & American Pool,51.5364221,0.0347905
 gym,Virgin Active,51.5025858,-0.1896846
 supermarket,Waitrose,51.5773482,-0.2226177
 cafe,The Grand Caffe Concerto,51.5065354,-0.2199918
-cafe,Muffin Break,51.4536775,-0.0172336
 cafe,Carhartt Coffee,51.5335897,-0.1248947
 cafe,Hagen,51.5343749,-0.1708551
 gym,Secret Boxing,51.5066476,-0.0890598
 cafe,The secret,51.5066245,-0.0888926
 cafe,Bean About Town,51.5159917,-0.0781587
-cafe,The Whale Tea,51.5108739,-0.1869327
+cafe,The Whale Tea,51.5108378,-0.1869193
 cafe,Dr Power,51.5113715,-0.1875077
 cafe,Eat Up Cafe,51.5130984,-0.0489374
 cafe,Coffee Geek and Friends,51.4977118,-0.1414533
 cafe,Zen Cafe,51.5016806,-0.118437
-supermarket,Amazon Fresh,51.5007658,-0.1942934
 pharmacy,Old Maids Pharmacy,51.526659,-0.0639714
 pharmacy,Florida Pharmacy,51.5266006,-0.0645239
 cafe,Fonta Nella,51.5783006,0.0021763
 station,Brockley,51.4642287,-0.0376125
 cafe,fantail,51.5464559,-0.1003725
-cafe,Costa,51.5301127,-0.1167917
 cafe,Quills,51.5299993,-0.1165161
 cafe,Frequency,51.5291748,-0.1159274
 station,Manor Park,51.5521996,0.0450354
@@ -2526,7 +2505,6 @@ cafe,Ginger,51.5241759,-0.1884342
 cafe,Daniel's,51.5244138,-0.1889228
 gym,Little Venice Pilates & Physiotherapy,51.5231372,-0.1862359
 cafe,GAIL's,51.5300706,-0.1860242
-cafe,JP’s Cafe,51.5127755,-0.0147924
 gym,,51.55405,-0.1112853
 station,Upper Holloway,51.563474,-0.1296473
 station,Crouch Hill,51.571431,-0.1168739
@@ -2546,7 +2524,7 @@ station,Regent's Park,51.5236277,-0.1466357
 station,Maida Vale,51.5298672,-0.1857447
 station,Stratford International,51.5447954,-0.0087494
 cafe,The Bread Boutique,51.5271223,-0.1956854
-station,Manor House,51.5703208,-0.0963971
+station,Manor House,51.5703221,-0.0963959
 cafe,Coffeeholic,51.5327988,-0.2039555
 cafe,Aya Cafe,51.5328192,-0.204476
 cafe,Bonjour Cafe-Bakery,51.5850891,-0.2192336
@@ -2562,7 +2540,7 @@ cafe,TIRAFFE,51.518022,-0.120735
 cafe,Colicci,51.5010712,-0.1380114
 station,Borough,51.5011444,-0.0932926
 cafe,Oscar's Lounge,51.5271368,-0.2137784
-cafe,Sister's Place,51.5334499,-0.0799553
+cafe,Ladybug's Café,51.5334499,-0.0799553
 cafe,Olive,51.5315296,-0.0800364
 cafe,Four O Five,51.5252151,-0.2038781
 cafe,We Are Vegan Everything,51.5488801,-0.0544447
@@ -2638,6 +2616,7 @@ cafe,Giddy Up Coffee,51.5173587,-0.0974004
 cafe,Chester's,51.5180929,-0.1888274
 gym,,51.5184608,-0.1888936
 gym,1Rebel Bayswater,51.5166517,-0.1875716
+cafe,,51.5616382,-0.1502069
 pharmacy,M. Simmonds Pharmacy,51.5615973,-0.1502498
 cafe,Zeal,51.5435676,-0.0907216
 station,Hampstead Heath,51.5552396,-0.1653912
@@ -2687,6 +2666,7 @@ cafe,Cafe Zara Lounge,51.4963078,-0.0182809
 supermarket,Co-op Food,51.4970012,0.0117826
 gym,PureGym,51.4892745,0.0265129
 cafe,Neama,51.5012984,-0.0238903
+cafe,L'Eto,51.514724,-0.1985493
 gym,Powerleague,51.4949617,-0.0150373
 cafe,Two Feathers,51.5154104,-0.1971754
 cafe,Amoret Coffee,51.5107787,-0.1975945
@@ -2697,7 +2677,7 @@ cafe,Costa,51.5154321,-0.1905582
 cafe,Joe & The Juice,51.5154532,-0.190363
 gym,Psycle,51.5155014,-0.190089
 cafe,Salwa,51.5155178,-0.1898975
-cafe,Ole & Leen,51.5094881,-0.2216105
+cafe,Ole & Steen,51.5094881,-0.2216105
 starbucks,Starbucks,51.5091829,-0.2224462
 gym,PureGym,51.5129341,-0.1900803
 cafe,Granier Bakery Cafe,51.513166,-0.187809
@@ -2739,7 +2719,6 @@ station,Charing Cross,51.5074975,-0.1236888
 cafe,Costa,51.5106969,-0.1218811
 cafe,Maize Blaze,51.5428004,-0.0224489
 cafe,Rise & Bloom,51.5276919,-0.0763326
-cafe,,51.4778716,-0.0255199
 cafe,Milk Cool,51.5106398,-0.1975599
 cafe,Bubbleology,51.5105923,-0.1975526
 cafe,Cheeky Scone,51.5105482,-0.197548
@@ -2792,7 +2771,7 @@ cafe,Yi Fang Tea,51.5030755,-0.0200247
 cafe,Black Sheep Coffee,51.5030838,-0.0188096
 cafe,Le Pain Quotidien,51.5030847,-0.0191047
 cafe,Jungle Berry,51.5156486,-0.2057329
-cafe,Cable Co.,51.5156614,-0.2056768
+cafe,The Notting Hill Bookshop Café,51.5156614,-0.2056768
 cafe,Caffè Nero,51.4608326,-0.1634228
 cafe,Costa,51.5132137,-0.0771634
 cafe,Bird & Blend,51.5152242,-0.2044593
@@ -2802,7 +2781,7 @@ supermarket,Magaza Balkan food,51.5068945,-0.2455666
 cafe,The Butter Bakery,51.5177045,-0.2013858
 cafe,L’Opera,51.4961103,-0.1695465
 cafe,Lobito Grill,51.4741828,-0.1328902
-cafe,Sage Kitchen,51.5611309,-0.0973594
+cafe,Sage Kitchen,51.5610987,-0.0973019
 pharmacy,Blenheim Pharmacy,51.5164094,-0.2052022
 cafe,Coffee Republic,51.5167253,-0.2054663
 cafe,Beans Love Greens,51.5262784,-0.0773111
@@ -2814,7 +2793,7 @@ cafe,T4,51.5173776,-0.2062954
 supermarket,Ikkyu Conveni,51.5164461,-0.209139
 gym,Powervibe Fitness Studio,51.5175218,-0.2036157
 cafe,The Tin Shed,51.5185049,-0.2043624
-cafe,What A Week,51.518027,-0.2065803
+cafe,coffee11,51.518027,-0.2065803
 supermarket,R Garcia & Sons,51.5179567,-0.2065215
 cafe,Cafe Garcia,51.5178865,-0.2064627
 cafe,Cozy Trio,51.5170366,-0.2095624
@@ -2843,7 +2822,6 @@ supermarket,Costcutter,51.5234509,-0.2062885
 cafe,Oasis Café,51.5261552,-0.2119336
 starbucks,Starbucks,51.4925191,-0.2279922
 starbucks,Starbucks,51.493152,-0.2216595
-cafe,Crussh,51.5157064,-0.1090344
 cafe,Joe & The Juice,51.4928455,-0.2243611
 cafe,,51.5175723,-0.1530871
 starbucks,Starbucks,51.492815,-0.2244677
@@ -2883,7 +2861,6 @@ supermarket,Lidl,51.4895852,0.024692
 pharmacy,Britannia Pharmacy,51.5253103,0.0295393
 pharmacy,Daystar Pharmacy,51.529532,0.0246169
 pharmacy,Shrewsbury Pharmacy & Clinic,51.5388009,0.0438776
-cafe,Alnuur,51.5447945,0.0368634
 cafe,Asda Café,51.5374687,0.0774541
 pharmacy,Asda Beckton Pharmacy,51.5144938,0.0578292
 pharmacy,Asda,51.5558599,-0.0091306
@@ -2913,9 +2890,8 @@ cafe,La Caffettiera,51.5042773,-0.1929952
 cafe,Nero Express,51.5112014,-0.0905085
 cafe,Essential Vegan Cafe,51.5425549,-0.0219779
 cafe,Knockbox Coffee,51.5212987,-0.1183002
-cafe,Dinny's,51.5213446,-0.118327
 cafe,Coffee Blooms,51.5215416,-0.1184517
-cafe,,51.5221657,-0.1188138
+cafe,Conduit Coffee House,51.5221657,-0.1188138
 cafe,Tutti's,51.5223201,-0.1186207
 cafe,Trio D'or,51.5242218,-0.1161162
 cafe,Joe & The Juice,51.492131,-0.1780007
@@ -2974,7 +2950,6 @@ gym,FitStudioZ,51.4889037,-0.1922908
 pharmacy,Royal Docks Pharmacy and Travel Clinic,51.5012636,0.0298718
 cafe,Sons + Daughters,51.535198,-0.1262291
 starbucks,Starbucks Excel,51.5091186,0.0257156
-cafe,E16 Coffee,51.5079821,0.0319887
 supermarket,Co-op Food,51.4722579,-0.2034133
 gym,PureGym,51.5170257,-0.0881139
 gym,Fitness4Less,51.5327411,-0.0575637
@@ -3007,15 +2982,14 @@ cafe,La Brioche,51.4934458,-0.1758117
 cafe,Tesco Restaurant,51.517242,0.0760618
 gym,Zen Yoga,51.4724504,-0.0882886
 cafe,Kova Patisserie,51.4938144,-0.1750121
-gym,New City Fitness,51.5305001,-0.0786098
+gym,New City Fitness,51.5301632,-0.0781163
 cafe,HOME,51.5415851,-0.0554281
 gym,TeamUCL Gym,51.5250158,-0.1326644
-gym,The Refinery,51.5440279,-0.0476245
 gym,The Gym,51.5242385,-0.1248796
 cafe,POE,51.5611,-0.083263
 cafe,The Drawing Rooms,51.4942515,-0.1753433
 cafe,Stationers Park Cafe,51.5799255,-0.1126244
-supermarket,Aldi,51.4802146,-0.1942994
+supermarket,Aldi,51.4802106,-0.1943455
 cafe,Clarnico Club,51.5463244,-0.0205368
 gym,Eqvvs Training,51.4983412,-0.1673324
 cafe,Katara Cafe,51.4989922,-0.1658375
@@ -3119,7 +3093,7 @@ cafe,OPorto Café,51.5297828,-0.2372321
 cafe,The Hard Rock Cafe,51.509939,-0.1334982
 cafe,Fink's,51.5611358,-0.0863078
 gym,Jetts Fitness,51.4533393,-0.1209281
-cafe,ExCEL Café and Restaurant,51.5109768,0.0255328
+cafe,Excel Café and Restaurant,51.5109768,0.0255328
 pharmacy,Day Lewis Pharmacy,51.5107245,0.0256409
 pharmacy,Chapharm Chemists,51.514314,0.0318461
 pharmacy,Marcus Jones Pharmacy,51.5150265,-0.2490533
@@ -3134,7 +3108,7 @@ supermarket,Eataly,51.5186453,-0.0801583
 cafe,,51.5110484,-0.2345317
 pharmacy,Hamlins Pharmacy,51.5112658,-0.2345627
 cafe,,51.5112981,-0.2315779
-cafe,Blu Ivy,51.5314288,-0.0432482
+cafe,Alia's,51.5314288,-0.0432482
 cafe,Café Paradiso,51.494301,-0.2130533
 pharmacy,Jays Pharmacy,51.5065968,-0.2390341
 cafe,,51.5430514,-0.1723695
@@ -3202,7 +3176,6 @@ cafe,Red Lion Coffee Co,51.5131203,-0.0812487
 cafe,Dear Diana,51.5716401,-0.0896507
 pharmacy,Crossbell Pharmacy,51.5064983,-0.2541013
 cafe,Malieu,51.5065257,-0.2535962
-cafe,Notes,51.5335794,-0.1726257
 pharmacy,Windwood Chemists,51.5032218,-0.2434414
 cafe,Costa,51.5025624,-0.2431032
 gym,PureGym,51.5038647,-0.1095356
@@ -3224,7 +3197,6 @@ supermarket,Baghdad Food Centre,51.5064722,-0.2550644
 cafe,Lewis Cafe,51.5064761,-0.2551569
 gym,Kiss Gyms,51.5063578,-0.2580059
 cafe,Costa,51.5069257,-0.2693524
-cafe,Blueberry’s,51.4578837,0.0109959
 gym,Gym 1971,51.5385718,-0.0065037
 gym,More Yoga,51.4937194,-0.0958232
 cafe,Cafe Victoria,51.4966646,-0.1358078
@@ -3250,7 +3222,7 @@ gym,Carlson Gracie London,51.4993962,-0.2265809
 cafe,Swallow Coffee Shop,51.5021302,-0.2273962
 pharmacy,Caregrange Pharmacy,51.5030257,-0.2236086
 cafe,Liz Cafe,51.5030424,-0.2235571
-cafe,1 Goldhawk Road,51.5031193,-0.2233374
+cafe,Kave,51.5031193,-0.2233374
 cafe,The Westbridge Coffee House,51.5373774,-0.0024381
 cafe,Black salt,51.4896437,-0.1172715
 pharmacy,Healthside Pharmacy,51.4997812,-0.2222685
@@ -3261,7 +3233,7 @@ gym,Climbing District,51.5346509,-0.0603288
 cafe,Costa,51.498023,-0.2226387
 cafe,Brook Brown,51.4975405,-0.2227876
 gym,Hotpod Yoga,51.5421674,-0.0574885
-gym,Commando Temple,51.4785923,-0.0247457
+gym,Commando Temple,51.4785849,-0.0246723
 cafe,Paul Express,51.5472347,-0.1912955
 cafe,Intermission,51.54721,-0.1913903
 cafe,Cafe Mosaic,51.5415628,-0.0520373
@@ -3285,7 +3257,7 @@ gym,Tempo 301,51.4941036,-0.0972194
 gym,Hum Yoga,51.5126861,0.0060045
 cafe,Abilio’s Café and Deli,51.4712965,-0.1587922
 pharmacy,Sai Chemist,51.5129818,-0.0687503
-cafe,Costa,51.4541889,-0.211015
+cafe,Pret A Manger,51.4542365,-0.211019
 pharmacy,N S Warwick Ltd,51.4924179,0.055631
 cafe,Cafe Restaurant Varna,51.4921891,0.0556493
 gym,PureGym,51.5104589,-0.0045703
@@ -3309,8 +3281,9 @@ cafe,The Lunch Box,51.4934289,-0.218073
 cafe,Egg & Bun,51.4933956,-0.2188459
 gym,Kinetic Fitness Studio,51.4933806,-0.2191914
 cafe,Members Bar,51.5077062,-0.0994332
+supermarket,Oseyo,51.492295,-0.2241736
 cafe,Chief Coffee,51.4940718,-0.2548499
-cafe,,51.4948392,-0.2116908
+cafe,Liz's Kitchen,51.4948392,-0.2116908
 gym,,51.4935404,-0.1171516
 cafe,Cafe Continente,51.4913085,-0.2073197
 supermarket,Lidl,51.5661126,-0.1076062
@@ -3318,7 +3291,7 @@ supermarket,Lidl,51.5606,0.078896
 supermarket,Lidl,51.4932003,-0.2275114
 cafe,Chapter Coffee Co.,51.4920034,-0.2070444
 pharmacy,Sheel Pharmacy,51.4796439,-0.099807
-cafe,Café Del Mundo,51.4958307,-0.2085409
+cafe,Melody,51.4958307,-0.2085409
 pharmacy,H. Lloyd Chemist,51.4958616,-0.2083028
 supermarket,The Savanna,51.5028483,-0.0834589
 cafe,,51.4564788,-0.0762144
@@ -3327,7 +3300,7 @@ cafe,Sabretooth,51.5347153,-0.080981
 cafe,Mona,51.5322255,-0.080307
 cafe,Roz Cafe,51.5008753,0.063102
 pharmacy,Day Lewis Pharmacy,51.5011081,0.0635658
-cafe,WatchHouse,51.5114469,-0.1167795
+cafe,WatchHouse Somerset House,51.5114469,-0.1167795
 cafe,On the go,51.522659,-0.15738
 supermarket,,51.4927022,-0.2319667
 gym,F45 Training,51.4929391,-0.2329941
@@ -3349,7 +3322,7 @@ cafe,Puccino's,51.4656268,-0.0140253
 cafe,Waffle Paradise Cafe,51.5393221,0.0309334
 gym,Daley Fitness,51.4617154,-0.2210396
 cafe,Putney Tea Room,51.4611584,-0.2179945
-cafe,Bartons,51.5002489,-0.0725095
+cafe,Bartons,51.5003032,-0.0724821
 cafe,Euro Coffee London,51.536189,0.0355306
 gym,Re:form,51.4722585,-0.2468612
 cafe,Petite M,51.5040221,-0.0251356
@@ -3388,7 +3361,6 @@ cafe,Thingy Cafe,51.5443466,-0.0286113
 cafe,Railton Lounge,51.4556806,-0.1051308
 cafe,Our Little Secret,51.4558085,-0.1052787
 supermarket,Jaz Food & Wine,51.5226392,-0.2590682
-cafe,Pani,51.5599373,-0.1152308
 cafe,Lara's,51.5641068,-0.1036741
 cafe,La Princesse,51.5633698,-0.1024081
 cafe,Deli Felice,51.4995379,-0.052755
@@ -3429,7 +3401,6 @@ cafe,Caffè Nero,51.5416188,-0.0028935
 supermarket,Amazon Fresh,51.5110352,-0.2230555
 gym,MMA LDN,51.5146479,-0.065321
 gym,BLOK Shoreditch,51.5223054,-0.0805191
-cafe,Mouse Tail Coffee,51.5236134,-0.1124336
 gym,Anytime Fitness,51.5359172,-0.0051014
 cafe,Brunswick East Bakehouse,51.5544223,-0.0664043
 supermarket,Co-op Food,51.4947671,-0.0792107
@@ -3441,13 +3412,9 @@ gym,Six3Nine,51.5187911,-0.0771705
 cafe,Potter & Reid,51.5176146,-0.0745621
 cafe,Ben  & Jerry,51.5111643,-0.1295131
 cafe,Old Spike,51.5109852,-0.1359934
-cafe,Costa,51.4861347,0.0091551
 gym,Anytime Fitness,51.5445877,-0.1763629
 cafe,Costa,51.5448879,-0.1769022
 cafe,Dance Attic Cafe,51.4811465,-0.199496
-cafe,The Vintage Scoop,51.4809603,-0.1993203
-cafe,Casacosta,51.4803815,-0.1987678
-cafe,Honey Healthy,51.4804625,-0.198804
 gym,The Gym,51.5554257,0.0652635
 cafe,Margins Cafe,51.5448438,-0.1022155
 cafe,Wildlife Trust Camley Cafe,51.5356561,-0.1277609
@@ -3481,7 +3448,8 @@ supermarket,Planet Food,51.5651342,-0.1034356
 starbucks,Starbucks,51.5242935,-0.1383022
 pharmacy,Westlake Pharmacy,51.5791303,-0.1981679
 cafe,Caffè Nero,51.5554299,-0.1744376
-cafe,Nero Express,51.495291,-0.1438415
+cafe,Nero Express,51.4954092,-0.1439542
+cafe,Heidi,51.4952518,-0.143411
 cafe,Caffè Nero,51.5453561,-0.1779784
 cafe,Garden Breakfast Café,51.5458802,-0.1792983
 cafe,Black Sheep Coffee,51.510762,-0.0838929
@@ -3496,18 +3464,17 @@ cafe,FCB Coffee,51.5161955,-0.1771647
 gym,Tailored Wellness,51.49359,-0.1796219
 cafe,Waitrose Cafe,51.5047049,-0.0164433
 gym,Anytime Fitness,51.5404365,-0.0549388
-gym,Energie Wellness Centre,51.5622339,-0.1261771
 cafe,V&V Juice Bar,51.5003103,-0.1135776
 gym,Fit This,51.544586,-0.0560586
 pharmacy,Kidbrooke Pharmacy,51.4673643,0.0284636
 cafe,Copper Kettle Cafe,51.4671688,0.0285706
 gym,PureGym,51.5457268,-0.178679
 cafe,Coffee Zee,51.5538512,-0.1133825
-cafe,CuppaPug,51.5390217,-0.0759637
 cafe,Costa,51.4723879,-0.208953
 supermarket,Welcome,51.5392641,-0.0240726
+gym,Third Space,51.5374685,-0.2065165
 cafe,T4 Tea For U,51.4626783,-0.010496
-cafe,Chairs & Coffee,51.4797566,-0.1990004
+cafe,Amor's Cafe,51.4797163,-0.1990618
 cafe,HUG Coffee,51.4736806,-0.2127662
 gym,Ultimate Performance,51.5020137,-0.0131467
 gym,Snap Fitness,51.4862113,0.0070231
@@ -3525,15 +3492,13 @@ cafe,WatchHouse,51.5137771,-0.1456329
 cafe,Nkora,51.5275904,-0.0769289
 cafe,FCB Coffee,51.5055052,-0.0855368
 starbucks,Starbucks,51.5054254,-0.0853142
-cafe,The Street Easy,51.5262046,-0.1086833
-cafe,WatchHouse Hanover,51.5137085,-0.1450772
+cafe,WatchHouse,51.5137045,-0.145102
 starbucks,Starbucks,51.4617201,0.0268454
 cafe,ArtFix,51.4617651,0.0242415
 pharmacy,Hobbs Pharmacy,51.4970309,-0.06956
 gym,Canada Water Studios,51.4989942,-0.0486022
 gym,Maple Quays Residents Gym,51.4985294,-0.048881
 cafe,BFI Café,51.5063202,-0.1146766
-cafe,Roni's Bagel Bakery,51.5616732,-0.1506369
 supermarket,Istanbul Organic Supermarket,51.4926957,-0.2312728
 gym,BASE 13,51.4587679,0.0057748
 cafe,Rosslyn,51.5176866,-0.0889736
@@ -3605,7 +3570,6 @@ pharmacy,Amy Pharmacy,51.5813067,-0.1260227
 cafe,Megan's,51.5388915,-0.1039774
 cafe,Bewliehill,51.5384817,-0.1028669
 cafe,Olympic Studios,51.4752008,-0.2405476
-cafe,Bubbles T,51.5834006,-0.1167582
 cafe,Amber Crumb Cafe,51.5834464,-0.1167086
 cafe,Brekky & Brunch,51.5820973,-0.119602
 gym,Anytime Fitness,51.5442404,-0.1524283
@@ -3625,7 +3589,6 @@ gym,,51.5107093,0.0057223
 cafe,Batch Baby,51.5390592,-0.0814102
 cafe,Puccino's,51.4657093,0.0085315
 cafe,Tea n Talk,51.5221381,-0.1640635
-supermarket,Lewisham Food Centre,51.4588417,-0.0121811
 cafe,Star Cafe,51.4510544,-0.0166269
 supermarket,M&S Foodhall,51.4808628,-0.1444133
 supermarket,Giddy Grocer,51.5012173,-0.0821537
@@ -3643,6 +3606,7 @@ cafe,Origin,51.5042354,-0.1036099
 cafe,Ramble Cafe,51.5516311,0.0289754
 gym,Team UCL Gym,51.5380775,-0.0099515
 cafe,Pool Street Café,51.5385788,-0.0097337
+cafe,Bell's Coffee House,51.4859903,0.0132629
 cafe,GMT Cafe,51.4859781,0.0134182
 pharmacy,Pyramid Pharmacy,51.4861556,0.0076643
 cafe,Mooboo,51.4855782,0.0069033
@@ -3708,7 +3672,6 @@ supermarket,,51.5267411,0.0308128
 cafe,Coffee Palace,51.5256693,0.0296658
 cafe,Coffee & Beyond,51.4763322,-0.017978
 gym,PureGym,51.477345,-0.0166539
-pharmacy,Akro Pharmacy,51.542792,0.0371245
 cafe,Buzz Coffee,51.511401,-0.1034987
 cafe,Soul + Grain,51.4954862,-0.1432168
 gym,PureGym,51.476214,-0.0183531
@@ -3726,6 +3689,7 @@ cafe,Costa,51.5593685,0.0705356
 gym,The Gym,51.5568944,0.070803
 pharmacy,,51.5565494,0.0757568
 gym,Club Q,51.5197317,-0.136189
+cafe,Auntea Jenny,51.5431573,-0.0068728
 cafe,Bad Coffee,51.5441116,-0.0258936
 cafe,Anya Cafe,51.4973056,-0.1568683
 cafe,Green & Fortune Cafe,51.5350023,-0.121846
@@ -3736,14 +3700,12 @@ cafe,Bridget's Cafe,51.5496705,-0.0094903
 cafe,Kūbō Garden,51.5450444,-0.0202674
 cafe,The Airedale Cafe and Bar,51.4919695,-0.2492885
 gym,PureGym,51.5222629,-0.1076707
-cafe,Grnd House,51.5192661,-0.1795082
 cafe,RSH Cafe,51.5250156,-0.1604807
 cafe,Ocean Court Café,51.4808632,-0.0051886
 cafe,Atrium Café,51.507498,-0.1142676
-cafe,zero to one,51.5181295,-0.078028
+cafe,ZeroToOne Coffee,51.5181295,-0.078028
 pharmacy,Victoria Pharmacy,51.5778832,-0.2075751
 gym,Anytime Fitness,51.4647091,-0.0169065
-cafe,Beans & Beyond,51.512132,-0.0282107
 cafe,Climpson & Sons Coffee Bar,51.5197628,-0.0749329
 cafe,Knot,51.4857719,-0.122535
 gym,Waking Dreams,51.5357657,-0.0615983
@@ -3767,7 +3729,6 @@ cafe,Costa,51.5360432,0.0711856
 cafe,,51.5528742,0.0542284
 cafe,Italian Café,51.5513266,0.0485197
 cafe,The Coffee Room,51.4749736,-0.0240468
-cafe,The Organic Yogi,51.475105,-0.0350432
 cafe,Mooboo,51.5130056,-0.1875081
 cafe,Yi Fang Tea,51.5137847,-0.1496044
 cafe,Bubble Magik,51.5149916,-0.1522965
@@ -3816,7 +3777,7 @@ pharmacy,Medipharmacy,51.555195,0.0604994
 cafe,Curved Angel Cafe,51.5233408,-0.1054196
 cafe,The Valley Cafe,51.4864098,0.032201
 cafe,Spicy Halal Food Cafe,51.4862381,0.0326151
-cafe,Keystone Coffee,51.5316796,-0.1207279
+cafe,,51.5316796,-0.1207279
 cafe,Woolwich Works Cafe,51.4947099,0.0702049
 cafe,Calico Coffee,51.5011974,-0.1122318
 cafe,T4 Tea For U,51.5012949,-0.1119819
@@ -3826,7 +3787,7 @@ cafe,Vanilla Black Coffee & Books,51.4875248,-0.1115059
 cafe,i due amici,51.4874778,-0.1115227
 cafe,Zelish's Cafe,51.4749642,-0.0268459
 cafe,GAIL's,51.5177509,-0.1169709
-starbucks,Starbucks,51.5184026,-0.1122418
+cafe,Cotti Coffee,51.5184026,-0.1122418
 cafe,Dark Arts Coffee,51.52386,-0.0778151
 cafe,Wildcard,51.535628,-0.1249562
 cafe,Mezzo,51.4788322,-0.1121487
@@ -3855,7 +3816,7 @@ cafe,The Vale Boulangerie,51.4704456,-0.0287374
 cafe,Pasero,51.5852804,-0.0784588
 cafe,Cafe Lemon,51.5852491,-0.078205
 pharmacy,Good Health Pharmacy,51.5851849,-0.0779331
-supermarket,Dadinho Distributions,51.5848633,-0.0769785
+supermarket,Dadinho Distributions,51.5848562,-0.0769497
 pharmacy,Reena Pharmacy,51.5842066,-0.0746624
 cafe,Jumpin' Beans Coffee,51.5191788,-0.0999384
 supermarket,YOHOME Oriental Lifestyle,51.570968,-0.0894535
@@ -3865,6 +3826,7 @@ gym,E7 Movement,51.554177,0.0202724
 supermarket,Prince Food & Wine,51.4915169,-0.1185035
 cafe,The Queens Head,51.4916828,-0.1189507
 cafe,Ziyafet,51.4506156,0.0578992
+supermarket,Fresh Food Centre,51.4586423,-0.0123041
 cafe,The Café,51.4724615,-0.0152916
 cafe,Hot Pot Cafe,51.4724186,-0.0152929
 cafe,EL&N,51.5139905,-0.1393388
@@ -3900,7 +3862,7 @@ gym,Damos Personal Training,51.4807714,-0.114455
 cafe,Blackheath Coffee Co.,51.4656328,0.0089647
 cafe,Blues & Royals,51.5073037,-0.1225835
 cafe,The Green Hut,51.5067641,-0.123
-cafe,%,51.4819932,-0.1448793
+cafe,% Arabica,51.4819932,-0.1448793
 gym,Pause,51.5653881,-0.0105304
 cafe,Le Delice Bakery,51.4503547,-0.0057264
 cafe,La Main D'or,51.4755122,-0.0367209
@@ -3908,6 +3870,7 @@ cafe,Lava Cafe,51.46167,-0.009587
 pharmacy,Woodlands Pharmacy,51.4500944,-0.0053208
 cafe,Perky Blenders,51.5700217,-0.0079524
 cafe,Alchemy Coffee,51.5236824,-0.0841455
+cafe,,51.5034756,0.048901
 cafe,,51.5070725,-0.0672156
 cafe,Mugadas' Machiato & More,51.4519191,-0.0007888
 cafe,Koala Coffee,51.4585136,-0.1092861
@@ -3932,7 +3895,7 @@ cafe,Java Whiskers Cat Café White City,51.5093632,-0.2231538
 gym,,51.4867772,-0.0100332
 cafe,Triple Two,51.5460879,0.0058375
 cafe,,51.5246968,-0.1191328
-cafe,Elsewhere,51.4526787,-0.1013655
+cafe,Macatia and Coffee,51.4526787,-0.1013655
 cafe,Umana Yana,51.4504535,-0.100408
 cafe,Rowdy,51.4585805,0.0050635
 cafe,Bonga Coffee,51.5665906,-0.1227777
@@ -3942,7 +3905,7 @@ gym,Corehealth,51.581454,-0.1125948
 cafe,Dauns Cafe,51.5169789,-0.0738514
 gym,F45 Holloway,51.5536653,-0.1131952
 cafe,Rogues Quarter,51.5500379,-0.1516648
-pharmacy,St George,51.4954261,-0.1015349
+pharmacy,St George's Pharmacy,51.4954361,-0.1017182
 cafe,Hungry Panda,51.4829686,-0.1247915
 cafe,LJ Grind,51.4662568,-0.1017809
 gym,Fight City Gym,51.4940133,-0.0950737
@@ -3953,7 +3916,7 @@ cafe,SO Café,51.5298596,-0.1858026
 cafe,Ground Café,51.5237173,-0.0394268
 cafe,Cutty Sark Café,51.4825398,-0.0094805
 cafe,Change Please,51.550103,-0.0462629
-cafe,Sapid Coffee,51.5616331,-0.0819022
+cafe,Sapid Coffee,51.5616081,-0.0818781
 cafe,Blank Street Coffee,51.5097678,-0.1226843
 starbucks,Starbucks,51.4921782,0.0706105
 pharmacy,Leyton Orient Pharmacy,51.559789,-0.0133028
@@ -3970,12 +3933,13 @@ cafe,Hally's,51.472569,-0.2013525
 gym,The Gym Group,51.4726521,-0.093276
 gym,The Gym,51.5465045,-0.1188076
 supermarket,Planet Plenty,51.4708145,-0.2106699
+gym,PilatesNutrition,51.4896664,-0.0958387
 gym,CorePower Yoga,51.5451618,0.0004668
-cafe,The Hoarder coffee,51.4868928,-0.1974286
+cafe,The Hoarder Coffee,51.4869004,-0.1974041
+cafe,Hokkabaz,51.4614193,-0.0065857
 cafe,Yummy Eats Cafe,51.4613368,-0.0064443
 cafe,Le Grand Maghreb Cafe,51.4615268,-0.0067929
 cafe,La Patisserie D'or,51.4619579,-0.0072374
-cafe,Shake a Shake,51.5527187,0.0216593
 cafe,Lai Cha,51.4784975,-0.0261788
 cafe,Tintagel Café,51.4886169,-0.1234242
 gym,QMotion Sport & Fitness Centre,51.5232056,-0.0430848
@@ -4003,7 +3967,7 @@ supermarket,Simply Food & Wine,51.5106941,-0.1868731
 gym,The Body People,51.5450465,-0.0200884
 cafe,Djanogly Café,51.4911698,-0.1269625
 cafe,Urban Social,51.5121986,-0.1876621
-cafe,Kings,51.5267212,-0.1136899
+cafe,Aura,51.5267212,-0.1136899
 gym,City Bouldering,51.5094954,-0.2229755
 cafe,Saffron Chai,51.5482974,-0.2480257
 cafe,Katsute100,51.5120931,-0.1252213
@@ -4019,12 +3983,12 @@ cafe,The Café at Foyles,51.5142837,-0.1300552
 gym,Strength Ambassadors,51.5292709,0.010343
 pharmacy,Rowlands Pharmacy,51.5231861,0.0347682
 gym,The Island Reformer Pilates,51.5405648,-0.0224739
-cafe,Shamrock Cafe,51.5636413,-0.1183854
 cafe,The Globe Lounge,51.5504832,0.0252356
 cafe,Kapé Konnectio,51.5348509,-0.1037753
 cafe,Badiani,51.5350466,-0.1035756
-cafe,,51.5352125,-0.1034265
+cafe,Spring Valley Coffee,51.5352125,-0.1034265
 cafe,Compane,51.5354296,-0.1034104
+cafe,,51.5349933,-0.1039086
 cafe,Trampoline,51.5349659,-0.1038264
 cafe,Sixty-3 Degrees,51.5357956,-0.1029521
 cafe,Caravan,51.5376138,-0.0115858
@@ -4074,7 +4038,6 @@ cafe,"JOIA Restaurant, Bar & Rooftop",51.4807175,-0.1452573
 cafe,Joe & The Juice,51.4813055,-0.1444853
 cafe,Yi Fang Tea,51.5066882,-0.0922886
 supermarket,Sainsbury's,51.4887207,0.0262206
-cafe,Scottalia,51.5636753,-0.0058589
 gym,Novo Gym,51.4860486,0.00842
 gym,MoreYoga,51.4857929,0.0090031
 gym,Basis,51.5383453,-0.0583711
@@ -4092,7 +4055,7 @@ starbucks,Starbucks,51.5075304,0.0650885
 cafe,Monmouth Coffee Company,51.4958026,-0.067331
 gym,Gym Nation,51.5013747,-0.078627
 gym,The Gym,51.4558097,-0.1928472
-cafe,Moonstruck Cafe,51.4780408,-0.1232859
+cafe,Moonstruck Cafe,51.478044,-0.123274
 cafe,T4 Tea For U,51.5458914,-0.0758808
 cafe,artfix,51.4813219,-0.009564
 cafe,Oxford House café,51.5263535,-0.0613019
@@ -4107,7 +4070,6 @@ cafe,Joe Blake's,51.5047734,-0.0171772
 park,Laburnum Close Green,51.475998,-0.0563023
 gym,Pilates Vibes,51.5080991,0.0720017
 cafe,Kyla's Cafe Bistro,51.4958056,-0.0161614
-cafe,Counter by Naroon,51.5188778,-0.1405497
 gym,Level Out,51.4748848,-0.0965027
 gym,Twist Studios,51.4751719,-0.0962942
 cafe,N°N°,51.4766816,-0.086002
@@ -4118,7 +4080,6 @@ gym,Canary Wall,51.5095715,-0.0271245
 gym,Strongher Space,51.5238736,-0.0574012
 cafe,Urban Baristas,51.5237714,-0.0630198
 cafe,Union House Cafe,51.4790959,0.0507332
-cafe,Blank Street Coffee,51.5138278,-0.1580038
 supermarket,Lidl,51.5135381,-0.249449
 gym,Train Fitness,51.5022185,-0.1002482
 gym,énergie Fitness,51.5022504,-0.0996439
@@ -4137,7 +4098,7 @@ gym,Ultimate Performance,51.5150179,-0.1768893
 cafe,Chill#08,51.5146102,0.0094885
 supermarket,Oseyo,51.4803409,-0.1450342
 gym,Old Master Gym,51.5801515,-0.2479152
-cafe,Goldsmiths Students' Union Cafe,51.4744927,-0.0361135
+cafe,Goldsmiths Students' Union Cafe,51.4745297,-0.0360962
 cafe,,51.5371194,-0.0040517
 gym,Xcelerate Gyms,51.5394094,-0.0544894
 supermarket,Co-op Food,51.552995,-0.2107674
@@ -4153,7 +4114,6 @@ cafe,Zera,51.5802394,-0.0994817
 cafe,Soto Coffee,51.5417156,-0.1173708
 cafe,Inis,51.5410459,-0.0229943
 cafe,Blank Street Coffee,51.4942809,-0.182913
-cafe,50K London,51.5192057,-0.1632326
 cafe,Carbon Kopi,51.4726324,-0.1914403
 cafe,SENZO,51.5121967,-0.0761624
 supermarket,Evmolpia,51.583208,-0.0996298
@@ -4187,9 +4147,9 @@ cafe,F Mondays,51.4615255,-0.1146734
 cafe,Carraro,51.4634319,-0.1098165
 cafe,The Travel Caffè,51.4656325,-0.1033492
 cafe,Lemonade by Lemonica,51.5438752,-0.0070329
-cafe,Phresh,51.4655036,-0.1555246
+cafe,Phresh Pottery Cafe,51.4655036,-0.1555246
 cafe,Roasting Plant Coffee,51.5108613,-0.0855992
-cafe,21 Grams,51.4936875,-0.2416795
+cafe,Forty Eight Chiswick,51.4936875,-0.2416795
 gym,Barry's,51.5270237,-0.1309938
 cafe,The Whale Tea,51.5418303,-0.0002722
 cafe,Zebra X,51.5371016,-0.1836975
@@ -4200,7 +4160,6 @@ gym,Beckton Park Gym,51.5188821,0.0456617
 cafe,Costa,51.5103487,-0.1293736
 cafe,Mehana Cafe,51.5261889,-0.2661556
 cafe,Caffè Nero,51.5037546,-0.0857248
-cafe,Golden Piggies,51.4795836,-0.0079769
 cafe,Kave,51.4931965,-0.2235152
 cafe,Stullen,51.4943563,-0.1478447
 cafe,Joe & The Juice,51.4941129,-0.1470179
@@ -4246,7 +4205,7 @@ cafe,Sonora,51.5335061,-0.2258889
 cafe,Larch,51.5109431,-0.0837593
 cafe,Cuore,51.542958,-0.2245243
 pharmacy,Richard & Curtis,51.5427638,-0.2250003
-cafe,Embresso,51.5488518,-0.2215076
+cafe,Yoshoku,51.5488518,-0.2215076
 pharmacy,Saigrace,51.5835249,-0.1166069
 cafe,Kippo's,51.5076419,-0.1221914
 cafe,Desire Coffee & Bistro,51.5428332,-0.2248281
@@ -4278,7 +4237,6 @@ cafe,La Perle,51.5365346,-0.2448761
 cafe,The Pavilion Café,51.4767501,0.0006891
 cafe,Paula's,51.4928785,-0.0991758
 cafe,Chestnut,51.5119079,-0.1254467
-pharmacy,Fulham Pharmacy,51.4769294,-0.2032068
 cafe,La Casa Sports Bar,51.5370883,-0.2431337
 cafe,Sefar Cafe,51.5368614,-0.2431322
 cafe,Merhaba Cafe Shop,51.536876,-0.2430524
@@ -4291,6 +4249,7 @@ gym,Lê Pôle,51.4654014,-0.1025048
 cafe,Sanka Cafeteria,51.5358732,-0.2448243
 cafe,Abda,51.5356082,-0.2443599
 cafe,Little Shine Cafe,51.5356424,-0.2444927
+cafe,Joe & The Juice,51.5052124,-0.0216522
 cafe,Costa,51.5360005,-0.2454181
 pharmacy,Chana Chemist,51.5359959,-0.2455334
 cafe,Caffè Nero,51.526298,-0.1294591
@@ -4312,7 +4271,6 @@ cafe,Riverside Studios,51.4887531,-0.2284131
 pharmacy,Krisons,51.4747776,-0.026461
 cafe,Matt Cup Roastery,51.5631925,0.009462
 starbucks,Starbucks,51.5081892,0.0720356
-cafe,Queen's Cafe,51.5211813,-0.1219858
 cafe,Prosecco Café,51.5130327,-0.1309985
 station,Paddington,51.5163695,-0.1780083
 cafe,Spring Cafe,51.4784787,-0.0207478
@@ -4320,7 +4278,6 @@ cafe,Caffe d'Arte,51.5178545,-0.0888747
 cafe,Kova,51.5138991,-0.0684409
 cafe,MiLK,51.5762582,-0.0875906
 cafe,Spring Cafe,51.5522273,-0.1412465
-cafe,Lilac,51.5510528,-0.1404861
 cafe,The Big Plate Café,51.4746758,0.0338929
 pharmacy,Masters Pharmacy,51.4746342,0.0341627
 supermarket,Co-op Food,51.4744819,0.035152
@@ -4337,13 +4294,13 @@ cafe,Palooza,51.5163732,0.0109416
 cafe,Coffee Station,51.4925261,-0.2326658
 supermarket,Aldi,51.5519828,-0.1118857
 cafe,The Hansom,51.5300279,-0.1261037
-cafe,Brew's,51.5405803,-0.1437295
+cafe,Brew's,51.5405553,-0.1438133
 supermarket,Oseyo,51.5165509,-0.17496
 gym,Flying Fantastic,51.4722651,-0.0706862
 cafe,Hill Top Coffee Shop,51.4692503,0.0667025
 pharmacy,,51.5468784,-0.0532608
 gym,Fison Fitness (Studio 1),51.4533701,-0.1017701
-cafe,fantail,51.5639315,-0.1056549
+cafe,Fantail,51.5639296,-0.1056789
 cafe,Tattle Coffe House,51.5137206,-0.1012088
 cafe,The Tea Room,51.5579075,0.0448479
 cafe,TRADE Highgate,51.5617556,-0.1507498
@@ -4352,6 +4309,7 @@ cafe,Hello Boba,51.4916718,-0.0451081
 starbucks,Starbucks,51.5165922,-0.1753022
 cafe,Canteen,51.5118358,-0.1215366
 cafe,The Lane Cafe,51.5845187,-0.1156219
+cafe,Melily Coffee,51.5839551,-0.1164346
 gym,The Gym Group,51.5162629,-0.1369482
 supermarket,China Ark Market,51.4897691,-0.0397314
 cafe,Costa Coffee,51.5475004,-0.2272746
@@ -4361,8 +4319,6 @@ cafe,Matt Cup Roastery,51.5310094,0.0181154
 cafe,Presse Books,51.4952891,-0.0862848
 gym,Jubilee Community Leisure Centre,51.5286748,-0.2056362
 cafe,Our Cafe,51.5668335,-0.216773
-cafe,Buzz Coffee,51.5485595,-0.1908313
-supermarket,Amazon Fresh,51.5487033,-0.1908869
 cafe,Boba Lab,51.5115882,0.012368
 gym,Aboxr,51.542393,-0.1549543
 cafe,Blank Street Coffee,51.5171042,-0.1198467
@@ -4391,19 +4347,19 @@ cafe,Al's Cafe,51.5000748,-0.0816686
 gym,Score Leisure Centre,51.5587644,-0.0131914
 gym,The Gym,51.5478424,-0.008869
 cafe,The Well,51.540907,-0.0115456
-cafe,Goldsmiths Café,51.4751715,-0.0351399
-cafe,Chinwag,51.475265,-0.0352295
+cafe,Goldsmiths Café,51.4751713,-0.035174
 supermarket,Deptford Supermarket,51.4773532,-0.0260319
-cafe,Cafe Selecta,51.4768448,-0.0259915
+cafe,Cafe Selecta,51.4768488,-0.0259907
 cafe,Cafe Bianca,51.4765473,-0.0260074
 supermarket,Ha-Noi,51.4773579,-0.0257789
 supermarket,Asda,51.4752446,-0.0262071
+supermarket,Divine,51.4758684,-0.0260379
 cafe,Lomond Coffee,51.4783805,-0.026898
 cafe,Severndroog Castle Tea Room,51.4666247,0.0600256
 gym,Lewis Paris Fitness London Soho,51.5146326,-0.1299899
 cafe,Titanic Cafe,51.562321,0.0682962
 gym,Regal Boxing,51.5464997,0.0295947
-cafe,Pause,51.5182895,-0.0746426
+cafe,Kikki,51.5182895,-0.0746426
 gym,G Happy Feet Studios,51.5269334,-0.0946685
 cafe,Eleventh Hour,51.5013407,-0.0227653
 cafe,,51.5213491,-0.0714025
@@ -4422,7 +4378,7 @@ cafe,Well & Fed,51.4738724,-0.0594986
 cafe,Lift Coffee Shoreditch,51.5262823,-0.0795275
 gym,In2Sport,51.502809,-0.0096948
 cafe,Mr Falafel,51.4739539,-0.0897916
-pharmacy,Day Lewis Pharmacy,51.4740896,-0.0910732
+pharmacy,Medibank Pharmacy,51.4740896,-0.0910732
 cafe,Love Walk Cafe,51.4708932,-0.0927367
 cafe,Viet Café,51.4710436,-0.092753
 cafe,Delly's Caribbean Cuisine,51.4710938,-0.0927606
@@ -4439,11 +4395,11 @@ cafe,Lumberjack,51.4734727,-0.0882504
 cafe,Susitas Shop,51.4737922,-0.0887371
 cafe,Dawn Seal,51.5371504,-0.183801
 pharmacy,Village Pharmacy,51.4818246,0.0364789
-pharmacy,Grove Pharmacy,51.4819028,0.0368255
+supermarket,Nhung Anh,51.4819028,0.0368255
 supermarket,Co-op Food,51.4819898,0.037087
 cafe,Joe & The Juice,51.5508736,-0.1659499
 pharmacy,Revital,51.5506263,-0.1655991
-cafe,NO.79 Coffee & Mousse,51.5141716,-0.1329702
+cafe,NO.79 Coffee & Mousse,51.5141651,-0.1329681
 cafe,Cafe Saffron,51.5265504,-0.1129942
 supermarket,pomona,51.550199,-0.1648648
 cafe,Sour Leaf Cafe,51.4841881,-0.0922214
@@ -4459,6 +4415,7 @@ cafe,Caffeinate,51.5779843,-0.1235183
 cafe,Lydia Brasserie,51.5776144,-0.1231437
 cafe,Qima Cafe Covent Garden,51.511152,-0.126231
 cafe,Yellow Ladder,51.4976971,-0.0496204
+cafe,,51.4977383,-0.0494997
 cafe,The Fincan,51.4987781,-0.0448102
 pharmacy,Docklands Pharmacy,51.4910991,-0.0211206
 gym,PureGym,51.5390673,-0.1429555
@@ -4469,6 +4426,7 @@ cafe,Visitor Centre Café,51.4828845,-0.0087512
 cafe,London Coffee Bank,51.54249,-0.1989375
 cafe,SAPHI,51.4682408,-0.0896103
 gym,BFT Hackney,51.5309197,-0.0698445
+cafe,Caravan,51.5261181,-0.1350025
 cafe,Cafe Alula,51.4721572,-0.1219232
 cafe,Cafe Mondo,51.4735092,-0.0811947
 cafe,The Gate Cafe,51.5503206,0.0249251
@@ -4492,13 +4450,11 @@ cafe,Italian Espresso,51.5462433,0.0243722
 cafe,Brioche Coffee & Brunch,51.4899691,-0.2062896
 starbucks,Starbucks,51.515831,-0.130443
 cafe,Caffè Nero,51.5155878,-0.1043533
-cafe,Momo's Garden Cafe,51.5238699,-0.1302544
 cafe,Bistro Corner,51.5126306,-0.0049416
 supermarket,Tesco Express,51.4612541,0.0275416
 cafe,El Rincón Caribeño,51.4743976,-0.0938261
-cafe,Cuppa Pug,51.5472717,-0.0514834
+cafe,CuppaPug,51.547293,-0.0515069
 gym,PureGym,51.5359506,-0.1053201
-gym,Pause,51.5644014,-0.0064802
 pharmacy,Community Pharmacy,51.5479035,0.0539249
 gym,Luv Yourself Space,51.5110567,0.0129566
 cafe,Flying Horse Coffee,51.5240006,-0.0779029
@@ -4507,7 +4463,7 @@ gym,Synergy Studio,51.5844529,-0.1132421
 gym,NLSC North London Strength and Conditioning,51.5844171,-0.1133149
 cafe,WatchHouse,51.5052019,-0.0892026
 cafe,Oat,51.5246429,-0.0779843
-cafe,Cream Vegan Pastries Café,51.5100892,-0.1236859
+cafe,Cream Dream,51.5100892,-0.1236859
 gym,Labs fitness,51.5296442,-0.0754799
 cafe,Dāku,51.5099199,-0.0857909
 cafe,Olive Tree,51.4936255,-0.2394666
@@ -4518,16 +4474,14 @@ cafe,Special Guests,51.5191213,-0.1528291
 cafe,Ugly Dumpling,51.5177722,-0.1344418
 cafe,Lavelle,51.5174015,-0.1340516
 supermarket,Kidbrooke Food Market,51.4615577,0.028046
-cafe,WatchHouse,51.555836,-0.1667734
 cafe,The Dockside,51.5077276,0.042008
 cafe,Spotlight Cafe,51.5150382,-0.0136781
 cafe,T4 Tea For U,51.5188844,-0.0786862
 cafe,TWG Tea,51.5102905,-0.1312082
 cafe,Coffee Station,51.5341634,-0.2050067
 cafe,Abney Park Cafe,51.5637572,-0.0735303
-cafe,Bloomsbury Coffee Co,51.5231506,-0.1245277
+cafe,Bloomsbury Coffee Co,51.5231432,-0.1245249
 cafe,Bar Giorgio,51.5086611,-0.1299836
-cafe,Gjana Bakery,51.5700613,-0.0084509
 gym,Anytime Fitness,51.5707922,-0.0085345
 cafe,Tsjuri,51.5409781,-0.0127128
 cafe,Goat Coffee,51.4618388,0.0278478
@@ -4536,6 +4490,7 @@ cafe,Archetype Coffee,51.5185327,-0.140941
 cafe,Nero Express,51.5062124,-0.0182109
 cafe,CoffeeLink,51.5590295,0.0693331
 gym,Nuffield Health Fitness & Wellbeing,51.5197188,-0.0897096
+cafe,marlow & rye,51.5806127,-0.0326245
 cafe,Long & Short,51.5805316,-0.0325891
 supermarket,Earthed,51.5280638,-0.076246
 cafe,Westland Coffee,51.5100542,-0.0045806
@@ -4574,7 +4529,6 @@ cafe,Black Sheep Coffee,51.5168859,-0.0868006
 pharmacy,Muhammad's Pharmacy,51.5527379,0.0530508
 starbucks,Starbucks,51.5226636,-0.1567357
 cafe,Myra Chocolate,51.5246315,-0.1764536
-starbucks,Starbucks,51.4999085,-0.1043774
 cafe,Joe & The Juice,51.5112934,-0.1361334
 cafe,Monocle,51.5190824,-0.1547835
 cafe,The Songbird Cafe,51.4966553,-0.1092804
@@ -4599,7 +4553,7 @@ cafe,Bridge Cafe,51.4990205,-0.1019746
 cafe,,51.4705292,-0.0288536
 cafe,Crave,51.4693865,-0.0272507
 cafe,New River Studios,51.5748766,-0.0879644
-cafe,,51.5467482,-0.0990043
+cafe,Kitty's,51.5467482,-0.0990043
 cafe,ARC Club Cafe,51.5356533,-0.0054928
 cafe,Latitude on the Wheels,51.5025118,-0.109946
 cafe,The Stationary Pantry,51.5317863,-0.1262378
@@ -4658,7 +4612,7 @@ cafe,Mouchak Sweet Centre,51.5214653,-0.0451101
 cafe,Sweet Café,51.5218495,-0.0470736
 gym,Gymnasivm,51.4664276,-0.1167678
 supermarket,,51.5469488,-0.1199664
-cafe,,51.5474225,-0.1237267
+cafe,Tolpuddle Cafe,51.5474225,-0.1237267
 cafe,King's cafe,51.5310251,-0.1309956
 supermarket,Lidl,51.5333193,0.0535664
 gym,The Gym,51.5331189,0.0538407
@@ -4680,7 +4634,7 @@ cafe,The International Comrades,51.524389,-0.034313
 cafe,Grocery Post,51.5520288,-0.1919916
 gym,ON-U-TRAINING,51.5403671,-0.0242619
 gym,Social Yoga,51.5400882,-0.0244353
-cafe,WatchHouse,51.5178902,-0.1390999
+cafe,WatchHouse Fitzrovia,51.5178902,-0.1390999
 cafe,Canary Garden Cafe,51.5012302,-0.0166002
 cafe,Ngopi UK,51.5460845,-0.0701801
 cafe,Nagare Coffee,51.5134434,-0.1384517
@@ -4728,11 +4682,10 @@ cafe,Glass Cafe,51.5538723,-0.1660261
 gym,Psycle,51.5051349,-0.0879812
 cafe,Corner Deli,51.5294397,-0.0693791
 cafe,Glace Cafe,51.5326215,-0.0112462
-cafe,SIENNA Cafe,51.4852828,-0.0240595
+cafe,SIENNA Cafe,51.4852754,-0.0240893
 gym,Après London,51.4786052,-0.0248852
 cafe,Elsewhere Coffee Roastery,51.4792433,-0.0267741
 cafe,Rupert & Teddy Artisan Deli,51.4827098,-0.0131091
-cafe,SIENNA,51.4852754,-0.0240893
 supermarket,M&S Food,51.46251,-0.1365258
 pharmacy,,51.5202652,-0.1229161
 cafe,Lot 103,51.5499941,-0.0871593
@@ -4749,8 +4702,6 @@ cafe,Bubble Bee Bubble Tea,51.5470057,-0.0986132
 cafe,Mack Bear Coffe Co,51.5320454,0.0553957
 gym,SoulCycle,51.5148208,-0.1376299
 cafe,Parkside Shake Bar,51.4803031,-0.0059336
-cafe,Hot Mess Toasties,51.5079709,-0.1103335
-cafe,Gabu Chocolate House,51.5078336,-0.1103181
 gym,The Gym Group,51.4656564,-0.1011253
 cafe,Green Cafe,51.5766495,0.0261462
 cafe,Nero Express,51.5176257,-0.0807325
@@ -4789,7 +4740,7 @@ cafe,Cuppacha,51.5118995,-0.1291043
 cafe,御黑堂 Yunique,51.5118151,-0.1290493
 cafe,Zeit für Brot,51.5320601,-0.1064384
 cafe,The Lavery,51.4951109,-0.1747484
-cafe,Black Sheep Coffee,51.4806417,-0.1943441
+cafe,Black Sheep Coffee,51.4806767,-0.1945297
 cafe,Balans Soho Society Cafe,51.5133235,-0.131167
 cafe,Tintico,51.5144806,-0.1313036
 cafe,EL&N,51.5150383,-0.152077
@@ -4828,8 +4779,7 @@ cafe,Desi Food Hub,51.5405686,0.0331024
 cafe,Blighty,51.5639276,-0.102911
 cafe,Serve Smiths,51.4497969,-0.0173814
 cafe,Caffe Papavero,51.4780562,-0.0133389
-cafe,Damsel Collective,51.5294154,-0.0773931
-cafe,gram'n degrees,51.5304463,-0.0774115
+cafe,Gramndegrees,51.5304646,-0.0774363
 cafe,Cafe Seek,51.5021753,-0.010729
 gym,Moreyoga,51.4671237,-0.1174037
 cafe,El Marsem,51.4902157,-0.0800946
@@ -4844,7 +4794,6 @@ cafe,% ARABICA,51.511704,-0.1240254
 cafe,Paris Baguette,51.481774,-0.1455768
 cafe,OBA Coffee,51.5167495,-0.0910541
 gym,Pilates Plus London,51.4836063,0.0167811
-cafe,Gecko Coffeehouse,51.5245507,-0.0727159
 pharmacy,,51.5721403,-0.1977392
 cafe,Damoa,51.5723595,-0.1973918
 cafe,Saint Louie,51.4866441,-0.0926421
@@ -4872,6 +4821,7 @@ cafe,Tealby’s,51.4783272,-0.1452438
 pharmacy,Rowlands Pharmacy,51.487301,-0.2202913
 cafe,Molan Tea,51.4926978,-0.0971885
 cafe,The Gunnery Cafe,51.4923483,0.07398
+cafe,Heytea,51.5051269,-0.0212582
 cafe,Dzrt,51.5339195,-0.0271197
 cafe,Mono London,51.532876,-0.0306474
 pharmacy,Bell Pharmacy,51.5323799,-0.0316961
@@ -4883,7 +4833,6 @@ cafe,Nomu Coffee,51.4943309,-0.2674507
 cafe,Mehmet Efendi 1953,51.5158638,-0.1644408
 cafe,Canapa House,51.5185032,-0.0726951
 cafe,Cafe Mission,51.5184863,-0.0736678
-cafe,Black Cat Café,51.551398,-0.0554608
 cafe,Aries,51.5120731,-0.1364097
 supermarket,M&S Food,51.5125421,-0.1309687
 cafe,Noxy Brothers,51.5194535,-0.0762727
@@ -4921,10 +4870,10 @@ cafe,The Coffee Lounge,51.4904494,0.0681291
 cafe,Fuwa Fuwa Cafe,51.5126334,-0.1320124
 cafe,The Libra Theatre Cafe,51.5429039,-0.1480728
 cafe,Fable and Falcon,51.5433961,-0.1506789
-cafe,LUMI,51.5367743,-0.1404704
 cafe,The Café at Chancery House,51.5176782,-0.1132705
+cafe,Bob's Your Uncle,51.4914809,0.0691552
 cafe,Basis Cafe,51.5383415,-0.0584222
-cafe,Junkies,51.5287146,-0.0780489
+cafe,Junkies,51.5286993,-0.0780546
 cafe,The Dialogue,51.5634223,-0.0583488
 cafe,Rose's,51.5427317,-0.1992256
 gym,MoreYoga,51.5022534,-0.0114241
@@ -4944,7 +4893,6 @@ cafe,,51.5227104,-0.1313234
 cafe,Puccino's,51.5651175,-0.105963
 cafe,Caspino,51.5027641,0.006382
 gym,The Pilates House,51.476949,0.0197407
-park,The heath,51.5616507,-0.1798229
 cafe,Oxleas Wood Cafe,51.466611,0.0697558
 cafe,Cafe Volt,51.5004979,-0.0970378
 cafe,Camden Tea Bar,51.541177,-0.1463692
@@ -4952,7 +4900,6 @@ cafe,Costa,51.4792023,0.0510066
 gym,Burn LDN,51.524779,-0.1967706
 gym,Burgess Park Sports Centre,51.4839171,-0.0770491
 cafe,Beit Cafe,51.5736655,-0.2008407
-cafe,Lola’s Cupcakes,51.5490772,-0.1910717
 cafe,Café 42 Degrees,51.5501163,-0.0159562
 supermarket,Goodies Supermarket,51.5277014,-0.2667586
 cafe,Kiss the Hippo,51.5186234,-0.1317635
@@ -4967,15 +4914,199 @@ gym,Jetts Fitness,51.5211936,-0.0487815
 cafe,Suzette Garden,51.4975556,-0.1366989
 cafe,Urban Baristas,51.5229171,-0.0842431
 cafe,Bewliehill,51.5167965,-0.0804006
-pharmacy,Hatcham Pharmacy,51.4743763,-0.0465998
+pharmacy,Hatcham Pharmacy,51.4743808,-0.0465689
 cafe,Elephant Coffee,51.4947527,-0.0983416
-cafe,Urban Baristas,51.5240149,-0.0727931
 gym,Paragon Gym,51.5258287,-0.076521
 cafe,chaiiwala,51.5265334,-0.0650726
 supermarket,Earth Organic,51.5262951,-0.0670248
 cafe,The Greenwich Nest,51.4822679,-0.0150566
-cafe,Mayalita,51.5267596,-0.1292217
-cafe,Bloom Works Cafe,51.4731257,-0.0925471
+cafe,North Acton Pavilion Cafe,51.5209758,-0.2695635
+cafe,Bloom Works Cafe,51.4731004,-0.092528
+pharmacy,Osbon Pharmacy,51.5400564,-0.097024
+cafe,Studio Coffee,51.5102361,-0.1241161
+gym,GroundWork Training,51.5471913,-0.0496295
+cafe,Funny Weather books + coffee,51.5586219,-0.1484405
+cafe,Filo,51.4936442,-0.1764897
+cafe,Hiya Boba,51.4937895,-0.1766401
+cafe,Trevi Italian Tiramisu,51.4938293,-0.1766772
+gym,Stone Fitness,51.4934729,-0.1767021
+cafe,The Clarion Cafe,51.4804489,-0.1969907
+gym,Strong Pilates,51.4806649,-0.1979998
+cafe,Love Walk Cafe,51.4806685,-0.1985957
+cafe,Theatre Plan,51.5228918,-0.1239379
+cafe,Mardy's,51.5137742,-0.1446365
+cafe,Venice Cafe,51.5148087,-0.1760507
+cafe,Blank Street Coffee,51.4940355,-0.1002145
+cafe,Artisan,51.4798437,-0.198552
+cafe,Wafflemeister,51.5144013,-0.1480092
+cafe,Jack's,51.4888165,-0.0923455
+cafe,Apple Tree Children’s Cafe,51.4621341,-0.0669035
+gym,Fulham Swim School,51.4805781,-0.199801
+supermarket,Starry Mart,51.4805062,-0.1992472
+supermarket,Al Baydar,51.4833156,-0.2006913
+gym,Oxygen Yoga,51.5305666,-0.0761105
+cafe,Acacia,51.4845221,-0.2016661
+supermarket,Al-Ghazal,51.4845717,-0.2017024
+cafe,Lytte Coffee,51.4847147,-0.2018339
+gym,Fulham Boxing Club,51.4807937,-0.1992598
+cafe,,51.5474734,-0.1909224
+cafe,Wild Bear,51.4785383,-0.1805941
+cafe,The Civet House,51.4790873,-0.1995523
+cafe,7oZ Coffee,51.4650639,-0.1291644
+cafe,Kavilla,51.5004166,0.0287133
+supermarket,Thai House,51.4928443,-0.2645797
+cafe,Wild Brunch,51.4927467,-0.2656143
+gym,Blueprint : Fitness,51.5472898,-0.0502196
+gym,Eye of Hatha,51.4804963,-0.2049624
+cafe,Jubilee Cafe,51.5002015,-0.1255589
+cafe,Panda Cha Tea,51.4847245,-0.2018069
+cafe,The Brush,51.5263002,-0.0834889
+cafe,Weirdough,51.4963545,-0.0474244
+supermarket,Zest Organic,51.500342,-0.0721769
+cafe,Fond You,51.5276305,-0.0778527
+supermarket,Kourosh Hypermarket,51.4839279,-0.2015223
+supermarket,UR Supermarket,51.4840425,-0.2016112
+supermarket,Lidl,51.4843874,-0.2018719
+gym,The Gym Group,51.4842892,-0.2017996
+cafe,Sultan Cafe,51.484446,-0.2019235
+supermarket,All in 1 Food & Wine,51.4852258,-0.202553
+cafe,Solt Room,51.5472871,-0.0496326
+cafe,,51.4750484,0.0383992
+cafe,Goniche Cafe,51.5603031,-0.115303
+cafe,Vanilla Bean Cafe,51.480663,-0.2049518
+cafe,,51.44967,0.0142251
+cafe,Sean's Shack,51.5788571,-0.1226067
+gym,David Lloyd Clubs,51.4809069,-0.1946452
+cafe,Fred,51.5221727,-0.1142016
+supermarket,Enca Food,51.4809751,-0.2074367
+cafe,Hej,51.5080369,0.0327894
+cafe,Hej Neighbourhood Coffee,51.5080432,0.028375
+cafe,Costa Coffee,51.5081343,0.0312448
+cafe,Corgi Cafe,51.5256486,-0.0825155
+cafe,Oliphant’s Ice Cream & Bakery,51.5117963,-0.1230097
+cafe,Nero Express,51.5044511,-0.0861088
+cafe,Mill Kitchen,51.4823898,-0.2136067
+cafe,,51.4905174,-0.2162847
+cafe,Le Cafe Robuchon,51.5064742,-0.1437577
+cafe,Bloom Cafe,51.4978093,-0.1697752
+cafe,Coco Playa,51.5119293,-0.1335048
+gym,TeeGo,51.545077,-0.0209208
+gym,Snap Fitness,51.5185058,-0.1116692
+cafe,Meletius,51.518376,-0.1139485
+gym,Revolt Cycling,51.5184874,-0.1139566
+cafe,Minnie's,51.5270526,-0.0170501
+cafe,Hagen,51.5040701,-0.0203127
+supermarket,Aldi,51.5311238,-0.0712076
+cafe,The Hideout,51.4794645,-0.1268706
+cafe,Silva’s Café,51.4794879,-0.126994
+cafe,Ú Cantinho da Célia,51.4795325,-0.1275286
+cafe,Black Sheep Coffee,51.4831694,-0.1278791
+gym,Guts and Glory,51.4745917,-0.2036529
+gym,The Power Yoga Co.,51.4742279,-0.2043412
+cafe,The Locals Chelsea,51.487871,-0.149539
+cafe,Nūs Nūs,51.4649596,-0.0364172
+cafe,yume,51.4654641,-0.0360653
+cafe,Matt's,51.4764908,-0.2039387
+cafe,Torelli,51.5183987,-0.1774893
+gym,,51.4789684,-0.0956652
+cafe,Local Hero,51.4763121,-0.2047374
+cafe,Moloko,51.4703749,-0.25789
+gym,,51.5208744,-0.0255921
+cafe,Joe & The Juice,51.4757141,-0.2054752
+cafe,Italian Coffee House,51.5633606,-0.1070268
+starbucks,Starbucks,51.5139364,-0.1393519
+cafe,Joe & The Juice,51.5141847,-0.1392359
+cafe,Department of Coffee and Social Affairs,51.5135741,-0.1389867
+pharmacy,Reena's Pharmacy,51.4776356,-0.1231993
+cafe,Bar Bruno,51.5129808,-0.1337913
+cafe,Flat White,51.5135985,-0.1348074
+cafe,Mediterranean Cafe,51.5136424,-0.1348467
+cafe,Kova Patisserie,51.5142993,-0.1341352
+gym,Soho Fitness Lab,51.5143126,-0.1340812
+cafe,Joe & The Juice,51.5130335,-0.1319497
+cafe,Caffè Nero,51.5132388,-0.1313755
+cafe,ChaTraMue,51.5126743,-0.1327649
+cafe,Cafe Vins,51.5133703,-0.1388175
+cafe,L'Express,51.5132517,-0.1421365
+cafe,Unit,51.5167147,-0.1414932
+cafe,Blank Street Coffee,51.5172007,-0.1429885
+cafe,Blessing Snacks & Foods,51.4875564,0.0564622
+cafe,eurocafe,51.4572172,0.0113906
+cafe,The Gentlemen Baristas,51.5052057,-0.0918444
+cafe,Monmouth Coffee Company,51.5055045,-0.0914259
+cafe,Elliot's,51.505668,-0.091564
+cafe,Flamingo Cafe House,51.5033469,-0.1015306
+cafe,Cafe Relaxo,51.5034208,-0.1015348
+cafe,Café Rossi,51.504637,-0.0899842
+pharmacy,City Pharmacy,51.5048734,-0.089662
+cafe,Costa,51.5045847,-0.0908967
+cafe,Rose & Rose,51.558241,-0.1784964
+supermarket,Pachara,51.5622476,-0.0762324
+supermarket,Woody's Fresh Picks,51.5615176,-0.0821104
+cafe,The Hive,51.4754432,-0.2062368
+cafe,Poetry Pharmacy,51.5155345,-0.1385668
+cafe,Kamakura,51.5157019,-0.1457533
+gym,PureGym,51.523954,-0.07218
+gym,Tempo Pilates,51.5238254,-0.0727682
+cafe,Andy's,51.5839715,-0.0192941
+cafe,Cafe Chaii,51.5841585,-0.019368
+cafe,Copperfield,51.5845799,-0.020732
+cafe,Sun On Cafe,51.5844595,-0.0223275
+cafe,Mego,51.5843376,-0.0230036
+cafe,Coffee Beans Market,51.5837849,-0.0249454
+cafe,Jesse's Cafe,51.5822755,-0.0299695
+cafe,Ricco's Cafe,51.5822419,-0.0301082
+cafe,Friends Lounge,51.5821527,-0.0305388
+cafe,Pulse & Pickle,51.5818788,-0.0318071
+cafe,Bim's,51.5816477,-0.033017
+cafe,Delight Kebab & Cafe,51.5813713,-0.0332813
+cafe,St James Kitchen,51.5803556,-0.0329518
+cafe,Incoming Coffee,51.5803064,-0.0329508
+cafe,Weirdough Bakery,51.5789402,-0.0324476
+cafe,Costa,51.5811794,-0.0334527
+cafe,Mooboo,51.5814231,-0.0336735
+pharmacy,Well Pharmacy,51.5818212,-0.0330871
+cafe,Querky Cafe,51.5818485,-0.0329114
+cafe,Cafe Cadde,51.5821607,-0.031363
+cafe,Desi's Cakes,51.5822506,-0.0309898
+cafe,Deja Vu,51.5823251,-0.0305862
+cafe,Rio Cafe,51.5824091,-0.030213
+cafe,Fat Chef Coffee Shop,51.5825524,-0.0295631
+cafe,Market Cafe,51.5835513,-0.026197
+cafe,Pop-in Cafe,51.583771,-0.0255548
+cafe,First Stop Cafe,51.5838311,-0.0253416
+pharmacy,Brittania Pharmacy,51.5794957,-0.0213773
+cafe,Briq,51.5274773,-0.0568813
+cafe,Pique,51.4647607,-0.1592491
+cafe,Relax,51.5690993,-0.008532
+supermarket,Tian Tian Market 天天超市,51.4811174,-0.1378149
+gym,Anytime Fitness,51.5728276,-0.0892222
+cafe,Sons,51.5487408,-0.0424031
+cafe,The Playhut Café,51.5434421,-0.1973318
+cafe,Hamilton's Cafe,51.5123801,-0.1438788
+gym,The Gym Group,51.5433534,-0.0562044
+cafe,Kava Local Coffee,51.5214566,-0.1435282
+gym,Southwark Park Tennis Courts,51.4959529,-0.0580555
+gym,Misfit Gym,51.5839378,-0.0082194
+cafe,Soul Bowl,51.5755044,-0.0125359
+gym,Sola Reformer,51.5111953,0.0111971
+gym,STRONG Pilates Hackney,51.5472296,-0.0509895
+cafe,Marvellous Greens & Beans,51.4481274,-0.0407487
+cafe,Joon Café,51.5241539,-0.1399015
+cafe,The Service,51.5125338,-0.0792347
+pharmacy,Hyatt Pharmacy,51.5139374,-0.1553237
+cafe,Rahel's Coffee,51.5063291,-0.05233
+cafe,Scenery,51.5036357,-0.0992896
+cafe,Sipp Speciality Coffee,51.4690724,-0.119634
+cafe,,51.510657,-0.0863482
+pharmacy,Fourway Pharmacy,51.4527933,-0.1004986
+supermarket,Sainsbury's,51.4770762,-0.0422339
+cafe,Hermanos Colombian Coffee Roasters,51.5125365,-0.0763056
+gym,LevelOut,51.5483542,-0.061325
+cafe,Sophie's,51.5196395,-0.226196
+starbucks,Starbucks,51.5039154,-0.0752672
+cafe,Blue Duck Cafe,51.5038808,-0.0751342
+cafe,Donalds Hackney Wick,51.5345805,-0.0205274
 park,Lewisham Park,51.453172,-0.0131711
 park,Russell Square,51.5216943,-0.126069
 park,Tavistock Square,51.5250414,-0.1290244
@@ -4988,11 +5119,10 @@ park,Kensington Gardens,51.5066483,-0.1802014
 park,Big Wood,51.5833997,-0.1887685
 park,Fortune Green,51.5546644,-0.1977086
 park,Hendon Park,51.5811287,-0.2216207
-park,Gladstone Park,51.5578225,-0.2352947
 park,Mountsfield Park,51.4474451,-0.0093265
 park,Queens Park,51.5361349,-0.2107364
 park,Lincoln's Inn,51.5170075,-0.1144526
-park,Grosvenor Square,51.5115067,-0.1513923
+park,Grosvenor Square,51.5115126,-0.1513926
 park,Leicester Square,51.5104369,-0.1301305
 park,Primrose Hill,51.5390612,-0.1616396
 park,Hampstead Cemetery,51.5557913,-0.2002153
@@ -5002,7 +5132,7 @@ gym,Nuffield Health Fitness & Wellbeing,51.5449172,-0.2213145
 park,Stationers Park,51.5792895,-0.1122109
 park,Parsons Green,51.4735096,-0.1994916
 park,Chelmsford Square Tennis Courts & Gardens,51.538513,-0.2259807
-park,Roundwood Park,51.5413237,-0.2402052
+park,Roundwood Park,51.5413367,-0.2402052
 supermarket,Sainsbury's,51.5467691,-0.2255082
 park,Hammersmith Park,51.5102941,-0.2283516
 park,Shepherds Bush Green,51.5042477,-0.2219807
@@ -5011,7 +5141,7 @@ park,South Park,51.4690551,-0.1942844
 park,Woburn Square,51.5233255,-0.1296417
 park,Gordon Square,51.524262,-0.1308717
 park,West Square Gardens,51.4951846,-0.1055267
-park,Queen Square Gardens,51.5217715,-0.1224453
+park,Queen Square Gardens,51.5217715,-0.1224411
 park,Red Lion Square Gardens,51.5191892,-0.1188966
 park,Berkeley Square,51.5096414,-0.1458119
 park,,51.5106382,-0.1196006
@@ -5026,7 +5156,7 @@ park,Grosvenor Gardens,51.4977368,-0.1472135
 park,Grosvenor Gardens,51.4965639,-0.1455517
 park,Christchurch Gardens,51.4981134,-0.1344937
 park,Dean's Yard,51.4985817,-0.1290543
-park,College Green,51.4980919,-0.1261387
+park,College Green,51.4981024,-0.1261387
 park,Victoria Tower Gardens,51.4964596,-0.1248658
 park,St John's Gardens,51.494379,-0.128026
 park,Riverside Walk Gardens,51.489166,-0.1279354
@@ -5071,7 +5201,7 @@ park,Sidney Square Gardens,51.5165825,-0.054915
 park,St Francis Park,51.4620416,-0.0821186
 park,Centre for Wildlife Gardening,51.462899,-0.0751308
 park,,51.4619987,-0.0710079
-park,Talacre Town Green,51.5469724,-0.148116
+park,Talacre Gardens,51.5469724,-0.148116
 park,Harrington Square Gardens,51.5331096,-0.1386563
 park,Latchmere Recreation Ground,51.4718377,-0.1616694
 park,Fred Wells Gardens,51.4722534,-0.1752265
@@ -5103,7 +5233,6 @@ park,Dukes Meadows,51.4773512,-0.2540718
 park,,51.4468095,-0.1112441
 supermarket,Morrisons,51.4730343,-0.0684465
 park,Rosemary Gardens,51.5384123,-0.0875617
-park,Eel Brook Common,51.4764278,-0.1949946
 park,Elthorne Park,51.5704804,-0.1255149
 park,Burton Court,51.4883355,-0.1597474
 supermarket,Lidl,51.4724503,-0.0712745
@@ -5115,7 +5244,7 @@ park,,51.5317706,-0.0766476
 park,Jesus Green,51.5291282,-0.0684355
 park,Ion Square Gardens,51.5305278,-0.0664427
 park,Pollard Square,51.5274278,-0.0643733
-park,Paradise Gardens,51.5277625,-0.0557939
+park,Paradise Gardens,51.5280049,-0.0558229
 park,Clapton Square,51.5509909,-0.0538876
 park,York Square Gardens,51.5136213,-0.0393787
 park,Belgrave Open Space,51.5161398,-0.0421315
@@ -5128,7 +5257,6 @@ park,Stonebridge Common,51.5399498,-0.0748126
 park,,51.5417235,-0.0730948
 gym,London Fields Lido,51.5426434,-0.0614206
 cafe,Pryors Bank Café,51.4682554,-0.2124958
-park,Hampstead Heath Extension,51.5743522,-0.1839484
 park,Telegraph Hill Lower Park,51.4692276,-0.0451498
 park,Holland Park,51.5027819,-0.2031275
 park,Springfield Park,51.5707295,-0.0586664
@@ -5159,7 +5287,7 @@ park,West Ham Park,51.5391992,0.0178617
 park,Chiswick Rugby Football Club,51.4747652,-0.2614232
 gym,Ferndale Community Sports Centre,51.4633549,-0.1172333
 park,Museum Gardens,51.5282742,-0.0546803
-park,Gray's Inn Gardens,51.5255089,-0.1161849
+park,St. Andrew's Gardens,51.5255089,-0.1161849
 park,Cundy Park,51.5103518,0.0316137
 park,Beaumont Square Gardens,51.5202647,-0.0456089
 supermarket,Sainsbury's,51.5211076,-0.0585381
@@ -5169,12 +5297,12 @@ park,Central Park,51.4977133,0.008718
 park,Thornhill Square,51.5401591,-0.1152453
 park,Paradise Park,51.5484159,-0.1121783
 park,East Greenwich Pleasaunce,51.4846713,0.0137518
-park,St. Dunstans Churchyard,51.5165864,-0.0414609
+park,St. Dunstan's Churchyard,51.5165864,-0.0414609
 gym,Cally Pool and Gym,51.5383387,-0.1170227
 park,,51.4940758,-0.2390699
 park,Ravenscourt Park,51.4970755,-0.2394441
 park,Wormholt Park,51.5108322,-0.2372902
-park,Caledonian Park,51.5466375,-0.123344
+park,Caledonian Park,51.546889,-0.123344
 park,Barking Park,51.5456951,0.0852744
 park,Abbey Green,51.5357335,0.0757335
 park,Whitehorse Open Space,51.5162772,-0.0398245
@@ -5188,6 +5316,7 @@ park,,51.4916944,-0.0902823
 park,Salisbury Row,51.4922954,-0.0873454
 park,Doncaster Gardens,51.5780747,-0.0952807
 park,Acton Park,51.5079932,-0.2598318
+park,Southfield Recreation Ground,51.5036101,-0.2616313
 park,Acton Green Common,51.495411,-0.263413
 park,Homefield Recreation Ground North,51.4894559,-0.2493904
 park,St. Peter's Square,51.4918774,-0.2440107
@@ -5200,7 +5329,7 @@ park,Victory Community Park,51.4931479,-0.0926978
 gym,Hornsey Cricket Club,51.5822982,-0.1307651
 gym,Crouch End Cricket Club,51.584035,-0.133089
 park,Thames Barrier Park,51.5007431,0.0341145
-park,Dartmouth Park,51.5617537,-0.1395329
+park,Dartmouth Park,51.5617233,-0.1395473
 park,Girdlestone Park,51.56491,-0.1380369
 park,Cantelowes Gardens,51.5468712,-0.1333895
 park,St James Park,51.5770705,-0.0377677
@@ -5208,7 +5337,7 @@ park,Grafton Square,51.4644893,-0.1389939
 supermarket,Sainsbury's,51.4620711,-0.1359266
 park,,51.5053212,-0.0573175
 park,Wapping Green,51.5055994,-0.0588071
-park,Wapping Gardens,51.5046726,-0.0604808
+park,Wapping Gardens,51.5046771,-0.0604765
 park,St John's Churchyard,51.5037954,-0.0617444
 park,Basing Hill Park,51.5682701,-0.2059741
 park,Finsbury Circus Gardens,51.5178542,-0.0864699
@@ -5246,9 +5375,9 @@ park,Kynaston Gardens,51.5608457,-0.074412
 park,Church Street Gardens,51.5605511,-0.0852794
 cafe,Splash Oasis,51.480164,-0.2543491
 gym,Quintin Hogg Memorial Sports Ground,51.4773689,-0.2666027
-park,Sidmouth Park,51.5611698,-0.0071564
-park,St George's Gardens,51.5101752,-0.0591861
-park,King Edward Memorial Park,51.5089963,-0.0486772
+park,Sidmouth Park,51.5611698,-0.0071579
+park,St George's Gardens,51.5101753,-0.0591078
+park,King Edward Memorial Park,51.5089793,-0.0486761
 park,Hermitage Riverside Memorial Garden,51.504509,-0.0674277
 park,,51.4944616,-0.2607592
 park,St Mary's Churchyard,51.4927918,-0.1018737
@@ -5299,7 +5428,7 @@ park,Keir Hardie Park,51.5118688,0.0157194
 park,Barnes Green,51.4726555,-0.2452768
 park,Luxmore Gardens,51.4709771,-0.0321067
 park,Friendly Gardens,51.4707111,-0.027652
-park,Brookmill Park,51.4702611,-0.0198315
+park,Brookmill Park,51.4702611,-0.0198216
 park,Fordham Park,51.4773953,-0.0362522
 park,Consort Park,51.4683748,-0.0610958
 park,Dr Harold Moody Park,51.4675494,-0.0611466
@@ -5317,7 +5446,7 @@ park,St. John's Churchyard,51.5021415,-0.0785969
 park,Tanner Street Park,51.5000347,-0.0804911
 park,Leathermarket Gardens,51.5008868,-0.0839994
 park,Folkestone Gardens,51.4834188,-0.0399309
-park,Swedenborg Gardens,51.5098738,-0.0636917
+park,Swedenborg Gardens,51.5098738,-0.0636812
 park,Bramcote Nature,51.4855145,-0.0563059
 park,Bermondsey Spa Gardens,51.4948643,-0.0748259
 park,Shuttleworth Park,51.491788,-0.061061
@@ -5332,19 +5461,19 @@ park,Linear Park,51.5621982,0.0020172
 park,Sunray Gardens,51.4566894,-0.091693
 supermarket,Sainsbury's,51.5213499,0.0659051
 supermarket,Asda,51.5149947,0.0577414
-park,Brenchley Gardens,51.451837,-0.0536111
+gym,Primo Padel Club,51.5160274,0.0626207
+park,Brenchley Gardens,51.4519026,-0.053603
 park,Montpelier Gardens,51.5528454,-0.1343942
 gym,Homestall Road Sports Ground,51.4549429,-0.0564383
 park,Brunswick Park,51.475878,-0.0858595
 park,Rochester Terrace Gardens,51.5448471,-0.1387796
 supermarket,Sainsbury's,51.4953734,-0.1884639
 gym,Highbury Leisure Centre,51.5476556,-0.1034201
-gym,Parliament Hill Fields Changing Rooms,51.5569988,-0.1569171
 park,Cossall Park,51.472102,-0.0625041
 park,Oakley Square Gardens,51.5341248,-0.1363213
 park,Pedlar's Park,51.4909499,-0.1200143
 park,Pedlar's Park,51.4915031,-0.1193311
-park,Cumberland Market,51.529321,-0.1426255
+park,Cumberland Market,51.5293284,-0.1426031
 gym,Talacre Community Sports Centre,51.5474416,-0.1472716
 park,Purchese Street Open Space,51.5325426,-0.1292602
 park,Charles Square,51.5271073,-0.0845832
@@ -5368,7 +5497,7 @@ park,Gibson Square,51.5381235,-0.1056423
 park,Lonsdale Square Garden,51.5396068,-0.1082045
 gym,East Dulwich Leisure Centre,51.4607352,-0.0719883
 park,Gibbons Recreation Ground,51.548451,-0.2576325
-park,,51.5433826,-0.2691541
+park,,51.5434118,-0.2691398
 supermarket,Asda,51.5286197,-0.2702326
 park,Tubbs Road Pocket Park,51.5329344,-0.2449484
 park,,51.5369693,-0.2569067
@@ -5433,14 +5562,14 @@ park,,51.5550834,-0.1235308
 park,,51.5548036,-0.1238368
 gym,East Ham Leisure Centre,51.5323276,0.0564599
 park,Roe Green Park,51.586527,-0.270129
-park,Gray's Inn Gardens,51.517422,-0.1070642
+park,St Andrew's Church,51.517422,-0.1070642
 park,Loxford Park,51.5483685,0.0813848
 park,Calypso Gardens,51.4793347,-0.0779335
 supermarket,Whole Foods Market,51.5341503,-0.1049199
 supermarket,Sainsbury's,51.5342457,-0.1077522
 park,Andersons Square,51.5371283,-0.10217
-park,,51.5292175,-0.1142167
-park,Joseph Grimaldi Park,51.5319258,-0.1149095
+park,,51.5292236,-0.1142369
+park,Joseph Grimaldi Park,51.5319304,-0.1149359
 park,,51.5178465,-0.1070182
 park,Lincoln's Inn Fields,51.5162701,-0.1165698
 park,,51.5436659,-0.099961
@@ -5449,7 +5578,7 @@ park,,51.5421834,-0.1022969
 park,Barking Road Recreation Ground,51.5353217,0.0653388
 gym,Clissold Leisure Centre,51.5591296,-0.0856431
 park,Martin Luther King Adventure Playground,51.5479706,-0.1107089
-supermarket,Waitrose,51.5561703,-0.116155
+supermarket,Waitrose,51.5561703,-0.1161718
 supermarket,Morrisons,51.5571856,-0.1165799
 gym,Greenwich Yacht Club,51.4947494,0.0183688
 park,Wray Crescent,51.5663735,-0.1180383
@@ -5463,7 +5592,7 @@ park,Stave Hill Ecology Park,51.5019705,-0.0397793
 cafe,Morr,51.5450636,-0.1034845
 park,Uphall Recreation Ground,51.5531944,0.0693424
 cafe,Costa,51.5357194,-0.1040984
-cafe,Cafe La Devina,51.5392461,-0.1025978
+cafe,LaDivina,51.5392461,-0.1025978
 park,Paddington Street Gardens North,51.5209311,-0.1547781
 park,Hatfields Green,51.5056741,-0.1070491
 cafe,Pear Tree Cafe,51.5159522,-0.1172615
@@ -5479,7 +5608,7 @@ gym,The Movement Studio,51.5495776,-0.1079741
 park,,51.5264333,-0.1426951
 cafe,another brother,51.4619218,-0.2068949
 cafe,Kissawa,51.5477694,-0.1011704
-park,Manor House Gardens,51.4561173,0.0054607
+park,Manor House Gardens,51.4560685,0.0054607
 cafe,Costa,51.5415379,-0.1168294
 supermarket,Co-op Food,51.5411845,-0.1173775
 park,,51.5845358,-0.1159572
@@ -5521,7 +5650,7 @@ park,Lefevre Park,51.5346172,-0.0256489
 park,Grove Hall Park,51.5298358,-0.0180322
 gym,Flaxman Sports Centre,51.4714695,-0.1000252
 park,Frank Banfield Park,51.4881257,-0.2237142
-park,Saint Johns Garden,51.5209762,-0.1040502
+park,St Johns Garden,51.5209762,-0.1040502
 park,The Walled Garden,51.548619,-0.0529817
 park,Annette Gardens,51.5417754,-0.0932555
 park,Cremorne Gardens,51.4796573,-0.178352
@@ -5550,14 +5679,12 @@ park,Palewell Fields and Common,51.4578316,-0.259926
 park,Davenant Road Park,51.5636533,-0.1271758
 cafe,Thames Barrier Cafe,51.4951535,0.041015
 park,,51.4767188,-0.0971912
-park,,51.5330765,-0.1640409
 park,Dibden Street Triangle,51.53854,-0.0971148
 park,Morton Road Park,51.5400359,-0.0931425
 park,,51.5284925,-0.0281435
 park,Churchyard of St. Ann Blackfriars,51.5131742,-0.1023922
 park,Rembrandt Gardens,51.5213694,-0.1813614
 park,St Anne's Churchyard,51.5122818,-0.1324917
-gym,Soho Fitness Lab,51.5142823,-0.1340585
 gym,Mallinson Sports Centre,51.5740373,-0.1551241
 park,,51.5150961,-0.1282758
 park,,51.57042,-0.0645296
@@ -5575,7 +5702,7 @@ park,Pleasant Place Garden,51.5393961,-0.0988474
 gym,Islington Boxing Club,51.5698567,-0.1251282
 park,Hillside Park,51.5695708,-0.1308486
 park,Edward Square,51.5362369,-0.117802
-park,Waterside Gardens,51.5030013,-0.059415
+park,Waterside Gardens,51.5029946,-0.0594249
 park,Upper Pepys Park,51.4884882,-0.0307245
 park,Newington Gardens,51.4976288,-0.0961447
 gym,,51.4686009,-0.2024582
@@ -5584,6 +5711,7 @@ park,Pimlico Gardens,51.4855522,-0.1341275
 park,Dickens' Fields,51.4973484,-0.0931914
 park,,51.5068928,-0.1098249
 park,General Gordon Square,51.4900198,0.067754
+park,Spa Green,51.5285829,-0.1063348
 park,St. John's Church Gardens,51.5045624,-0.1118876
 park,Gwendwr Gardens,51.4913369,-0.2085622
 park,Well Hall Pleasaunce,51.4565648,0.0485283
@@ -5594,7 +5722,7 @@ park,Neptune Street Park,51.4974419,-0.053322
 park,Pearsons Park,51.5038698,-0.0343741
 gym,The Boat House,51.4867302,-0.0100479
 park,,51.4901103,-0.0934513
-park,Hatcham Gardens,51.4751732,-0.0519572
+park,Hatcham Gardens,51.4751735,-0.0519572
 supermarket,Aldi,51.5690694,-0.0301689
 park,Lavender Gardens,51.4651592,-0.1640169
 gym,Rhino Turf,51.4762768,-0.1596703
@@ -5612,7 +5740,7 @@ park,Woolwich Common,51.4770679,0.054503
 park,,51.4787374,0.0593003
 park,Melbourne Green,51.5547682,-0.038166
 gym,The Workhouse,51.5086362,-0.018031
-park,Poplar Recreation Ground,51.5099587,-0.0165811
+park,Poplar Recreation Ground,51.5099585,-0.0165811
 park,Leven Road Open Space,51.5149208,-0.0041763
 park,Braithwaite Park,51.5139019,-0.0023103
 park,Aberfeldy Millennium Green,51.5148202,-0.0054664
@@ -5626,7 +5754,7 @@ park,Furze Green,51.518345,-0.0212301
 park,Chiltern Green,51.5224833,-0.0203333
 park,Prospect Park,51.5232059,-0.0159728
 park,,51.5150403,-0.1595435
-park,Rounton Park,51.5236489,-0.0196096
+park,Rounton Park,51.5236474,-0.0195724
 park,Newington Green,51.5515027,-0.0851879
 park,Richmond Park,51.4386116,-0.2769154
 park,,51.5237731,-0.01126
@@ -5636,7 +5764,7 @@ park,St. Leonard's Priory Park,51.5283769,-0.0129263
 park,Shandy Park,51.5204776,-0.0400631
 park,,51.5006908,0.0594562
 park,,51.5014205,0.0549082
-park,Tate Park,51.5020312,0.0478271
+park,Tate Park,51.5020437,0.0477961
 park,,51.5150495,0.0121844
 park,,51.5134295,0.0205183
 park,St. Bartholomew's Gardens,51.5227482,-0.0562401
@@ -5702,14 +5830,16 @@ gym,Peckham Pulse,51.47419,-0.0705348
 cafe,St. James’s Café,51.5038627,-0.1317283
 gym,Fitness First,51.5147712,-0.1389512
 gym,Absolutely,51.537563,-0.2022687
+park,Duncan Terrace Gardens,51.5324385,-0.1038498
+park,Colebrooke Row Gardens,51.5337867,-0.1029014
 park,Graham Street Park,51.5316885,-0.0982813
 supermarket,Co-op,51.5300793,-0.0980576
 park,,51.4787826,-0.1026423
 pharmacy,House of Mistry,51.5544797,-0.16598
+cafe,WatchHouse,51.5557647,-0.1668834
 cafe,GAIL's,51.5541167,-0.1657233
 pharmacy,Hampstead Heath Pharmacy,51.5549605,-0.1662774
 cafe,Polly's,51.5555085,-0.1667821
-cafe,Hampsted Tea Rooms,51.5542742,-0.1658793
 cafe,Redemption Roasters,51.5554513,-0.1667379
 starbucks,Starbucks,51.5542226,-0.1658528
 cafe,,51.5015334,0.033823
@@ -5743,7 +5873,6 @@ gym,ClubNorth Gymnastics,51.5369853,-0.2042223
 cafe,Caffè Nero,51.5097916,-0.1225712
 cafe,Golden Yoke,51.4615903,-0.078575
 cafe,The Park Cafe,51.5359292,-0.2110839
-gym,Club Pulse (Fitness Centre and Gym),51.4729232,-0.037472
 gym,Gaia Pilates,51.4679202,-0.072308
 cafe,139 Fika,51.4671107,-0.0723506
 cafe,Petitou,51.4674229,-0.0715999
@@ -5783,30 +5912,22 @@ park,Tresham Gardens,51.5260196,-0.1675513
 cafe,The Round,51.4588608,-0.0625916
 park,St Mary Frobisher Park,51.4715003,-0.053808
 park,Hampstead Green,51.5529147,-0.1680872
-cafe,The Gentlemen Baristas,51.5051716,-0.0918159
-cafe,Monmouth Coffee Company,51.5055092,-0.09146
 cafe,The Roasting Plant Coffeeshop,51.5063602,-0.0887129
 gym,Leytonstone Leisure Centre,51.5602231,0.0044
 cafe,Kent Cafe,51.5448105,-0.1417031
 park,Tavistock Road Gardens,51.5188529,-0.2052573
 gym,Butterfly Tennis Club,51.4723495,-0.0884912
 park,,51.5020368,-0.1426849
-cafe,Al Santo,51.4811963,-0.1977571
 gym,Hackney Marshes Centre,51.5529426,-0.0255091
-cafe,Café Rossi,51.5046187,-0.0899338
-pharmacy,City Pharmacy,51.5048443,-0.0895922
-cafe,Flamingo Cafe House,51.5033483,-0.101568
-cafe,Cafe Relaxo,51.5034219,-0.101571
 gym,Porchester Centre,51.5171897,-0.1892282
 park,South Kilburn Open Space,51.5314796,-0.1982335
 park,St James' Gardens,51.5111616,-0.0408166
 park,Arbour Square Gardens,51.5142799,-0.0478678
 park,,51.4864714,0.0111001
 cafe,"Heard, Burger Borough",51.5040264,-0.0954121
-cafe,Costa,51.5045738,-0.0909264
 park,Sensory Gardens,51.4720973,-0.1816906
 cafe,The Lodge Cafe,51.5031762,-0.1528245
-park,Normand Park,51.4846438,-0.2066643
+park,Normand Park,51.4846438,-0.2066599
 supermarket,Co-op Food,51.4587224,-0.0753713
 cafe,Joe & The Juice,51.4574855,-0.0757257
 gym,FitFor,51.4566203,-0.0762192
@@ -5819,11 +5940,10 @@ park,Lambeth Walk Doorstep Green,51.4929191,-0.1121481
 park,Old Paradise Gardens,51.4933103,-0.1190478
 gym,Virgin Active,51.4845098,-0.2085182
 park,,51.5251356,-0.0479919
-cafe,Parliament Hill Cafe,51.5593415,-0.1527604
+cafe,Parliament Hill Café,51.5593441,-0.1527632
 gym,VauxWall East Climbing Centre,51.4923297,-0.1145915
 gym,Soho Gym,51.5157549,-0.1223839
 park,Imperial Park,51.4710247,-0.1832233
-cafe,PAR,51.5229403,-0.1023852
 park,Elm Park,51.5630064,-0.1961079
 pharmacy,Queen's Park Pharmacy,51.5351602,-0.204741
 cafe,Bob's Cafe,51.5355103,-0.2049365
@@ -5843,7 +5963,6 @@ cafe,Nelson's,51.50197,-0.0929459
 cafe,Common Pizza,51.4608052,-0.1432976
 park,Wilmington Square,51.5267774,-0.1105249
 cafe,Cafe Lant,51.5014917,-0.0976188
-cafe,,51.5316841,-0.1060519
 park,Shoreditch Park,51.5346112,-0.0860094
 park,Bramford Gardens,51.4615435,-0.1865845
 park,Aragon Gardens,51.4902648,-0.0312011
@@ -5882,15 +6001,12 @@ gym,Anytime Fitness,51.5364223,-0.1918693
 cafe,Wanstead Tea Hut,51.5658175,0.0415573
 park,Rush Common Woodland Walk,51.4574403,-0.1175316
 cafe,Ciera,51.516236,-0.1427343
-cafe,Unit,51.5167647,-0.1415093
 supermarket,Morrisons,51.5428859,-0.1499053
 park,Leyton Square,51.4814621,-0.0676781
 cafe,Cafe Tejo,51.4929816,-0.1375684
 park,,51.5252722,-0.1992576
 park,,51.5251991,-0.1997765
 cafe,The Rochester Cafe,51.4930955,-0.1374915
-pharmacy,Superdrug,51.4853181,-0.2022766
-cafe,Acacia,51.4845376,-0.2016129
 cafe,Workshop Coffee Co.,51.5223419,-0.1023628
 park,St Mary Abbots Gardens,51.5019553,-0.1929033
 pharmacy,Barons Pharmacy,51.490011,-0.2135264
@@ -5928,8 +6044,7 @@ pharmacy,Superdrug,51.5334774,-0.1074566
 gym,Shaolin Way,51.5332763,-0.1099337
 cafe,Cafe Sizzles,51.533321,-0.1095867
 park,Greenway,51.5330337,-0.0040873
-park,,51.546825,-0.1627447
-park,,51.5472336,-0.1632127
+park,Primrose Gardens,51.5470208,-0.1629672
 cafe,Loft Coffee Company,51.5467654,-0.1804941
 supermarket,Aldi,51.5405668,-0.1961066
 cafe,Maison de la Vie,51.5414394,-0.1970561
@@ -5946,8 +6061,6 @@ park,,51.5687646,-0.1302388
 gym,Copper Box Arena,51.5443509,-0.0200628
 pharmacy,Herne Hill Pharmacy,51.4567269,-0.0963278
 pharmacy,Keats Pharmacy,51.5547028,-0.171994
-pharmacy,Fourway Pharmacy,51.4527311,-0.1004936
-cafe,Peachy Goat,51.4527489,-0.1003363
 cafe,The Roome,51.4530985,-0.0999261
 pharmacy,Brockwell Park Pharmacy,51.4531035,-0.1005351
 cafe,Cuppo Bubbo,51.4531453,-0.1008135
@@ -5982,7 +6095,7 @@ park,,51.5345963,0.0207082
 cafe,Cafe Maya,51.5253045,-0.1107043
 cafe,Devotion,51.5257985,-0.1104451
 gym,Southfields Lawn Tennis Club,51.4522696,-0.2078226
-supermarket,Waitrose,51.4802014,-0.1994
+supermarket,Waitrose,51.4801959,-0.199392
 cafe,Smithfield Cafe,51.5192047,-0.0998624
 cafe,Redemption Roasters,51.5191263,-0.1001099
 cafe,Dose,51.5194326,-0.0992489
@@ -6004,7 +6117,6 @@ cafe,21 West,51.5178613,-0.1017887
 cafe,St Johns Pantry,51.5210027,-0.1019748
 park,Saint John's Churchyard,51.5232071,-0.1026237
 cafe,Caffè Nero,51.5253109,-0.1098683
-pharmacy,Rowlands Pharmacy,51.5253924,-0.1097417
 park,Cavendish Square,51.5165076,-0.145032
 pharmacy,N.V.S. Pharmacy,51.5185786,-0.1556498
 cafe,Etnacoffee,51.5189486,-0.1557304
@@ -6021,20 +6133,12 @@ cafe,T4 Tea For U,51.5112903,-0.1187678
 pharmacy,Peter's Pharmacy,51.5205907,-0.1530235
 cafe,Orrery Epicerie,51.5220812,-0.1513739
 cafe,Granger & Co.,51.5191047,-0.1519173
-park,Kilburn Grange Park,51.5437838,-0.1984749
+park,Kilburn Grange Park,51.5437866,-0.1984749
 cafe,Hamiltons,51.5244674,-0.1026675
 gym,CitySport,51.5248002,-0.0988164
 cafe,Goswell Road Coffee,51.5257423,-0.0994753
 gym,Chain Store,51.5078228,0.008152
 gym,,51.546234,-0.1645065
-gym,The Gym,51.4842153,-0.2021444
-supermarket,Lidl,51.4842153,-0.2021685
-pharmacy,Boots,51.4824412,-0.2004769
-pharmacy,Chana Chemist,51.4806055,-0.1994323
-cafe,Get Fresh,51.4817507,-0.1998305
-gym,F45 Training,51.480811,-0.1993943
-pharmacy,Oza Chemist,51.4801078,-0.1966512
-cafe,The Broadway Grill,51.4800673,-0.1965068
 cafe,Mamolo,51.4803734,-0.1887839
 cafe,Caffè Nero,51.5100011,-0.126743
 cafe,Notes,51.5096963,-0.1266625
@@ -6042,7 +6146,6 @@ park,St Paul's Shrubbery,51.5475724,-0.0897547
 park,Northampton Park Triangle,51.5475366,-0.0911661
 cafe,Metro Cafe,51.4903239,-0.2134021
 cafe,Bio Andes,51.4900349,-0.2062083
-cafe,Cafe Yadana,51.485088,-0.202873
 park,Compton Park,51.5254599,-0.1010333
 supermarket,Lidl,51.5407536,-0.0538609
 cafe,The Travel Cafe,51.5516353,-0.1114412
@@ -6082,15 +6185,11 @@ pharmacy,Queen Pharmacy,51.5190798,-0.1684142
 cafe,Costa,51.5244195,-0.1162329
 pharmacy,Boots,51.5134796,-0.0764626
 park,,51.5318193,-0.0067931
-gym,Indoor Sports court,51.472814,-0.037434
 gym,Paddington Sports Club,51.5259633,-0.1888197
 park,Paddington Recreation Ground,51.5302677,-0.1905548
-gym,Paddington Sports Club,51.5264613,-0.1897265
+gym,Paddington Sports Club,51.5264613,-0.18974
 cafe,Foreign Exchange,51.5115369,-0.1832376
 cafe,Halepi Cafe,51.5113807,-0.1832251
-cafe,Flat White,51.5136114,-0.1347704
-cafe,Mediterranean Cafe,51.5136561,-0.1348075
-cafe,Bar Bruno,51.5129912,-0.1338101
 park,Edbrooke Road Gardens,51.524455,-0.1954249
 cafe,Bread & Truffle,51.5104706,-0.0835991
 cafe,Cheese & Peppers,51.5108744,-0.084877
@@ -6102,21 +6201,14 @@ cafe,Corner Savoy,51.5228248,-0.0780371
 cafe,Santo Remedio,51.5245243,-0.0808885
 cafe,T4 Tea For U,51.5261091,-0.086467
 cafe,The Leaf,51.5247844,-0.080099
-cafe,Attendant,51.5256763,-0.0824785
 cafe,Kybelle,51.5252527,-0.0815899
 cafe,,51.5053078,-0.1877047
-cafe,Cafe Ma-Do,51.5171506,-0.123306
+cafe,Fantail Cafe,51.5171506,-0.123306
 pharmacy,Chinese Medicine Centre,51.5171394,-0.1235125
-cafe,Wild & Coffee Company,51.5170957,-0.1238332
 cafe,Lever & Bloom Coffee,51.5165211,-0.1260432
-cafe,Caffè Nero,51.5132457,-0.1313942
-cafe,Joe & The Juice,51.5130756,-0.1319576
 cafe,Z Cafe,51.5136898,-0.1297211
 cafe,Hatch Waffles,51.5135649,-0.129938
-cafe,Caffè Nero,51.5136872,-0.1295582
 cafe,Chatime,51.5136223,-0.129948
-cafe,Cocomelt,51.5143913,-0.1344759
-cafe,ChaTraMue,51.5126919,-0.1327794
 starbucks,Starbucks,51.5127178,-0.1332598
 gym,Outdoor Sport Centre,51.5070549,0.0664763
 gym,,51.5068102,0.068324
@@ -6125,12 +6217,10 @@ cafe,Melissa,51.4929404,-0.1497274
 cafe,Peggy Porschen Belgravia,51.4932934,-0.1505436
 pharmacy,Walden Chymist,51.4937514,-0.1512821
 pharmacy,Keencare Pharmacy,51.496318,-0.1472552
-cafe,Copperfield,51.5845315,-0.0207083
 cafe,Nuttea,51.5152464,-0.1359047
 cafe,Blank Street Coffee,51.5150586,-0.1359223
 cafe,Vital Ingredient,51.5146056,-0.1355133
 cafe,KOZZEE,51.5154573,-0.1358125
-cafe,Sun On Cafe,51.5845045,-0.0223457
 cafe,Unico,51.5072572,-0.2058659
 pharmacy,Hillcrest Pharmacy,51.5068826,-0.2072039
 cafe,Arab Quarter,51.5069076,-0.2071171
@@ -6138,15 +6228,12 @@ cafe,Joe & The Juice,51.5070597,-0.2065766
 starbucks,Starbucks,51.5072732,-0.2058082
 park,,51.5833786,-0.0582219
 park,Armadale Green,51.5850384,-0.0569337
-cafe,Cafe Chaii,51.5841562,-0.0194027
-cafe,Andy's,51.5839685,-0.0193549
 pharmacy,Boots,51.5142341,-0.0931896
 cafe,Cafe Verona,51.5175978,-0.0883352
 cafe,Pod,51.5172711,-0.0877621
 cafe,Keu,51.5173215,-0.0880955
 gym,Kobox,51.5168719,-0.0852907
 cafe,Costa,51.5186929,-0.0852765
-cafe,First Stop Cafe,51.5838753,-0.0253699
 park,Mirabelle Gardens,51.5468906,-0.0054557
 supermarket,Sainsbury's,51.4934108,-0.2651161
 park,Owens Field,51.530657,-0.104901
@@ -6162,7 +6249,7 @@ cafe,Aqua Deli,51.5170132,-0.0763077
 cafe,Fazenda,51.516977,-0.0762844
 pharmacy,Foster & Sons,51.45398,-0.0628402
 cafe,Parkside,51.454047,-0.0628477
-pharmacy,Day Lewis Pharmacy,51.4533635,-0.0620545
+pharmacy,Wellcare Pharmacy,51.4533635,-0.0620545
 cafe,French Café Bistrot,51.4531501,-0.0617514
 cafe,Crisis Skylight Cafe,51.5180453,-0.0738566
 park,Charlton Park,51.4805016,0.0439078
@@ -6181,12 +6268,10 @@ cafe,Wakley's,51.5302001,-0.1019605
 park,Nightingale Park,51.5450853,-0.0915496
 park,Church Yard of St Mary Aldermanbury,51.5164749,-0.0930955
 cafe,Franco's Take Away,51.5262913,-0.079782
-cafe,Coffee Beans Market,51.5837126,-0.0249053
 gym,Frame,51.5247116,-0.0786958
 supermarket,The Grocery,51.5289315,-0.0775825
 supermarket,Longdan,51.529666,-0.0777223
 cafe,First Step,51.5228606,-0.0823576
-cafe,Pop-in Cafe,51.5838385,-0.0256019
 cafe,The Bike Shed,51.5269357,-0.0786666
 park,,51.5041499,-0.0254879
 park,,51.5036956,-0.0254491
@@ -6207,7 +6292,7 @@ cafe,Sylva Restaurant,51.4826997,-0.0400005
 supermarket,Nisa,51.5522476,-0.1326785
 cafe,Owlie,51.5238353,-0.096646
 park,,51.4713713,-0.1317579
-cafe,No. 67 Cafe & Restaurant,51.4742224,-0.0796301
+cafe,South London Louie,51.4742224,-0.0796301
 park,Stepney Green Park,51.5177842,-0.0463551
 pharmacy,Mansons,51.4569025,-0.1975484
 gym,,51.5155733,-0.1254735
@@ -6262,8 +6347,7 @@ park,,51.4500257,-0.2220526
 park,,51.5167498,-0.0118047
 gym,National Tennis Centre,51.4601284,-0.2534691
 park,The Green,51.5071086,0.0636741
-supermarket,Sainsbury's,51.4772913,-0.0423342
-supermarket,Spar,51.4648122,-0.0378874
+supermarket,Costcutter,51.4648122,-0.0378874
 park,Erebus Gardens,51.5017923,-0.0228387
 gym,Herne Hill Velodrome,51.4506927,-0.0919895
 cafe,Holland Park Café,51.5020904,-0.202937
@@ -6281,15 +6365,16 @@ park,,51.5467377,-0.0810204
 park,,51.4932613,-0.0152782
 park,,51.4935799,-0.015247
 park,,51.4876141,-0.0198135
+gym,Better Gym Hackney,51.5454969,-0.0573157
 gym,Park Road Pools & Fitness,51.5831355,-0.1300758
 gym,Dulwich Sports Club,51.4483619,-0.0952113
 park,Friedrick Street Garden,51.5284389,-0.1161474
 gym,Thirty Eleven,51.5685185,-0.1236858
 cafe,a small place,51.5689531,-0.1234932
-cafe,Popular Cafe,51.5128666,-0.0421026
+cafe,Popular Cafe,51.5128091,-0.0420811
 gym,Virgin Active,51.5064419,-0.0286416
 pharmacy,Boots,51.5135601,-0.0500717
-cafe,Seniz Cafe,51.5130196,-0.0433565
+cafe,Seniz Cafe,51.5129997,-0.0433424
 cafe,Two Magpies,51.5133346,-0.0429865
 park,Avery Hill Park,51.4482875,0.0754059
 park,Oxleas Meadow,51.464882,0.0706924
@@ -6324,7 +6409,6 @@ park,,51.5226903,-0.095593
 gym,Peacock Gym,51.5097388,0.0135065
 cafe,Cafe 26,51.5120747,-0.1202176
 park,Pennyfields Park,51.5098046,-0.0228677
-cafe,Market Cafe,51.5836148,-0.0262499
 park,Rectory Gardens,51.5120745,-0.03242
 gym,Battersea Sports Centre,51.464574,-0.1793876
 park,,51.5485279,-0.0778275
@@ -6338,34 +6422,16 @@ supermarket,Sainsbury's,51.5826723,-0.0270695
 pharmacy,Boots,51.5562795,-0.1776394
 park,Westway Garden,51.5151494,-0.2195696
 cafe,Le Pain Quotidien,51.5565107,-0.1780463
-cafe,Friends Lounge,51.582087,-0.0304998
-cafe,Pulse & Pickle,51.5818407,-0.0317853
-cafe,Jesse's Cafe,51.5821928,-0.029909
-cafe,Ricco's Cafe,51.5821739,-0.0300658
-cafe,St James Kitchen,51.5803543,-0.0330389
-cafe,Incoming Coffee,51.5802985,-0.0330643
-cafe,Costa,51.5811525,-0.0334832
-cafe,Mooboo,51.5813724,-0.0338111
-cafe,Delight Kebab & Cafe,51.5813961,-0.0332192
 supermarket,Gazi International Supermarket,51.5818141,-0.0336152
 supermarket,Lidl,51.5822886,-0.0320271
-cafe,Bim's,51.5815812,-0.0329868
-cafe,Querky Cafe,51.5818718,-0.0329219
-pharmacy,Well Pharmacy,51.5819022,-0.0331236
 gym,The Greenhouse Centre,51.5216136,-0.1664824
 park,Malcolm Park,51.5834628,-0.2376004
-cafe,Desi's Cakes,51.5823304,-0.0310268
-cafe,Cafe Cadde,51.5822558,-0.031415
-cafe,Deja Vu,51.5823818,-0.0306023
-cafe,Fat Chef Coffee Shop,51.5826313,-0.0296128
-cafe,Rio Cafe,51.5824653,-0.0302441
 cafe,Browns of Brockley,51.4644219,-0.036952
 cafe,Hendon Park Cafe,51.5828343,-0.2243684
 cafe,The Beach Hut,51.5356858,-0.1527517
 supermarket,Waitrose,51.5175713,-0.1657751
 gym,Renaissance yoga & well being,51.4637567,-0.0389718
 cafe,N4 Coffee Fruit,51.5689552,-0.1107907
-pharmacy,Brittania Pharmacy,51.5795408,-0.021392
 cafe,Gategrill Café,51.5208688,-0.0977289
 cafe,Piazza,51.5201176,-0.0976692
 cafe,Central Cafe,51.464172,-0.0360652
@@ -6413,7 +6479,7 @@ park,,51.4768511,-0.1092102
 supermarket,Planet Organic,51.4922777,-0.2576682
 cafe,Caffè Nero,51.4928446,-0.255909
 park,,51.4799296,-0.1718312
-park,Wapping Rose Gardens,51.5037977,-0.0588805
+park,Wapping Rose Gardens,51.5038053,-0.0588836
 park,Eckington Gardens,51.4774123,-0.0472343
 pharmacy,Kingshield Pharmacy,51.4641969,-0.1140625
 cafe,Azmarino Coffee,51.4644354,-0.114019
@@ -6467,7 +6533,7 @@ supermarket,Lidl,51.4926607,0.0659963
 cafe,Pavilion Cafe,51.5334003,-0.042889
 gym,Sportsdock at UEL,51.5075807,0.0682869
 supermarket,Asda,51.484681,-0.0699709
-supermarket,Sainsbury's,51.4560935,0.0101011
+supermarket,Sainsbury's,51.4560924,0.0101011
 supermarket,Co-op Food,51.4511525,-0.0064696
 supermarket,Yasar Halim,51.5809754,-0.0996795
 park,Cann Hall Park,51.5574467,0.0157211
@@ -6481,7 +6547,7 @@ cafe,Truth,51.4908524,-0.2239046
 park,,51.5301905,-0.1678948
 park,,51.5301315,-0.1677082
 park,,51.5300527,-0.1678798
-park,Brompton Park,51.483434,-0.1932424
+park,Brompton Park,51.4835152,-0.1931135
 park,Stevenage Park,51.4758537,-0.222208
 pharmacy,Medicine Box Pharmacy,51.5350497,-0.1393117
 cafe,Yamas,51.5357157,-0.1393274
@@ -6503,6 +6569,7 @@ park,,51.5389642,-0.025787
 supermarket,M&S Food,51.5475842,-0.055482
 park,Diversity Garden,51.4993521,-0.1029791
 park,,51.4992204,-0.1033185
+cafe,Mona's,51.5199229,-0.1632649
 cafe,Valentines Park Cafe,51.5683447,0.070484
 park,St Paul's Park,51.5460584,-0.088753
 gym,Aldersbrook Lawn Tennis Club,51.5652219,0.0244652
@@ -6511,7 +6578,7 @@ park,Crossfield Open Space,51.4789097,-0.0239212
 supermarket,Kenninghall Food & Wine,51.558658,-0.0632151
 park,Mapesbury Dell,51.5528894,-0.2135408
 park,Page Green Common,51.5838617,-0.0708857
-gym,The Ahoy Centre,51.4843952,-0.0225096
+gym,The Ahoy Centre,51.4844305,-0.0225016
 gym,Barn Elms Boathouse,51.4738236,-0.2253364
 park,Wilton Square,51.5372266,-0.0897662
 cafe,The Waterside Café,51.5288695,-0.1614681
@@ -6567,7 +6634,6 @@ cafe,Bishops Park Tea House,51.4717864,-0.2172936
 park,Addington Square,51.4810365,-0.0922609
 park,,51.4770309,-0.1753719
 park,Stonebridge Wharf,51.5144889,-0.0354136
-cafe,Hamilton's Cafe,51.5123124,-0.1438327
 cafe,Hagen,51.5132337,-0.1538068
 cafe,Hagen,51.5133059,-0.1538396
 cafe,The Skylark Cafe,51.4518701,-0.170473
@@ -6578,9 +6644,10 @@ park,,51.4606263,-0.1818188
 park,,51.4610371,-0.1820179
 park,,51.4611539,-0.1816832
 supermarket,Waitrose,51.4990007,-0.1568362
-park,West Hackney Recreational,51.5569958,-0.0723749
+park,West Hackney Recreation Ground,51.5569854,-0.0723677
+gym,Queensbridge Sports & Community Centre,51.5422529,-0.0712494
 cafe,Harvist,51.5323176,-0.2179223
-park,,51.4999131,-0.1290251
+park,United Nations Green,51.4999131,-0.1290251
 supermarket,Tesco,51.5367555,-0.2466033
 cafe,Store Street Espresso,51.5256607,-0.1250189
 cafe,Lever & Bloom,51.5258353,-0.1257742
@@ -6588,6 +6655,7 @@ cafe,Du:kan,51.5193175,-0.1089816
 gym,Cumberland Lawn Tennis Club and Hampstead Cricket Club,51.5507879,-0.1871137
 cafe,Mapa Cafe,51.5107235,-0.0680271
 cafe,Amici Coffee Deli,51.5564272,-0.1177892
+cafe,Bramble Bistro,51.5570247,-0.1186555
 starbucks,Starbucks,51.5122559,-0.1216072
 cafe,Gelatorino,51.512656,-0.1208642
 cafe,Orée,51.5126288,-0.1209418
@@ -6625,7 +6693,6 @@ cafe,Chaiiwala,51.5191339,-0.0718335
 cafe,Brick Lane Coffee Shop,51.5187444,-0.0717167
 cafe,Chez Elles,51.5186918,-0.0717007
 gym,Bishops Park Tennis Centre,51.4732049,-0.2152058
-supermarket,Taj Stores,51.5199569,-0.0716825
 cafe,,51.5780636,-0.0924826
 cafe,Piccolo Cafe,51.5264572,-0.136536
 supermarket,The Co-operative Food,51.5249647,-0.2025325
@@ -6636,11 +6703,8 @@ cafe,Katsute100,51.5241815,-0.0717023
 cafe,Kahaila,51.5238239,-0.0716239
 cafe,Bell Boi,51.5234573,-0.0716963
 cafe,Lavazza,51.5140497,-0.1405865
-starbucks,Starbucks,51.5139372,-0.1392889
 pharmacy,The Organic Pharmacy,51.5140846,-0.1404754
 pharmacy,Dispensing Chemist,51.5675393,-0.1090833
-cafe,Cafe Vins,51.5133564,-0.138799
-cafe,Department of Coffee and Social Affairs,51.5135938,-0.1390067
 cafe,Espressio Coffee,51.5631914,-0.1080547
 cafe,Bethel Cafe,51.5634648,-0.108244
 cafe,STUFFd,51.5634214,-0.1082051
@@ -6654,7 +6718,6 @@ cafe,Cofforte Cafe,51.5628452,-0.1267978
 cafe,Five Four Ate,51.5598068,-0.1221116
 pharmacy,Wellcare Pharmacy,51.5598817,-0.1222233
 cafe,Bisha Restaurant,51.5597303,-0.1219989
-cafe,Kova Patisserie,51.5142678,-0.134111
 cafe,L'Eto Caffé,51.5143398,-0.1348946
 park,Sumatra Road Open Space,51.5496611,-0.196729
 cafe,GAIL's,51.5481113,-0.1409635
@@ -6672,7 +6735,7 @@ gym,Kaizen Physio & Performance,51.5195835,-0.0764148
 cafe,Attendant,51.5192172,-0.1406986
 cafe,The Tea House Theatre,51.488148,-0.1205412
 cafe,Towpath Cafe,51.5372079,-0.0810936
-cafe,Whipped,51.514996,-0.1223753
+cafe,Nonna,51.514996,-0.1223753
 cafe,Fresh Organic,51.5156109,-0.1232663
 pharmacy,Essentials,51.5153669,-0.1228812
 cafe,Cafe Verona,51.5159226,-0.123789
@@ -6680,7 +6743,6 @@ cafe,Drury 188-189,51.5161124,-0.1239307
 cafe,Colombian Coffee Company,51.5137593,-0.1304865
 cafe,Mapa Cafe,51.5140265,-0.1313713
 park,Dovecote Gardens,51.470072,-0.2596411
-park,,51.54785,-0.1241639
 park,Price's Park,51.4679517,-0.1798175
 pharmacy,,51.5703671,-0.114151
 supermarket,Tesco,51.5847248,-0.0713761
@@ -6689,9 +6751,8 @@ cafe,Association Coffee,51.5136306,-0.0790796
 cafe,Petit Cafe,51.5274689,-0.1907153
 supermarket,Asda,51.4887073,0.0222825
 cafe,Food Bowl Café,51.4718817,-0.2109398
-cafe,,51.4870439,-0.1970135
+cafe,Morning Neighbour,51.4870493,-0.1970045
 cafe,The Fulham House,51.4725207,-0.2098505
-cafe,Pedal Back Cycling,51.4868204,-0.1976902
 cafe,Putt in the Park,51.4619,-0.2012069
 pharmacy,Lloyds Pharmacy,51.4748508,-0.0687106
 cafe,Costa,51.4733351,-0.0695648
@@ -6765,7 +6826,7 @@ cafe,WatchHouse,51.4979989,-0.0812409
 cafe,Specialty Cafetiere,51.5317488,-0.0630135
 gym,Emanuel School Boat Club,51.4738193,-0.2540942
 cafe,The Roasting,51.4913536,-0.1387438
-cafe,Algiers Barber & Cafe,51.5160401,-0.0643194
+cafe,Algiers Barber & Cafe,51.5160318,-0.0642763
 park,Brussels Wharf,51.5079298,-0.051707
 cafe,La Bodega Negra,51.5135676,-0.1297999
 park,James Clavell Square,51.4945218,0.0708179
@@ -6804,18 +6865,16 @@ cafe,Sintra Café,51.4672259,-0.1179586
 park,Queenstown Green,51.4707124,-0.1496295
 cafe,Kingfisher Cafe,51.5485085,-0.0755578
 cafe,Lena's Cafe 2,51.5504467,-0.1915999
-cafe,Duck Egg Cafe,51.4616836,-0.1138715
 cafe,Express Cafe,51.4620557,-0.1132207
 cafe,Phoenix Cafe,51.4616721,-0.112191
 cafe,The Provincial,51.4620731,-0.1129477
 cafe,Wild Caper,51.4620503,-0.1133817
 cafe,Brewgels,51.4625713,-0.1117814
 cafe,Burnt Toast Cafe,51.4623488,-0.1116315
-cafe,Federation Coffee,51.4624547,-0.1117304
+cafe,Irene,51.4624547,-0.1117304
 cafe,La Moka,51.4703495,-0.1716919
 cafe,Wandsworth Cafe,51.4568794,-0.192356
 park,All-Mead Gardens,51.5509804,-0.0345327
-cafe,,51.5174428,-0.0799948
 cafe,Talho Acougue,51.4631227,-0.1138567
 cafe,Brixton Spritz,51.4633858,-0.1133852
 pharmacy,Newcare Pharmacy & Health Food,51.5495113,-0.2208603
@@ -6824,7 +6883,7 @@ cafe,Moroccan Cafe,51.4633372,-0.1143887
 cafe,Sendero Specialty Coffee,51.4633418,-0.114519
 gym,Pancras Square Leisure Centre,51.5338475,-0.1264633
 cafe,Barmouth Kitchen,51.4531755,-0.1847644
-park,Whittington Park,51.5618773,-0.12881
+park,Whittington Park,51.5618773,-0.1288133
 gym,Parsons Green Sports & Social Club,51.4671654,-0.1971824
 park,Canal Park,51.5446118,-0.0232706
 park,Canal Park (North),51.5459436,-0.0238669
@@ -6867,7 +6926,6 @@ cafe,Grosvenor's Cafe,51.5124953,-0.1534587
 cafe,Joe & The Juice,51.5134666,-0.1533687
 park,Bonnington Gardens,51.4842848,-0.1202229
 cafe,atis,51.5166756,-0.1428293
-cafe,Brit Yard,51.5163116,-0.1426462
 cafe,Caffè Nero,51.5159564,-0.1425026
 cafe,Joe & The Juice,51.5161444,-0.1426322
 cafe,Little Portland Cafe,51.5169341,-0.1419676
@@ -6878,7 +6936,7 @@ cafe,Joe & The Juice,51.5190555,-0.1420489
 cafe,Nanis Cafe,51.520062,-0.1424876
 pharmacy,Hyperchem,51.5344248,-0.2049015
 pharmacy,Healthxchange Pharmacy,51.5183106,-0.1421522
-cafe,,51.5183153,-0.1402695
+cafe,Garbanzos,51.5183153,-0.1402695
 cafe,Frank's Coffee House,51.5181467,-0.1401804
 cafe,Mortimer's Cafe,51.5180802,-0.1394613
 cafe,Harris + Hoole,51.5182009,-0.1391617
@@ -6893,6 +6951,7 @@ cafe,ChaHalo 茶话弄,51.5124644,-0.1315002
 cafe,Bonne Bouche,51.5181303,-0.1517228
 cafe,Cooking Pot Cafe,51.5152369,-0.0185816
 pharmacy,Boots,51.5138214,-0.1566983
+cafe,Caffe Concerto,51.5137386,-0.1576575
 cafe,Wafflemeister,51.5135844,-0.1584682
 pharmacy,Al Farabi Pharmacy,51.514741,-0.1628288
 cafe,Nawras,51.5144162,-0.1623344
@@ -6905,7 +6964,6 @@ cafe,Vx,51.5329707,-0.1196086
 park,Batley Park,51.477726,0.0199642
 park,,51.4916757,0.0402472
 park,,51.4939735,0.039024
-cafe,Café Oz,51.53259,-0.1202049
 cafe,Blue River Cafe,51.5325048,-0.1194409
 supermarket,Sainsbury's,51.4674656,-0.1872897
 gym,St. Augustine's Sports Centre,51.533615,-0.1932869
@@ -6938,7 +6996,7 @@ starbucks,Starbucks,51.4726876,-0.2008356
 gym,Linford Christie Stadium,51.5193999,-0.2345663
 cafe,Little H,51.4723393,-0.20149
 gym,Iron BodyFit,51.4725144,-0.2019752
-cafe,District,51.4752473,-0.2008607
+cafe,District,51.4752393,-0.2008546
 cafe,West Grove Cafe,51.5151611,-0.1954464
 park,,51.4989311,-0.1265168
 cafe,Living Room Club,51.5415479,-0.1389476
@@ -6985,6 +7043,7 @@ park,Hyde Park,51.5074147,-0.1630518
 cafe,Blank Street Coffee,51.524385,-0.0767972
 cafe,Franzè & Evans,51.5248363,-0.0726071
 cafe,Artful Blend,51.5247492,-0.0730657
+cafe,Gecko Coffeehouse,51.5245738,-0.0727171
 cafe,Costa,51.5423851,-0.1465219
 cafe,Hawraman Cafe Bar,51.5429214,-0.1481564
 cafe,Louis Coca,51.5431239,-0.1493562
@@ -7018,7 +7077,6 @@ cafe,Bodega 50,51.5552917,-0.0817915
 park,Reminder Gardens,51.4968446,0.0120291
 park,Evelyn Green,51.4812444,-0.0320577
 park,Essex Wharf,51.5142298,0.0046657
-starbucks,Starbucks,51.5271913,-0.0559006
 park,Central Park,51.4957162,0.0110341
 gym,Douglas Eyre Sports Centre,51.580808,-0.0409865
 cafe,norris + knight,51.4514892,-0.059483
@@ -7030,7 +7088,7 @@ park,Pearson Square,51.5191276,-0.1383898
 cafe,Grove Cafe,51.4893308,-0.0349597
 park,Quaker Burial Ground,51.5399559,0.0744844
 park,,51.474513,-0.01903
-park,Broadway Fields,51.4731486,-0.0230084
+park,Broadway Fields,51.4731556,-0.0230084
 park,,51.4469482,-0.2410117
 park,,51.5180074,-0.0698122
 park,,51.5225774,-0.0665021
@@ -7056,7 +7114,7 @@ supermarket,Hootch Supermarket,51.5503555,-0.0748454
 park,,51.5194127,-0.0484856
 cafe,DropShot Coffee,51.467168,-0.219378
 cafe,Super Bakery,51.5500069,-0.0753763
-cafe,Evin Cafe,51.5500509,-0.0753726
+cafe,Evin Cafe,51.5500517,-0.075373
 gym,CrossFit,51.5040972,-0.0993505
 park,Cavell Street Gardens,51.5156013,-0.0568879
 cafe,Dream Cafe,51.5641734,-0.0928455
@@ -7080,10 +7138,10 @@ park,Waynflete Square Garden,51.5143195,-0.2185349
 park,,51.4665402,-0.1544061
 park,,51.4661596,-0.1552412
 cafe,Mousetail,51.5196195,-0.0587095
-gym,Walthamstow Leisure Centre,51.5759848,-0.0287352
+gym,Walthamstow Leisure Centre,51.5759841,-0.0287352
 park,,51.4709399,-0.1403079
 cafe,The Lakeside Diner,51.578021,0.0097052
-cafe,Pavilion Cafe,51.5555555,-0.2291601
+cafe,Pavilion Cafe,51.5555522,-0.2291176
 gym,Greenwood Nursery Scool,51.4516518,-0.1931412
 gym,Greenwood Nursery Scool,51.4519041,-0.1931915
 gym,Short Breaks Urban Gym,51.5200437,-0.0338112
@@ -7093,6 +7151,7 @@ park,Cowslip Meadow,51.5187002,-0.029794
 park,Pear Tree Meadow,51.5199732,-0.0279997
 park,Primrose Meadow,51.5204027,-0.0273354
 park,,51.5417408,0.0750225
+gym,Abbey Leisure Centre,51.5351939,0.0782764
 pharmacy,Boots,51.5317991,-0.1246947
 cafe,Nero Express,51.5320182,-0.1244877
 cafe,Costa,51.5313457,-0.1246784
@@ -7113,7 +7172,6 @@ cafe,Al-Kouther Food,51.5195947,-0.1090298
 cafe,Duke's Caffé,51.5071068,-0.1373815
 cafe,Brew Garden,51.5179915,-0.111377
 cafe,Caffè Nero,51.5179516,-0.1116931
-cafe,Costa,51.5181069,-0.1130294
 gym,Horizons Health & Fitness Club,51.474809,-0.1161392
 cafe,Lexpress Coffee,51.5185509,-0.1190975
 cafe,Coffee House,51.5191875,-0.0614337
@@ -7122,7 +7180,6 @@ cafe,Cafe Classic,51.5145742,-0.0610486
 cafe,Salt & Pepper,51.5171852,-0.1274026
 cafe,Black Sheep Coffee,51.5198914,-0.1340616
 cafe,Black Sheep Coffee,51.5148837,-0.0975931
-cafe,Mego,51.5844101,-0.0230322
 cafe,Hello Boba,51.4920625,-0.0455582
 cafe,La Cigale,51.4922257,-0.0459036
 pharmacy,Surdock Chemist,51.4923685,-0.0461148
@@ -7132,7 +7189,7 @@ cafe,Costa,51.5143799,-0.1564416
 cafe,,51.5190401,-0.1336116
 cafe,Shiba Inus With Love,51.5191119,-0.1336841
 cafe,Cafe Metro Express,51.5185442,-0.134113
-cafe,Italian Pizza & Cafe,51.5303656,0.037615
+cafe,Italian Pizza & Cafe,51.5303974,0.0376124
 cafe,T4 Tea For U,51.5241449,-0.1389113
 supermarket,Co-op Food,51.509534,-0.0633807
 cafe,Benugo,51.5032194,-0.1123039
@@ -7159,7 +7216,6 @@ park,,51.4715075,-0.1691158
 cafe,Fields Cafe,51.45535,-0.0194697
 park,,51.4607308,-0.0752893
 cafe,Yang's Braised Chicken Rice,51.523333,-0.1419788
-gym,HS Fitness Studio,51.461577,-0.0786388
 cafe,Sensations Cafe,51.5225049,-0.1409878
 cafe,Kafi Coffee,51.5223312,-0.1407864
 cafe,Cool Beans Coffee House,51.4515197,-0.0332388
@@ -7167,7 +7223,7 @@ supermarket,Lidl,51.4897211,-0.0438226
 gym,Revolution Karting,51.5178939,-0.0307004
 park,,51.5141558,-0.0187099
 cafe,Catalina's,51.5218748,-0.1402053
-pharmacy,Clockwork Pharmacy,51.530358,0.0373027
+pharmacy,Clockwork Pharmacy,51.5304073,0.0372976
 cafe,Doorsteps,51.521845,-0.014269
 gym,,51.4537409,-0.2555273
 cafe,Acoustic Brasserie,51.5620244,-0.0791273
@@ -7181,7 +7237,7 @@ cafe,Coal House Cafe,51.5699321,-0.0878985
 supermarket,A-Z News & Off Licence,51.5285545,-0.216186
 cafe,Wildcard,51.5308764,-0.2169496
 cafe,Double Shot,51.5281077,-0.2161376
-cafe,Vicki's,51.5297243,-0.2160105
+cafe,The Vault TCG,51.5297243,-0.2160105
 cafe,The Cracked,51.520571,-0.1395222
 cafe,kasa café,51.5205444,-0.1396715
 park,,51.469421,-0.2250846
@@ -7228,13 +7284,13 @@ cafe,Mooboo,51.5376464,-0.1454163
 starbucks,Starbucks,51.539007,-0.143232
 cafe,WatchHouse,51.501005,-0.0541553
 park,Crouch Hill Park,51.5734362,-0.1230918
-cafe,The Stables,51.5599928,-0.2368425
+cafe,The Stables,51.559996,-0.2368406
 cafe,Patisserie Citadelle Mauritian Shop,51.576413,-0.0117903
 pharmacy,Pyramid Pharmacy,51.5757139,-0.0130096
 cafe,Imad Cafe & Grill,51.575845,-0.0134321
 pharmacy,Medicos,51.5759425,-0.0136292
 cafe,Hornbeam Cafe,51.5760115,-0.0150949
-cafe,Lumi,51.5367938,-0.140394
+cafe,Lumi,51.5367938,-0.1403894
 park,Canalside Square,51.5345764,-0.0947817
 cafe,Lemonade Cafe,51.5756378,-0.012187
 cafe,Min Zhong Hoo Oriental Supermarket,51.5755877,-0.012325
@@ -7298,6 +7354,7 @@ cafe,Lisi,51.5280069,-0.1975333
 cafe,Saj & Juice,51.5285944,-0.1975337
 cafe,Sarah Leen,51.5276308,-0.1974182
 cafe,The Little Coffee Tree,51.5280285,-0.1979689
+cafe,N5 Kitchen,51.5613065,-0.0961858
 cafe,Bayhams Cafe & Restaurant,51.5379164,-0.1405439
 gym,Fitness Hub East London,51.5667988,0.0101672
 cafe,Peppermint,51.5401798,-0.2087706
@@ -7310,7 +7367,7 @@ cafe,Piccolo Bar,51.512249,-0.1014995
 gym,Anytime Fitness,51.5136238,-0.102158
 cafe,The Lunch Box,51.5138008,-0.10205
 cafe,Carter Lane Coffee House,51.5133192,-0.101599
-park,Edith Nesbit Gardens,51.4541137,0.0148851
+park,Edith Nesbit Gardens,51.4540884,0.0148851
 cafe,Loaf,51.5218623,-0.1122498
 park,Church Lane Recreation Ground,51.5790289,-0.2599096
 park,Bow Estate Park,51.5288272,-0.0145937
@@ -7319,7 +7376,6 @@ gym,Yoga On The Lane,51.5529315,-0.0703191
 park,,51.5110806,-0.0180164
 cafe,Alchemy,51.5134126,-0.1025738
 gym,BJJ House,51.5415139,-0.2054951
-cafe,D'Accord,51.54096,-0.2025289
 supermarket,Karaz Beirut,51.5418608,-0.1987226
 cafe,Cafe Lotte,51.5418804,-0.1986073
 park,Douglas Way Garden,51.4777821,-0.0312341
@@ -7327,7 +7383,7 @@ cafe,Costa,51.5130843,-0.104486
 pharmacy,Kings Pharmacy,51.5449839,-0.201776
 cafe,Town Cafe,51.5461758,-0.1414123
 pharmacy,Day Lewis Pharmacy,51.5458459,-0.1415165
-pharmacy,A&H Chinese Medicine Acupunture Herbs,51.5464386,-0.1413888
+pharmacy,A&H Chinese Medicine Acupunture Herbs,51.5464388,-0.1413891
 cafe,Ethical Bean Company,51.5377869,-0.0239687
 cafe,Jan's,51.5677509,-0.1386398
 cafe,Archie's,51.5679585,-0.1389935
@@ -7352,13 +7408,13 @@ park,,51.4606848,-0.269259
 park,Highgate Wood,51.5823504,-0.150399
 gym,PureGym,51.5241405,-0.1372319
 park,,51.4634844,-0.1874979
-cafe,Pure,51.5037373,-0.1136979
 park,Inverness Gardens,51.5395046,-0.1454871
 park,Saint Peter's Gardens,51.4866124,-0.0925285
 park,Lennox Estate Green,51.464758,-0.2525551
 park,,51.4633181,-0.2532748
 park,,51.4634791,-0.2511043
 cafe,Caffè Nero,51.5104647,-0.124355
+park,Armada Green Park,51.5083309,0.0793558
 park,,51.4900607,-0.2282058
 cafe,The Orchard Cafe,51.5082096,0.0090357
 park,Lillie Road Gardens,51.4829739,-0.2123482
@@ -7395,9 +7451,8 @@ gym,Tideway Scullers School,51.4734159,-0.2685085
 gym,Quintin Boat Club,51.4749432,-0.2704788
 gym,The Hurlingham Club,51.4667814,-0.2013597
 pharmacy,Woodside Pharmacy,51.5626816,0.0090919
-park,Weaver's Fields,51.5252877,-0.0619794
+park,Weaver's Fields,51.5252797,-0.0619652
 pharmacy,UK Legal Way Ltd,51.561259,0.0083343
-supermarket,Spices of Malabar,51.5595476,0.0071146
 cafe,Ivy's Tiny Tea,51.5587769,0.0067606
 gym,Muscle Hut Leytonstone,51.5592813,0.0069926
 cafe,Chocoberry,51.5590857,0.0070076
@@ -7408,11 +7463,11 @@ park,,51.5643546,-0.141716
 park,,51.5656931,-0.1240099
 park,,51.5654221,-0.123651
 cafe,J'Adore,51.5680459,0.0110799
-cafe,Horizon,51.5678034,0.0105412
+cafe,Horizon,51.567808,0.0105429
 gym,PureGym,51.567397,0.011287
 cafe,Garden of Desserts,51.5700591,0.0140521
 gym,The 1 on 1 Fitness Studio,51.570097,0.0143319
-pharmacy,Boots,51.5679394,0.0105201
+pharmacy,Boots,51.5679402,0.0105135
 gym,Salisbury Club,51.5690235,0.0129239
 cafe,Costa,51.5694891,0.0120983
 pharmacy,Woodside Pharmacy,51.569649,0.0125011
@@ -7432,8 +7487,8 @@ cafe,Cricks Corner,51.563256,-0.1404653
 cafe,The Highgate Pantry,51.5709446,-0.1490943
 cafe,Italian Gardens Cafe,51.5113392,-0.1754631
 cafe,Ole & Steen,51.5176441,-0.130975
-gym,John Orwell Sports Centre,51.5048578,-0.0622502
-park,,51.5041839,-0.0622382
+gym,John Orwell Sports Centre,51.5048578,-0.0622698
+park,,51.5041955,-0.0622382
 park,,51.5039037,-0.0625819
 starbucks,Starbucks Coffee,51.5126702,-0.0880669
 park,,51.5697489,-0.1513529
@@ -7507,7 +7562,6 @@ supermarket,M&S Food,51.5109299,-0.1217078
 cafe,Mama's Cafe,51.4907078,-0.0532787
 cafe,Lola's Cupcakes,51.5137358,-0.1246291
 cafe,H.J.Aris Café and Antiques,51.5463508,-0.0744209
-cafe,Slice of Meat,51.5414556,0.0100375
 supermarket,Co-op Food,51.5160691,0.0092658
 cafe,Bageriet,51.5119315,-0.1261906
 cafe,Arôme Bakery,51.5129917,-0.1261413
@@ -7539,10 +7593,8 @@ park,McKenna Green,51.5335834,-0.0299897
 gym,Proud Active,51.5298459,-0.0563374
 cafe,Arch's Kitchen,51.5313007,-0.0569249
 park,Silver Jubilee Park,51.5813788,-0.2553532
-cafe,Café Tres,51.5331852,-0.0574707
 park,Dalling Road Open Space,51.4942454,-0.23433
 park,,51.5707763,-0.1077892
-cafe,Donny's,51.5380023,-0.0577238
 cafe,Number One Cafe,51.5399775,-0.0542137
 cafe,Zoha,51.5398914,-0.054829
 pharmacy,Peace Pharmacy,51.4694656,-0.0972374
@@ -7558,7 +7610,6 @@ cafe,&feast,51.474208,-0.2442681
 cafe,GAIL's,51.4741603,-0.2445146
 gym,Small Pilates,51.5457583,-0.0555324
 pharmacy,Carsil Perfumery + Pharmacy,51.5464681,-0.0553882
-cafe,L'Express,51.5132517,-0.1421362
 cafe,Ruskin Park Cafe,51.4661269,-0.0955107
 cafe,Brunchies,51.4716738,-0.0938832
 cafe,Fresh Bites,51.5595244,-0.1217175
@@ -7578,7 +7629,6 @@ cafe,Hash E8,51.5373678,-0.0442782
 pharmacy,Clockwork Pharmacy,51.5382638,-0.0447473
 supermarket,M&S Foodhall,51.4734185,-0.2502359
 cafe,Shoyu Cafe,51.5232872,-0.0340352
-cafe,Costa,51.5246045,-0.0352793
 cafe,Lucky Tea,51.5249788,-0.0356573
 starbucks,Starbucks,51.5251229,-0.0352757
 gym,The Yard,51.4696043,-0.0663366
@@ -7588,7 +7638,6 @@ cafe,Bagel On The Park,51.5365253,-0.0440834
 pharmacy,Round the Clock Pharmacy,51.4742897,-0.2438756
 cafe,Cafe 66,51.4684324,-0.2547597
 cafe,40 Cafe & Bistro,51.4691008,-0.2551147
-cafe,Fayre Share,51.5382093,-0.0438155
 park,Communal Garden Square,51.4665079,-0.22583
 cafe,Beans & Beyond,51.5121366,-0.028202
 cafe,Coffee London,51.5250946,-0.033701
@@ -7632,7 +7681,6 @@ park,Royal Avenue,51.4894225,-0.1615739
 cafe,Riccardo's,51.522608,-0.0845921
 gym,Ferndale Community Sports Centre,51.4632235,-0.1177232
 park,Alma Street Community Play Areas,51.545988,-0.0003904
-park,King Edward Memorial Park Foreshore,51.509023,-0.0466907
 cafe,Jujuhome Cha,51.5234852,-0.0761263
 cafe,Love Churros,51.5234825,-0.0758745
 park,,51.5282533,-0.0663103
@@ -7646,14 +7694,12 @@ park,,51.4691462,-0.1245479
 gym,SideOut Leyton,51.5615938,-0.0206583
 cafe,Drapers Cafe,51.5510968,-0.0048276
 cafe,Plntd Co,51.5549417,-0.005094
-park,,51.5276688,-0.1135289
-park,Belvedere,51.5482304,-0.008941
+park,,51.5276676,-0.1135272
+park,Belvedere,51.5482339,-0.0090325
 gym,Roehampton Sport and Fitness Centre,51.4493564,-0.2433004
 gym,Ibstock Sports Hall,51.4551502,-0.2509306
 cafe,Alma,51.4749297,-0.239253
 park,,51.5482641,-0.014336
-cafe,Blank Street Coffee,51.5172028,-0.1430623
-park,Hampstead Heath,51.5641528,-0.1644635
 cafe,Mr Beanstalk Coffee Co,51.5274637,-0.1054904
 park,,51.5660209,0.0025585
 cafe,Lockdown Bakehouse,51.4605512,-0.1897123
@@ -7686,7 +7732,7 @@ pharmacy,Marijak Pharmacy,51.562052,-0.0101198
 park,Dial Arch Square,51.492055,0.0699614
 cafe,Muburakiya,51.5196476,-0.1630563
 park,Putney Embankment Foreshore,51.466827,-0.2152762
-park,Mayflower Park,51.5044628,-0.0436845
+park,Mayflower Park,51.5044677,-0.0436845
 park,,51.4590484,-0.2369669
 park,,51.4599722,-0.2353843
 cafe,Mountsfield Park Cafe,51.448399,-0.0081177
@@ -7709,7 +7755,7 @@ park,,51.5249024,-0.1720244
 park,Orange Park,51.5246588,-0.1745745
 park,,51.5273368,-0.1789083
 cafe,Saint Espresso,51.5462416,-0.0219808
-gym,,51.4756385,0.0392467
+gym,Spin Studio,51.4756385,0.0392467
 park,Wansey Gardens,51.4919429,-0.0942294
 pharmacy,The Dispensary,51.5717008,-0.008171
 cafe,Brunch Cafe and Grill,51.5716614,-0.008172
@@ -7720,6 +7766,7 @@ cafe,Deeney's,51.5621767,-0.0101804
 cafe,Unions Cafe,51.561055,-0.0101264
 cafe,Cafe Mondial,51.5607826,-0.0100944
 cafe,Royal Cafe,51.5600983,-0.0090016
+cafe,Cafe do Brazuca,51.558369,-0.006577
 pharmacy,Granshaws Chemist,51.5550828,0.0107844
 park,,51.5354291,-0.1669147
 park,,51.5349912,-0.1679541
@@ -7766,6 +7813,7 @@ starbucks,Starbucks,51.5223617,-0.1357141
 gym,Moberly Sports Centre,51.5307525,-0.2161357
 cafe,Putera Puteri Cafe,51.5120792,-0.1872012
 supermarket,Al Noor,51.5166294,-0.1879302
+cafe,Urban Baristas,51.524007,-0.0728062
 gym,The Font Wandsworth,51.4472776,-0.1912095
 cafe,Elta Tavern Kitchen,51.4679422,-0.068339
 supermarket,Sainsbury's,51.4618052,-0.0125928
@@ -7809,6 +7857,7 @@ park,,51.4567369,-0.241834
 park,,51.4562739,-0.2418906
 park,,51.5082735,0.0224454
 park,Pinemartin Acitivty Park,51.5622475,-0.2237637
+cafe,Oak & Bean Coffee House,51.5459423,-0.2029835
 gym,Bobby Moore Academy Sports Centre,51.5400662,-0.0198218
 park,,51.5090612,0.0368824
 gym,Campden Hill Lawn Tennis Club,51.5059014,-0.2010862
@@ -7827,7 +7876,6 @@ park,,51.4539859,-0.2082744
 park,,51.4538014,-0.209674
 park,,51.4474086,-0.2124293
 park,Dove Place,51.489857,-0.1549271
-pharmacy,Reena's Pharmacy,51.4776398,-0.1231027
 cafe,Casbah Café,51.5280655,-0.2167496
 pharmacy,Boots,51.5153316,-0.1390027
 cafe,Café Nespresso,51.5140224,-0.092552
@@ -7835,7 +7883,6 @@ cafe,Haz Café & Restaurant,51.5148636,-0.0966231
 starbucks,Starbucks Coffee,51.5146247,-0.0960188
 starbucks,Starbucks,51.5079993,-0.0961213
 cafe,% Arabica,51.5058454,-0.0911917
-cafe,Elliot's,51.5056544,-0.0916107
 park,Royal Arsenal Thames Path Garden,51.4954545,0.0734251
 cafe,Joe & The Juice,51.5057247,-0.0991371
 cafe,Black Sheep Coffee,51.5054094,-0.0995609
@@ -7862,6 +7909,7 @@ park,,51.4522956,-0.1978881
 park,,51.5003338,-0.119294
 gym,Bow Quarter Leisure Centre,51.5317989,-0.020893
 park,,51.5101017,-0.0286268
+cafe,Brags & Brams,51.5312014,-0.0685398
 cafe,Holme Green Kiosk,51.5268181,-0.1558864
 cafe,The Bite at LBS,51.5258102,-0.1611289
 supermarket,Waitrose,51.4987883,-0.1979728
@@ -7886,6 +7934,7 @@ cafe,Costa,51.5193429,-0.078184
 pharmacy,Boots,51.5179042,-0.0793601
 gym,Substation,51.4587276,-0.1283887
 pharmacy,Village Pharmacy,51.5492082,-0.1711305
+cafe,Roni's Bagel Bakery,51.5493648,-0.1712019
 gym,Whiteland Sports field,51.4487157,-0.2452551
 gym,Phoenix Fitness Centre and Janet Adegoke Swimming Pool,51.5128859,-0.236308
 park,,51.5312319,-0.1435947
@@ -7904,7 +7953,7 @@ cafe,Savoy Cafe,51.4489172,-0.1992271
 cafe,Castle's Traditional Pie & Mash,51.5422031,-0.1389734
 cafe,Chris's Kitchen,51.5423261,-0.1390592
 cafe,Hyde Park Corner Kiosk,51.5039483,-0.1533758
-supermarket,Aldi,51.5465829,-0.1413807
+supermarket,Aldi,51.5465825,-0.141379
 cafe,Caliendo's Gelato,51.5474499,-0.1412093
 cafe,Mamasons,51.5434798,-0.1419325
 cafe,Arancini Brothers,51.5442951,-0.141747
@@ -7913,9 +7962,9 @@ cafe,Phoenix Blend Cafe,51.5176027,-0.0761418
 cafe,Twins Coffee,51.5426222,-0.1378354
 cafe,Well Street Kitchen,51.5435297,-0.0476498
 pharmacy,Clockwork Pharmacy,51.5447687,-0.0460083
-cafe,Beans & Bites,51.5452111,-0.0463059
+cafe,Beans & Bites,51.545218,-0.0463117
 pharmacy,Clockwork Pharmacy,51.5443873,-0.0469702
-cafe,,51.525654,-0.1486945
+cafe,Marleybone Green Playground Cafe,51.525654,-0.1486945
 cafe,The Cafe,51.546863,-0.0417954
 cafe,Fika,51.5527902,-0.0442027
 pharmacy,Regal Pharmacy,51.5530892,-0.0442801
@@ -7927,7 +7976,6 @@ gym,Yoga Junction,51.5804261,-0.1152674
 park,,51.5278117,-0.1425287
 cafe,Fink's Chats,51.5535486,-0.0446066
 pharmacy,Britannia Pharmacy,51.5357704,0.0079118
-cafe,Rainbow Cafe,51.5359553,0.0073714
 cafe,Doree & Co,51.5524245,-0.04398
 cafe,46b Espresso Hut,51.5502924,-0.042828
 cafe,Crystal Cafe,51.5503765,-0.0428696
@@ -7944,10 +7992,12 @@ cafe,Mario's Cafe,51.5457461,-0.1421301
 cafe,Sweet Talkers Dessert,51.5342058,-0.027044
 pharmacy,Parnell Pharmacy & Perfumery,51.5341277,-0.0273201
 cafe,Flavas Boba,51.5334644,-0.0288862
-cafe,Village Cafe,51.5562566,-0.1464566
+cafe,,51.5562566,-0.1464566
 cafe,Eastenders Pie 'n' Mash,51.5115815,-0.0147905
 cafe,JP’s Cafe,51.5127946,-0.0148193
+cafe,Mrs Cafe,51.5128496,-0.0146787
 pharmacy,Lansbury Pharmacy,51.5140605,-0.0147662
+cafe,Hello Bubbles,51.5131342,-0.0155172
 park,,51.5371029,-0.0230496
 park,Thomas Gamuel Park,51.5757469,-0.0225581
 park,Harbour Quay Gardens,51.5018929,-0.0139879
@@ -7965,14 +8015,13 @@ park,Dawson's Hill Park,51.4473596,-0.0677766
 gym,KX Gym Health Club,51.4932291,-0.1671575
 park,Chambers Road Park,51.5558176,-0.1225549
 pharmacy,Royal Docks Pharmacy,51.5099471,0.0625184
-gym,Old Spotted Dog Ground,51.5422227,0.0215209
+gym,Old Spotted Dog Ground,51.5422233,0.0215186
 supermarket,Davina Supermarket,51.5446091,0.0258601
 cafe,Cafe @ 48,51.5448358,0.025819
 supermarket,Greenland Supermarket,51.5465788,0.0248112
 cafe,Candyfloss Crepeire,51.5466275,0.0244614
-supermarket,Asona Ba,51.5465507,0.0240658
-supermarket,Woodgrange Supermarket,51.5469665,0.0252563
-cafe,Coffee of Italy,51.5469174,0.025271
+supermarket,Woodgrange Supermarket,51.5469724,0.0252539
+cafe,Coffee of Italy,51.5469222,0.0252691
 supermarket,Pascheal Exotics,51.545098,0.0258039
 cafe,Chai Nashta,51.5435914,0.025905
 cafe,Querky Cafe,51.5500611,0.0247465
@@ -8000,7 +8049,6 @@ cafe,Hash E8,51.5481675,-0.0653381
 cafe,Healthy Stuff,51.5481576,-0.0654054
 cafe,The Roasting Shed,51.5447647,-0.0214244
 park,,51.5493637,-0.0379783
-supermarket,Adonis Supermarket,51.5481652,-0.0475062
 park,Eythorne Park,51.4750732,-0.1087865
 cafe,The Drop,51.4591851,-0.2105464
 pharmacy,Junction Pharmacy,51.4658298,-0.1028363
@@ -8022,7 +8070,6 @@ park,,51.4967561,-0.2234513
 park,,51.5443432,0.0182333
 supermarket,Costcutter,51.5164919,-0.2338411
 cafe,Bridge Cafe,51.5156253,-0.2437999
-cafe,Joe & The Juice,51.4756731,-0.2054295
 cafe,Costa,51.4875867,0.0276655
 park,,51.5455423,-0.0342394
 supermarket,Lidl,51.5386766,0.0520122
@@ -8044,17 +8091,16 @@ pharmacy,Care Chemist,51.4494808,-0.2420496
 cafe,Cafe Joy,51.4495262,-0.2423093
 cafe,Elsewhere Coffee,51.5471557,-0.0552553
 gym,Cedars Lawn Tennis Club,51.4528639,-0.2036811
-cafe,Beigel & Brew,51.531118,-0.0661986
+cafe,Yalla Grill,51.531118,-0.0661986
 cafe,Caffe-in,51.5311115,-0.0662694
 pharmacy,Green Light Pharmacy,51.5435466,-0.1727666
 cafe,Bubble East,51.4620906,-0.2211817
 cafe,Clapton Table,51.554056,-0.0541505
-cafe,The Hub Cafe,51.5325557,-0.1578568
+cafe,The Hub Café,51.532566,-0.1578382
 cafe,Baba Salam Cafe,51.5060196,-0.2313344
 supermarket,Al-Madinah,51.5061295,-0.2313954
 supermarket,Damas Gate,51.5061511,-0.2315943
 cafe,Giddy Up Coffee,51.5221626,-0.0932848
-cafe,Fruit Bowl,51.5503167,-0.1405428
 park,The Meadow,51.5397016,-0.1827434
 park,Friary Park Green,51.5173929,-0.2627381
 cafe,Time Art Cafe,51.5465217,-0.157056
@@ -8066,9 +8112,10 @@ cafe,Millfields Coffee,51.5570753,-0.0466788
 park,,51.4996344,-0.0179264
 cafe,Tram Store,51.5596095,-0.0560654
 park,,51.5394847,-0.0212441
-park,Columbia Gardens,51.4864825,-0.1956554
-park,Lillie Square,51.4856827,-0.1949136
+park,Columbia Gardens,51.4864479,-0.1954819
+park,Lillie Square,51.4856401,-0.1948633
 cafe,Southwark Park Pavillion Cafe,51.4938983,-0.0542816
+cafe,Superette,51.570768,-0.1484332
 cafe,Union StrEAT Kitchen,51.5250383,-0.1350843
 starbucks,Starbucks,51.5213885,0.0723424
 park,Olive Morris Gardens,51.4753743,-0.1055546
@@ -8083,7 +8130,7 @@ park,,51.5193862,-0.0398678
 supermarket,M&S Foodhall,51.583365,-0.1991651
 park,,51.5373648,0.009833
 cafe,Down to Earth,51.5499347,-0.0637846
-cafe,Mélo,51.5528986,-0.0703586
+cafe,Bric,51.5528986,-0.0703586
 gym,The Castle Climbing Centre,51.5652788,-0.0924406
 cafe,The Paddenswick Tea Gardens,51.4974101,-0.2372554
 cafe,Mapps Cafe,51.5432732,-0.0279157
@@ -8092,7 +8139,7 @@ park,,51.5190727,-0.0369835
 park,,51.5222227,-0.05925
 cafe,Playground Snack Shop,51.4818162,0.0010843
 cafe,Pekoe Mellow Tea House,51.4970281,-0.2317136
-supermarket,Sainsbury's,51.5825428,-0.2446598
+supermarket,Sainsbury's,51.5824896,-0.2445743
 gym,The Gym,51.5211159,-0.0517993
 park,,51.5852801,0.0055002
 gym,,51.4956565,-0.2296189
@@ -8100,6 +8147,7 @@ park,,51.4993451,-0.0204691
 park,Inkerman Garden,51.5490487,-0.146082
 cafe,The Fields Beneath,51.5465619,-0.1466803
 park,,51.5605823,-0.2656045
+cafe,Lilac,51.5510568,-0.1404047
 cafe,Costa,51.5022712,-0.2262783
 gym,Blackheath High School Sports Grounds,51.4667908,0.0243569
 cafe,Crush Tomato,51.4951705,-0.1326352
@@ -8133,7 +8181,7 @@ supermarket,泗和 SeeWoo,51.5116612,-0.1304815
 cafe,Crêpeaffaire,51.5113651,-0.1287965
 cafe,Caffè Nero,51.5161476,-0.1011859
 park,Wennington Green,51.5312356,-0.0417675
-gym,Charlton Lido and Lifestyle Club,51.4752856,0.0388618
+gym,Charlton Lido and Lifestyle Club,51.4752489,0.038873
 cafe,Better Coffee Corner,51.454637,0.026902
 park,,51.5279832,-0.0714185
 park,Fairchild’s Garden,51.528797,-0.0757636
@@ -8205,7 +8253,6 @@ gym,Martial Fitness,51.4641059,-0.2158173
 gym,énergie Fitness,51.4632459,-0.2170588
 gym,Hot Pod Yoga,51.4635142,-0.2165885
 starbucks,Starbucks,51.461889,-0.2163183
-supermarket,The Source Bulk Foods,51.4620824,-0.2162287
 pharmacy,Boots,51.4627592,-0.2157185
 cafe,Octagreen,51.4634757,-0.2154404
 pharmacy,Boots,51.4642226,-0.2148581
@@ -8251,10 +8298,13 @@ gym,Wimbledon Park Rifle Club,51.4490794,-0.2070332
 pharmacy,Pharmaram Chemist,51.5326927,0.0223429
 cafe,,51.4553471,-0.1105887
 gym,Lisson Green Outdoor Gym,51.5252566,-0.1667887
+gym,,51.5222598,-0.2408115
 cafe,"Well Walk Theatre, Cafe & Bookshop",51.557684,-0.1747537
+cafe,Roots Cafe,51.542153,-0.1563497
 cafe,Greenberry,51.542035,-0.1565363
 pharmacy,Primrose Pharmacy,51.5419095,-0.1567317
 cafe,Roni's Bagel Bakery & Café,51.5413739,-0.1568105
+cafe,Nadia & Company,51.5412095,-0.15699
 park,Leighton Crescent Gardens,51.551826,-0.1343873
 park,,51.4823213,-0.0310926
 cafe,Swash & Jones,51.5367233,-0.1118656
@@ -8268,6 +8318,7 @@ gym,,51.464534,-0.2102726
 gym,TO GYM,51.5839907,-0.2001134
 park,,51.5665027,-0.0343356
 gym,,51.470959,-0.1637258
+park,Lovegrove Park,51.5032112,-0.0099322
 park,Central Park,51.5318784,0.0736178
 park,Drydock Square,51.5332437,0.0729329
 park,,51.5833777,-0.0655707
@@ -8283,6 +8334,7 @@ park,,51.5081786,-0.1504236
 cafe,The Muddy Puddle,51.5567955,-0.0835178
 cafe,Albion Kitchen,51.5568347,-0.0834524
 cafe,La Mela,51.5496728,-0.036599
+cafe,Nextdoor,51.5748975,-0.1266721
 cafe,Merro,51.5748364,-0.1267308
 cafe,George Farha Cafe,51.5250613,-0.1351455
 pharmacy,Barkers Pharmacy,51.4484272,-0.1892613
@@ -8305,8 +8357,9 @@ cafe,The Barrel Boulangerie,51.5463802,-0.0548857
 cafe,Redemption Roasters,51.5341571,-0.1045028
 cafe,Katsute100,51.5342184,-0.1044535
 cafe,Frequency,51.5347243,-0.1041047
-cafe,,51.5347539,-0.1042669
+cafe,The Nevâ,51.5347539,-0.1042669
 park,Ivy's Gardens,51.5367923,-0.0716303
+cafe,P!nch,51.4709184,-0.1915225
 park,King George's Park,51.4555243,-0.1958384
 cafe,,51.5061741,-0.1695289
 park,Whitelands Park,51.4507012,-0.2096427
@@ -8334,7 +8387,6 @@ park,,51.5219547,0.0110357
 cafe,Suela Cafe Bistro,51.5473804,-0.0140032
 gym,,51.4493083,-0.2434071
 cafe,Joe & The Juice,51.5410018,-0.157131
-cafe,Sweet Things,51.5409042,-0.1571818
 cafe,Banjos,51.5307818,0.0402098
 cafe,In a Pikel,51.5312164,0.0408443
 cafe,Cosy Cafe,51.5181482,0.0271477
@@ -8343,6 +8395,7 @@ cafe,Aroma Espresso,51.5320024,0.0491551
 park,,51.5285406,-0.197027
 park,Saint Mary's Garden,51.4928369,0.0598477
 park,,51.5331581,0.0575418
+cafe,WAVE,51.5573545,-0.0737772
 cafe,HARÜ Coffee,51.5573493,-0.0735133
 cafe,Colicci,51.5428434,-0.0076835
 park,,51.5593197,-0.0994118
@@ -8352,6 +8405,7 @@ cafe,Café Noir,51.5777344,-0.1454834
 park,Larkhall Park Community Garden,51.4748547,-0.1306437
 park,,51.5591647,0.0782985
 park,,51.5564589,0.071446
+cafe,Alnuur,51.5448187,0.0370199
 park,,51.550001,-0.2392343
 cafe,Badu Cafe,51.5445617,-0.0214054
 gym,The Hogarth Health Club,51.4918986,-0.2489808
@@ -8378,9 +8432,9 @@ park,,51.5129594,-0.0123291
 gym,Chiswick New Pool,51.4818633,-0.2549408
 park,,51.5367074,-0.074612
 cafe,,51.4953663,-0.1250178
+cafe,Euro Cafe,51.457228,0.0114384
 park,Boundary Gardens,51.526044,-0.0749011
 supermarket,Lidl,51.5242974,-0.1373422
-cafe,Joe & The Juice,51.5141615,-0.1392127
 cafe,The Wagon Wanstead,51.5800979,0.0237276
 gym,Target Fit,51.5798828,0.0241395
 park,,51.5341012,0.0745626
@@ -8405,17 +8459,18 @@ park,New River Path West Bank,51.5851492,-0.1082162
 cafe,Rosy Lea Cafe,51.4598558,-0.2117262
 park,,51.4764618,-0.0229958
 supermarket,Maryland Supermarket,51.5463257,0.0052436
-cafe,Galesti,51.5465742,0.0058847
+cafe,Magazin Románesc Maestro,51.5465742,0.0058847
 supermarket,Euromix,51.5481249,0.0053701
 park,The Glade,51.5717286,0.0679383
 cafe,Retro Cafe,51.4806696,-0.2127445
 cafe,Mehmet's Cafe,51.4537922,-0.1847309
 cafe,Sem's Cafe,51.4653484,-0.1001736
 cafe,Riverside Cafe,51.519122,-0.001929
+pharmacy,Lords Pharmacy,51.4564738,0.0111545
+cafe,The Quiet Cup,51.4578813,0.0110318
 cafe,Peckish Parrot Café,51.5338448,-0.1534514
 park,Linear Park,51.516119,0.0066467
 park,Clayton Gardens,51.5125967,-0.24814
-park,Pearl and Mizanur’s Memorial Garden,51.5112854,-0.057084
 starbucks,Starbucks,51.4566881,-0.1932278
 gym,Gymnasium,51.4567142,-0.1935943
 gym,Fernford Clubs,51.572722,0.0589567
@@ -8437,14 +8492,14 @@ supermarket,Co-op Food,51.552413,-0.141351
 cafe,,51.4805646,-0.0047098
 park,Mallon Gardens,51.5166577,-0.0726695
 cafe,Oliver's,51.5168666,-0.073284
-park,Purcell Crescent Open Space,51.4823385,-0.2152476
+park,Purcell Crescent Open Space,51.4823372,-0.2152643
 cafe,Colicci,51.5063085,-0.1420589
 cafe,Colicci,51.5028284,-0.1411452
 cafe,Sky Cafe,51.5696812,-0.0388068
 park,,51.5021395,-0.2692264
 park,,51.4905811,-0.0487216
 park,Bromyard Gardens,51.5069206,-0.2510797
-cafe,The Hut by The Heath,51.5554767,-0.1498352
+cafe,The Hut by The Heath,51.5554778,-0.1498345
 gym,Temple Bowling Club,51.4607762,-0.0946487
 park,,51.5304948,0.0180088
 park,,51.507385,0.0733121
@@ -8459,7 +8514,7 @@ cafe,Old Cottage Coffee Shop,51.4816654,0.0404619
 park,,51.5183181,-0.2587437
 park,Falkland Place Open Space,51.5516835,-0.1405344
 cafe,Central Cafe Coffee Shop,51.5419979,0.0016537
-cafe,Bana Grocery & Cafe,51.5421328,0.0010683
+cafe,Bana Cafe,51.5421328,0.0010683
 cafe,Ethiopian & Eritrean Coffee Shop,51.5420853,0.0003807
 cafe,Mango Twist,51.5421033,0.0005003
 cafe,Bana Cafe,51.5420641,0.0260811
@@ -8477,8 +8532,6 @@ park,,51.5425049,-0.2260064
 park,St Marys Open Space,51.5400681,-0.2505692
 supermarket,Lidl,51.5483032,0.0247266
 gym,ZENW2,51.5475021,-0.2239533
-cafe,Hiya Boba,51.4937775,-0.1766705
-cafe,Trevi,51.4938138,-0.1767063
 cafe,Chapter Coffee Co.,51.4920041,-0.2070373
 park,,51.5155619,0.0124755
 cafe,No. 23,51.5687384,0.0093295
@@ -8588,7 +8641,6 @@ gym,Re-Core Pilates,51.5319699,-0.0423001
 gym,West Ham United Foundation Community Hub,51.5190345,0.0575763
 gym,Black Prince Community Hub,51.4917513,-0.1155739
 gym,,51.4620035,-0.2674074
-park,Tyburn Quay,51.5055105,-0.1224662
 cafe,Café Ciel,51.5054679,-0.1257055
 park,,51.4876915,-0.0856941
 gym,Woolwich Waves,51.489492,0.0686215
@@ -8619,9 +8671,17 @@ park,,51.4782167,-0.2488268
 park,,51.5092912,-0.0811716
 cafe,Bad Coffee,51.5812322,0.0211379
 gym,Francis Drake Bowls Club,51.4621059,-0.0242196
+pharmacy,Akro Pharmacy,51.5427955,0.0371635
+gym,Deuce Tennis Centre,51.5783249,-0.2002112
+gym,Parliament Hill Bowling Club,51.5600175,-0.1512545
+gym,,51.4749532,0.038636
+gym,Coles Green Lawn Tennis Club,51.5635032,-0.2312734
+gym,Reformer Pilates,51.5622065,-0.1262305
+cafe,Queen's Cafe,51.5211811,-0.1219618
+supermarket,Waitrose,51.5577949,-0.215791
 park,Warwick Gardens,51.4694957,-0.0757688
 park,Clapham Common,51.4581026,-0.1502973
-park,The Regent's Park,51.5301451,-0.1553995
+park,The Regent's Park,51.5301451,-0.1555546
 park,Russia Dock Woodland,51.5007623,-0.0388587
 park,Portlands,51.5467141,-0.0117634
 park,Mile End Park,51.5231644,-0.0361394
@@ -8630,7 +8690,7 @@ park,Queen Elizabeth Olympic Park,51.5450402,-0.0150579
 park,Hampstead Road Open Space,51.5301769,-0.1393214
 park,Wandsworth Common,51.4517195,-0.1713231
 park,Blackheath,51.4720675,0.0022916
-park,Stoke Newington Common,51.5614735,-0.0697128
+park,Stoke Newington Common,51.5614678,-0.0696997
 park,Brockwell Park,51.4505405,-0.1068653
 park,Peckham Rye Common,51.4610517,-0.0609757
 park,Peckham Rye Park,51.4563899,-0.0597985
@@ -8715,3 +8775,6 @@ park,Barnard Park,51.537203,-0.1129016
 park,Petherton Green,51.5529463,-0.0905709
 park,Cardinal Place Roof Gaeden,51.4978341,-0.14117
 park,,51.5363944,-0.1494315
+park,Eel Brook Common,51.4764142,-0.1949981
+park,Hampstead Heath,51.5671541,-0.1698264
+park,Gladstone Park,51.5577312,-0.2352763
